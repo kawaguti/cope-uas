@@ -1,15 +1,52 @@
-Into the Watercourse Way: An agile story
+= Into the Watercourse Way: An agile story
 (水流の方法に — 敏捷についての物語)
 James O Coplien
 
 ム
 
 
-This is a history of my love affair with Japan. I was asked to write an “agile story,” and though my Japanese experiences have led me on a path through patterns, architecture, DCI, and Scrum, many of the same people accompanied me through each of these lands on my Japanese journey. Each of these world views builds on the same principles that we have come to recognize as “agile.” And each of these world views arguably has its roots in Japan.
+#@# This is a history of my love affair with Japan. 
+#@# I was asked to write an “agile story,” 
+#@#   and though my Japanese experiences 
+#@#     have led me on a path through 
+#@#       patterns, architecture, DCI, and Scrum, 
+#@#       many of the same people accompanied me 
+#@#         through each of these lands on my Japanese journey. 
+#@# Each of these world views builds on the same principles that we have come to recognize as “agile.” 
+#@# And each of these world views arguably has its roots in Japan.
 
-Japan has helped me integrate the grand notions not only of design and form, but of the greater world models of our place as individuals in the world of work. Unbeknownst to most Westerners, Scrum and patterns trace their origins explicitly to Eastern thought in general and to Japan in particular. For me, my early investment in the Japanese worldview make this more than an intellectual journey, but a personal, spiritual journey as well. This is my story about that journey, about these principles, and about the people who took my hand along the way.
+これは私の日本への恋愛遍歴だ。
+私は「アジャイルストーリー」を書かないかと誘われた。
+しかし、私の日本の各地への旅は、パターン、アーキテクチャ、DCI、スクラム、同様にたくさんの人々とともにあった。
+これらの世界観はどれも、私たちが「アジャイル」と認識するようになったものと同様の原則の上に成り立っている。
+そして、どれもほぼ間違いなく日本をその源流としている。
 
-Of course, I am not Japanese. I cannot, and do not, speak with authority of Japanese culture in this story. I still hope my perspective can be a gifts to the Japanese people: a mirror which inspires hope and energy in their agile journey.
+#@# Japan has helped me integrate the grand notions not only of design and form, 
+#@#   but of the greater world models of our place as individuals in the world of work. 
+#@#  to most Westerners, Scrum and patterns 
+#@#   trace their origins explicitly to Eastern thought in general and to Japan in particular. 
+#@# For me, my early investment in the Japanese worldview 
+#@#   make this more than an intellectual journey, but a personal, spiritual journey as well. 
+#@# This is my story about that journey, about these principles, 
+#@#   and about the people who took my hand along the way.
+
+日本はデザインと形に関する概念全体をまとめる過程で手掛かりとなっただけでなく、
+世界全体の営みにおいて、私たち個人のいる場所を考えるより大きな世界のモデルを作ることも助けてくれた。
+多くの西洋人は理解していないが、スクラムとパターンは明らかに東洋的な、特に日本の考え方が源流にある。
+私は日本人の持つ世界観に早くから着目していたので、
+私の旅は知的であるばかりでなく、個人的でスピリチュアルな旅になった。
+この文書は私の旅について書いたものだ。その原則と、旅の途中で私の手を取り導いてくれた人々について書いた。
+
+
+#@# Of course, I am not Japanese. 
+#@# I cannot, and do not, speak with authority of Japanese culture in this story. 
+#@# I still hope my perspective can be a gifts to the Japanese people: 
+#@#   a mirror which inspires hope and energy in their agile journey.
+
+もちろん私は日本人ではない。
+日本文化の権威としてこのストーリーを語ることはできないし、するつもりもない。
+しかし私の視点が日本の人々への贈り物になることを願っている。
+日本の人々自身のアジャイルへの旅路に希望と活力を与える鏡になることを、願っている。
 
 
 Early Roots
