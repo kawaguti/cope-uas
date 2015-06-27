@@ -2,7 +2,7 @@
 #@# (水流の方法に — 敏捷についての物語)
 #@# James O Coplien
 
-= 水が流れる方向に向かって : あるアジャイルストーリー (Into the Watercourse Way: An agile story)
+= 水が流れる方向へ : あるアジャイルストーリー (Into the Watercourse Way: An agile story)
 ジェームズ・O・コプリエン (James O Coplien)
 
 ム
