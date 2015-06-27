@@ -124,8 +124,38 @@ James O Coplien
 これらはそれほど多くのことを伝えてくれたわけではないかもしれない。
 しかし、それから私が日本文化を理解していく過程の第一歩に、これらが導いてくれたのだ。
 
+#@# Japanese ideas would indirectly infiltrate my technology world in 1993 
+#@#   through Christopher Alexander’s ideals of pattern-based design. 
+#@# Patterns may seem a funny place to start my story, 
+#@#   but they are probably one of the most prominent foundations of what we call “agile” today. 
+#@# Christopher Alexander was espousing iterative development, 
+#@#   a pattern at a time, long before it became popular in software. 
+#@# His “piecemeal growth” approach to growing systems 
+#@#   foreshadows incremental development in our field. 
+#@# But most importantly, 
+#@#   Alexander focuses on a spirituality far deeper than 
+#@#     that of our ordinary technology-based approaches. 
+#@# This is, and should be, the epitome of what “agile” means 
+#@#   — “Individuals and interactions over processes and tools.” 
+#@# Unfortunately, patterns have too often been hijacked into the worlds of tools and method. 
+#@# This story will not be about those.
 
-Japanese ideas would indirectly infiltrate my technology world in 1993 through Christopher Alexander’s ideals of pattern-based design. Patterns may seem a funny place to start my story, but they are probably one of the most prominent foundations of what we call “agile” today. Christopher Alexander was espousing iterative development, a pattern at a time, long before it became popular in software. His “piecemeal growth” approach to growing systems foreshadows incremental development in our field. But most importantly, Alexander focuses on a spirituality far deeper than that of our ordinary technology-based approaches. This is, and should be, the epitome of what “agile” means — “Individuals and interactions over processes and tools.” Unfortunately, patterns have too often been hijacked into the worlds of tools and method. This story will not be about those.
+日本的な考え方が私の技術的領域に、間接的だがはじめて侵入してきたのは1993年のことだった。
+クリストファー・アレグザンダー(Christopher Alexander)のパターンベース設計の思想を通じて、それはやってきた。
+パターンは私のアジャイルストーリーを語り始めるには、ちょっとおかしな場所に見えるかもしれない。
+しかしパターンこそが、私たちが「アジャイル」と呼んでいるものの、最も重要な基盤を形成するものの一つであろう。
+クリストファー・アレグザンダーはイテレーティブな開発を信奉していた。
+いちどに一つのパターン。これがソフトウェアがの世界で有名になるまでに長い時間がかかった。
+彼が「漸進的成長(piecemeal growth”)」のアプローチでシステムを成長させるやり方は、
+私たちの分野でインクリメンタル(漸進的)な開発につながる予兆であった。
+しかし最も重要なことは、アレグザンダーが注目していたのが、
+私たちが通常用いてきたテクノロジーを基盤とするアプローチと全く異なる、
+きわめて深い精神性であったことだ。
+それゆえに、「アジャイル」とはなんであるかを一言で言うならば、
+「プロセスやツールよりも、個人とその相互作用を」になる。そうなるべきなのだ。
+残念ながら、パターンはツールとメソッドにたびたびハイジャックされてきた。
+ここに書いているストーリーにはそうした出来事は含めない。
+
 
 Alexander’s views on form and design would have an enormous influence on the software world. Peter Naur took note of Alexander’s potential links to software in 1968 and Peter Coad mentioned him in 1991 and again in 1992, but software people first started coming together around Alexander’s concept of patterns and pattern languages in 1993. I would first immerse myself in the works of Christopher Alexander in that year, and the famous meeting on the Hillside in Colorado took place that August. The group met again in California in April 1994 and we planned the first PLoP. The inaugural PLoP in August of 1994 was a socially powerful event full of celebration, idealism, and an ethic of perfection and kaizen mind. Eighty people came together in Allerton Park, Illinois, and something great had begun.
 
