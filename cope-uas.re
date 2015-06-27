@@ -180,7 +180,19 @@ James O Coplien
 お祝いムードと、理想主義と、完璧を目指す倫理観と改善マインドに満ちていた。
 80人がイリノイ州アラートンパーク(Allerton Park)に集まり、なにかものすごいことが始まった。
 
-Historically, the founders of agile came from pattern roots. Alistair Cockburn, Kent Beck, Ward Cunningham were the agile people with fingers in industry. The patterns folks in academia and in research labs — Ralph Johnson, John Vlissides, for example — didn’t become as visible in the agile discipline. 
+#@# Historically, the founders of agile came from pattern roots. 
+#@# Alistair Cockburn, Kent Beck, Ward Cunningham were the agile people with fingers in industry. 
+#@# The patterns folks in academia and in research labs
+#@#   — Ralph Johnson, John Vlissides, for example — 
+#@#   didn’t become as visible in the agile discipline. 
+
+歴史的にみると、アジャイルを作った人達は、パターンを源流としている。
+アリスター・コバーン(Alistair Cockburn)、ケント・ベック(Kent Beck)、
+ウォード・カニンガム(Ward Cunningham)はアジャイルの業界で五本指に入る人々だった。
+パターンの仲間たちは、学術界や研究所にもいた。
+たとえば、ラルフ・ジョンソン(Ralph Johnson)やジョン・ブリサイズ(John Vlissides)といった人々だ。
+だが、アジャイル原則で、彼らの名前をみることはなかった。
+
  My interest in patterns and Japan together isn’t incidental. When I first met Christopher Alexander face-to-face in 1996 I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. He responded, “Well, yes: isn’t it obvious?” And through what my Japanese friends taught me, I would take several steps forward toward understanding these links more deeply. One of the Do Kyo cues from Alexander’s writing was his use of the phrase “The Quality Without a Name.” In Japanese they call it “無名の質.” To the European ear, “無” sounds like “ム”. This “ム” would become a recurring playmate in my Japanese journey.
 
 By the mid-1990s time the software pattern culture was in full swing. The Gang of Four book, which was a fledgling attempt to grasp some of the more superficial aspects of patterns, appeared in print in 1995. By January 1998 Hillside had lost its identity and had started to implode. I could see the toll that Western culture would take on Alexander’s ideas.
