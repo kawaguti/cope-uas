@@ -230,8 +230,18 @@ James O Coplien
 1998年1月までに、ヒルサイドはその存在意義を失い、内部崩壊が始まっていた。
 アレグザンダーの考え方に、西洋の文化が被害を与えているのが、私には見て取れた。
 
-But Japan caught the wave early. Japan aggressively translated English-language pattern works into Japanese. A GoF version was available by 1999, retaining English-language pattern names. Fowler’s Analysis Patterns (English version 1997), the POSA book (English version, 1996). 
-As seems to be a common trait in Japanese culture, they showed hunger for novelty from outside their own country.
+#@# But Japan caught the wave early. 
+#@# Japan aggressively translated English-language pattern works into Japanese. 
+#@# A GoF version was available by 1999, retaining English-language pattern names. 
+#@# Fowler’s Analysis Patterns (English version 1997), the POSA book (English version, 1996). 
+#@# As seems to be a common trait in Japanese culture,
+#@#   they showed hunger for novelty from outside their own country.
+
+しかし、日本はこの波に素早く乗っていた。
+日本では英語で書かれたパターンが積極的に日本語に翻訳されていた。
+ギャングオブフォー(GoF)版の翻訳が1999年に出版され、そこでは英語のパターン名がそのまま保持されていた。
+ファウラーのアナリシスパターン(英語版は1997年)、POSA本(英語版は1996年)も訳された(訳注: POSAはPattern-Oriented Software Architecture)。
+これは日本文化に共通の特徴だと思われるが、彼らは国外からもたらされる目新しいものに飢えていたようだ。
 
 There had already been a JapanPLoP in 1998. Masao Tomono was one of the main organizers together with Terunobu Fujino, Tatsuo Kato, and others. Much of the literary focus of Japanese software pattern writing would measure itself against the very early English-language pattern works that were being translated into Japanese. (Tomono et al, On the way to establishing a jPLoP community, APSEC '99 Proceedings of the Sixth Asia Pacific Software Engineering, IEEE, 1999). Few of these works had any of the deep Alexandrian ideas in them let alone any sign of the even deeper Japanese roots. The Japanese pattern community, then, would not quickly discover itself in its pattern writing, but seemed rather to acclimate to the Western style.
 
