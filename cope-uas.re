@@ -217,8 +217,18 @@ James O Coplien
 ヨーロッパ人の耳には「無」は「ム」と同じように聞こえる。
 私は日本への旅のあいだに、この「ム」にたびたび出会うことになる。
 
+#@# By the mid-1990s time the software pattern culture was in full swing. 
+#@# The Gang of Four book, 
+#@#   which was a fledgling attempt to grasp some of the more superficial aspects of patterns, 
+#@#   appeared in print in 1995. 
+#@# By January 1998 Hillside had lost its identity and had started to implode. 
+#@# I could see the toll that Western culture would take on Alexander’s ideas.
 
-By the mid-1990s time the software pattern culture was in full swing. The Gang of Four book, which was a fledgling attempt to grasp some of the more superficial aspects of patterns, appeared in print in 1995. By January 1998 Hillside had lost its identity and had started to implode. I could see the toll that Western culture would take on Alexander’s ideas.
+1990年代の中盤までに、ソフトウェアパターンの文化は急展開をみせた。
+ギャング・オブ・フォー(The Gang of Four)による本が1995年に出版された。
+この本は、パターンのより表面的な見方にすぎず、まだ未熟ではあったが。
+1998年1月までに、ヒルサイドはその存在意義を失い、内部崩壊が始まっていた。
+アレグザンダーの考え方に、西洋の文化が被害を与えているのが、私には見て取れた。
 
 But Japan caught the wave early. Japan aggressively translated English-language pattern works into Japanese. A GoF version was available by 1999, retaining English-language pattern names. Fowler’s Analysis Patterns (English version 1997), the POSA book (English version, 1996). 
 As seems to be a common trait in Japanese culture, they showed hunger for novelty from outside their own country.
