@@ -386,7 +386,8 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 日本におけるデザインについて学ぶ私の旅路にとって、この体験は重要な礎になった。
 
 
-Patterns
+#@# == Patterns
+== パターン
 
 In August of 2000 the Japanese contingent made a strong contribution to the PLoP conference in Allerton Park, Illinois. I had met Noriko just a few weeks earlier at PLoP in Allerton Park and had come to know her a bit through her efforts to translate my Multi-Paradigm book.  At the end of that month I set of for an extensive journey in Japan, which featured several days touring the temples in Nara and Kyoto. We spent three days and visited five temples. It was my first time staying in a Ryokan, which I shared with Fujino-san, Kanazawa-san and Mari Sakurai-san. It was on this trip that I renewed my acquaintance with Terunobu Fujino and became better acquainted with Noriko Kanazawa. It was good to meet Mari-san, who was also working on the translation, face-to-face. It was also the first face-to-face meeting between me and Kenji Hiranabe-san, and I enjoyed better getting to know him on this trip.
 
