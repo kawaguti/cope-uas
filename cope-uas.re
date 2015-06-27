@@ -392,7 +392,36 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 #@# == Patterns
 == パターン (Patterns)
 
-In August of 2000 the Japanese contingent made a strong contribution to the PLoP conference in Allerton Park, Illinois. I had met Noriko just a few weeks earlier at PLoP in Allerton Park and had come to know her a bit through her efforts to translate my Multi-Paradigm book.  At the end of that month I set of for an extensive journey in Japan, which featured several days touring the temples in Nara and Kyoto. We spent three days and visited five temples. It was my first time staying in a Ryokan, which I shared with Fujino-san, Kanazawa-san and Mari Sakurai-san. It was on this trip that I renewed my acquaintance with Terunobu Fujino and became better acquainted with Noriko Kanazawa. It was good to meet Mari-san, who was also working on the translation, face-to-face. It was also the first face-to-face meeting between me and Kenji Hiranabe-san, and I enjoyed better getting to know him on this trip.
+#@# In August of 2000 the Japanese contingent made a strong contribution 
+#@#   to the PLoP conference in Allerton Park, Illinois. 
+#@# I had met Noriko just a few weeks earlier at PLoP in Allerton Park 
+#@#   and had come to know her a bit through her efforts to translate my Multi-Paradigm book.  
+#@# At the end of that month I set of for an extensive journey in Japan, 
+#@#   which featured several days touring the temples in Nara and Kyoto. 
+#@# We spent three days and visited five temples. 
+#@# It was my first time staying in a Ryokan, 
+#@#   which I shared with Fujino-san, Kanazawa-san and Mari Sakurai-san. 
+#@# It was on this trip that I renewed my acquaintance with Terunobu Fujino 
+#@#   and became better acquainted with Noriko Kanazawa. 
+#@# It was good to meet Mari-san, who was also working on the translation, face-to-face. 
+#@# It was also the first face-to-face meeting between me and Kenji Hiranabe-san, 
+#@#   and I enjoyed better getting to know him on this trip.
+
+2000年の8月には、日本の代表団がイリノイ州アラートンパークで行われた、
+PLoPカンファレンスで大きな貢献をした。
+私はノリコ(訳注: 金澤典子さん)とそのかんファレンスの数週前に会ったばかりだった。
+そのとき、私のマルチパラダイム本の翻訳に関して彼女が貢献してくれたことを少し聞いた。
+その月の終わりには日本での旅程に観光を追加し、
+数日かけて奈良と京都のお寺を回った。
+私たちは３日かけて５つのお寺を巡った。
+藤野さん、金澤さん、そして桜井麻里(Mari Sakurai)さんと一緒に、
+初めて旅館に宿泊した。
+この旅で、藤野晃延さんと改めて対面し、
+金澤典子さんとより近しい関係になった。
+麻里さん出会ったのはありがたかった。彼女も対面の通訳を仕事にしていた。
+またここで初めて平鍋健児(Kenji Hiranabe)さんと初めて対面し、
+彼についてもっとよく知ることができ、楽しかった。
+
 
 The temples provided an opportunity to seek parallels between the practices and mores of the built world and those of software. On this visit I was wearing my pattern hat, but was seeking more parallels to software architecture than to process or organization. I would not be disappointed. One sharp memory from that trip was that the first thing the carpenters built was their own tools, perhaps as we should in software. The tools that others create for us too often are only an awkward fit to the task at hand. I found other intriguing practices: the temples that they tear down and rebuild every 20 years at 内宮 and 外宮 (this is the natural principle of 侘寂 — why don’t we rebuild programs from scratch every few years?); and the loose coupling between stories of the towers to allow them to safely rattle against each other in an earthquake instead of reinforcing each other to topple the tower (loose coupling in software makes it robust). But perhaps more striking were the conceptual links between the outlook of these temple-builders and of software-builders. Temples are among the least utilitarian of buildings, yet enjoy the highest level of architectural attentiveness, or at least of architectural ceremony. Video games are perhaps the least utilitarian software products but perhaps enjoy the best design. Houses — which must be architecturally functional and which support the most basic of Maslow needs — rarely enjoy more than a commoditized beauty. It recalls the mundaneness, and sometimes outright ugliness, of most mission-critical business software.
 
