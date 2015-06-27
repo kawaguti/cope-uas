@@ -103,8 +103,27 @@ James O Coplien
 これらすべては、私の何年にもわたる日本でのパターン体験のなかでも、再展開(unfold)されることになる。
 そして日本でのアジャイルの再展開においても実を結ぶことになるのだ。
 
+#@# I met my greatest sensei, Chris Skelly, in the early 1990s; 
+#@# he was a long-time student of Sufiism and Buddhism, and both an Aikidoki and a C++ expert. 
+#@# About the same time, 
+#@#   my son Christopher’s interest in the culture of Japanese video games and Manga 
+#@#   lured me into learning more about those aspects of Japanese life. 
+#@# Partly in response to this calling, I took up Aikido in the mid-1990s. 
+#@# By then I had probably invested more in understanding Japanese culture 
+#@#   than the average American had. 
+#@# Maybe that’s not saying much. 
+#@# But these introductions provided first steps toward my understanding of Japanese culture.
 
-I met my greatest sensei, Chris Skelly, in the early 1990s; he was a long-time student of Sufiism and Buddhism, and both an Aikidoki and a C++ expert. About the same time, my son Christopher’s interest in the culture of Japanese video games and Manga lured me into learning more about those aspects of Japanese life. Partly in response to this calling, I took up Aikido in the mid-1990s. By then I had probably invested more in understanding Japanese culture than the average American had. Maybe that’s not saying much. But these introductions provided first steps toward my understanding of Japanese culture.
+私は最も偉大な先生に出会う。クリス・スケリー(Chris Skelly)だ。1990年代初めのことだ。
+彼はスーフィズム(訳注:イスラム教の神秘主義)と仏教を長いこと学んでいた。合気道とC++の達人でもあった。
+ほぼ同時期に、
+私の息子クリストファーの興味が日本のゲームと漫画文化に向いたため、
+私も日本人の生活を学ぶ方向に引き寄せられた。
+こうした引力への反応の一つとして、私は合気道を1990年代中盤に始めている。
+私は日本文化を理解することに関して、おそらく平均的なアメリカ人に比べれば多くの投資をしてきたのだろう。
+これらはそれほど多くのことを伝えてくれたわけではないかもしれない。
+しかし、それから私が日本文化を理解していく過程の第一歩に、これらが導いてくれたのだ。
+
 
 Japanese ideas would indirectly infiltrate my technology world in 1993 through Christopher Alexander’s ideals of pattern-based design. Patterns may seem a funny place to start my story, but they are probably one of the most prominent foundations of what we call “agile” today. Christopher Alexander was espousing iterative development, a pattern at a time, long before it became popular in software. His “piecemeal growth” approach to growing systems foreshadows incremental development in our field. But most importantly, Alexander focuses on a spirituality far deeper than that of our ordinary technology-based approaches. This is, and should be, the epitome of what “agile” means — “Individuals and interactions over processes and tools.” Unfortunately, patterns have too often been hijacked into the worlds of tools and method. This story will not be about those.
 
