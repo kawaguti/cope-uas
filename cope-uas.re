@@ -1,6 +1,9 @@
-= Into the Watercourse Way: An agile story
-(水流の方法に — 敏捷についての物語)
-James O Coplien
+#@# = Into the Watercourse Way: An agile story
+#@# (水流の方法に — 敏捷についての物語)
+#@# James O Coplien
+
+= 水が流れる方向に向かって : あるアジャイルストーリー (Into the Watercourse Way: An agile story)
+ジェームズ・O・コプリエン (James O Coplien)
 
 ム
 
@@ -50,7 +53,7 @@ James O Coplien
 
 
 #@# == Early Roots
-== 水源付近
+== 源流 (Early Roots)
 
 #@# My history with “Far East” ideology long predates my first visit to Japan. 
 #@# In the 1980s my Bell Labs office mate — and, in most respects, my first Sensei — Tom Burrows, 
@@ -315,7 +318,7 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 
 
 #@# == First Voyage
-== 最初の旅
+== 最初の旅 (First Voyage)
 
 #@# My first visit to Japan happened later that year in December 
 #@#   when my son Christopher and I together took our first travel to Japan. 
@@ -387,7 +390,7 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 
 
 #@# == Patterns
-== パターン
+== パターン (Patterns)
 
 In August of 2000 the Japanese contingent made a strong contribution to the PLoP conference in Allerton Park, Illinois. I had met Noriko just a few weeks earlier at PLoP in Allerton Park and had come to know her a bit through her efforts to translate my Multi-Paradigm book.  At the end of that month I set of for an extensive journey in Japan, which featured several days touring the temples in Nara and Kyoto. We spent three days and visited five temples. It was my first time staying in a Ryokan, which I shared with Fujino-san, Kanazawa-san and Mari Sakurai-san. It was on this trip that I renewed my acquaintance with Terunobu Fujino and became better acquainted with Noriko Kanazawa. It was good to meet Mari-san, who was also working on the translation, face-to-face. It was also the first face-to-face meeting between me and Kenji Hiranabe-san, and I enjoyed better getting to know him on this trip.
 
