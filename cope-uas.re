@@ -361,7 +361,17 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 日本の伝統的なものの価値観が静かに求められるようになっていた。
 アジャイルの種が成熟する時期に到っていたのだ。
 
-It was a memorable trip, including a visit to the Imperial Palace and a chance to catch a glance of the Emperor and his daughter, who was then with child — a child who was, at that time, expected to inherit the chrysanthemum throne — however, this would end in tragedy, as the child would not survive.
+#@# It was a memorable trip, 
+#@#   including a visit to the Imperial Palace and a chance to catch a glance of the Emperor 
+#@#   and his daughter, who was then with child 
+#@#   — a child who was, at that time, expected to inherit the chrysanthemum throne — 
+#@#   however, this would end in tragedy, as the child would not survive.
+
+この旅は心に残る旅だった。
+皇居を訪問して、天皇を一目見る機会があった。
+彼は娘と、さらにその子供を伴っていた。
+その子はその時、菊を模した玉座に座っているようだった。
+しかし、その後、不幸があり、その子供は亡くなったそうだ。
 
 On this trip Christopher and I took a kabuki tour and got to see a play with the famous Onnagata, Nakamura Shikan. The echoes of the shouts “Nakamura!” from the audience ring in my head to this day. It was my first exposure to the concept of 間 — a cornerstone of all that would be important in my journey of learning about design in Japan.
 
