@@ -243,7 +243,28 @@ James O Coplien
 ファウラーのアナリシスパターン(英語版は1997年)、POSA本(英語版は1996年)も訳された(訳注: POSAはPattern-Oriented Software Architecture)。
 これは日本文化に共通の特徴だと思われるが、彼らは国外からもたらされる目新しいものに飢えていたようだ。
 
-There had already been a JapanPLoP in 1998. Masao Tomono was one of the main organizers together with Terunobu Fujino, Tatsuo Kato, and others. Much of the literary focus of Japanese software pattern writing would measure itself against the very early English-language pattern works that were being translated into Japanese. (Tomono et al, On the way to establishing a jPLoP community, APSEC '99 Proceedings of the Sixth Asia Pacific Software Engineering, IEEE, 1999). Few of these works had any of the deep Alexandrian ideas in them let alone any sign of the even deeper Japanese roots. The Japanese pattern community, then, would not quickly discover itself in its pattern writing, but seemed rather to acclimate to the Western style.
+#@# There had already been a JapanPLoP in 1998. 
+#@# Masao Tomono was one of the main organizers 
+#@#   together with Terunobu Fujino, Tatsuo Kato, and others. 
+#@# Much of the literary focus of Japanese software pattern writing 
+#@#   would measure itself against the very early English-language pattern works 
+#@#     that were being translated into Japanese. 
+#@# (Tomono et al, On the way to establishing a jPLoP community, 
+#@#   APSEC '99 Proceedings of the Sixth Asia Pacific Software Engineering, IEEE, 1999). 
+#@# Few of these works had any of the deep Alexandrian ideas in them 
+#@#   let alone any sign of the even deeper Japanese roots. 
+#@# The Japanese pattern community, then, would not quickly discover itself in its pattern writing, 
+#@#   but seemed rather to acclimate to the Western style.
+
+すでにJapanPLoPは1998年に行われていた。
+友野晶夫が主なオーガナイザーの一人で、藤野晃延や加藤立朗といった人々と一緒に行っていた。
+最初期に英語版のパターンを翻訳したものに比べ、
+多くの文書が日本のソフトウェアパターンに着目して書かれたことが観測された(友野ほか、"On the way to establishing a jPLoP community", APSEC '99 Proceedings of the Sixth Asia Pacific Software Engineering, IEEE, 1999)。
+これらのうちの幾つかはアレグザンダーに基づく深い考え方を内包しており、
+これはすなわち日本がパターンの奥深くの源流であることを示すサインであろう。
+日本のパターンコミュニティはその後、彼らなりのパターンライティングの方法をすぐに発見するには至らず、
+西洋風のやり方に順応していったようにみえた。
+
 
 At OOPSLA 1999 I had a fortuitous meeting with Terunobu Fujino, who would become a close friend and great supporter of the pattern cause in Japan. This was three years after I had invited Christopher Alexander to OOPSLA, and in fact, my appearances at OOPSLA would become more and more rare until my return there in 2012. I was lucky to be able to attend in 1999 and to make some of my first meetings with the people from Japan who would play key roles in my support of the Japanese people.
 
