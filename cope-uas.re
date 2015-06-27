@@ -193,7 +193,30 @@ James O Coplien
 たとえば、ラルフ・ジョンソン(Ralph Johnson)やジョン・ブリサイズ(John Vlissides)といった人々だ。
 だが、アジャイル原則で、彼らの名前をみることはなかった。
 
- My interest in patterns and Japan together isn’t incidental. When I first met Christopher Alexander face-to-face in 1996 I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. He responded, “Well, yes: isn’t it obvious?” And through what my Japanese friends taught me, I would take several steps forward toward understanding these links more deeply. One of the Do Kyo cues from Alexander’s writing was his use of the phrase “The Quality Without a Name.” In Japanese they call it “無名の質.” To the European ear, “無” sounds like “ム”. This “ム” would become a recurring playmate in my Japanese journey.
+ #@# My interest in patterns and Japan together isn’t incidental. 
+ #@# When I first met Christopher Alexander face-to-face in 1996 
+ #@#   I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. 
+ #@# He responded, “Well, yes: isn’t it obvious?” 
+ #@# And through what my Japanese friends taught me, 
+ #@#   I would take several steps forward toward understanding these links more deeply. 
+ #@# One of the Do Kyo cues from Alexander’s writing was his use of the phrase 
+ #@#   “The Quality Without a Name.” 
+ #@# In Japanese they call it “無名の質.” 
+ #@# To the European ear, “無” sounds like “ム”. 
+ #@# This “ム” would become a recurring playmate in my Japanese journey.
+
+パターンと日本に対して私の興味が同時期に沸き起こったのは偶然ではない。
+1996年にはじめてクリストファー・アレグザンダーに直接会ったとき、
+私は「時を超えた建設の道(The Timeless Way of Building)」と道教(Do Kyo)の共振性(resonance)について尋ねた。
+彼はこう答えた。「うーん、そうだね。それは明らかにそうだよね？」
+そして私の友人たちが私に教えてくれるにつれ、
+私はその２つの間のつながりについて、さらに深い理解を持っていくことになる。
+アレグザンダーの著述から道教につながるヒントの一つが、
+彼が「The Quality Without a Name」という言葉を使っている点だ。
+日本語では「無名の質」と呼ばれる。
+ヨーロッパ人の耳には「無」は「ム」と同じように聞こえる。
+私は日本への旅のあいだに、この「ム」にたびたび出会うことになる。
+
 
 By the mid-1990s time the software pattern culture was in full swing. The Gang of Four book, which was a fledgling attempt to grasp some of the more superficial aspects of patterns, appeared in print in 1995. By January 1998 Hillside had lost its identity and had started to implode. I could see the toll that Western culture would take on Alexander’s ideas.
 
