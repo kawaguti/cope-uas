@@ -373,7 +373,18 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 その子はその時、菊を模した玉座に座っているようだった。
 しかし、その後、不幸があり、その子供は亡くなったそうだ。
 
-On this trip Christopher and I took a kabuki tour and got to see a play with the famous Onnagata, Nakamura Shikan. The echoes of the shouts “Nakamura!” from the audience ring in my head to this day. It was my first exposure to the concept of 間 — a cornerstone of all that would be important in my journey of learning about design in Japan.
+#@# On this trip Christopher and I took a kabuki tour 
+#@#   and got to see a play with the famous Onnagata, Nakamura Shikan. 
+#@# The echoes of the shouts “Nakamura!” from the audience ring in my head to this day. 
+#@# It was my first exposure to the concept of 間 
+#@#   — a cornerstone of all that would be important in my journey of learning about design in Japan.
+
+クリストファーと私は歌舞伎ツアーに参加し、
+有名な女形である中村芝翫(Nakamura Shikan)の演技を見た。
+観客たちの輪から「中村！」という叫びが木霊する様子が、一日中私の頭から離れなかった。
+それは、私が「間」の概念に触れる最初の機会だった。
+日本におけるデザインについて学ぶ私の旅路にとって、この体験は重要な礎になった。
+
 
 Patterns
 
