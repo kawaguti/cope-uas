@@ -305,10 +305,13 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 何十人も友人を持っているアメリカ人とは違い、デーン人(訳注: デンマーク人)は片手くらいしか持たない。
 この感覚でいうと、私の「友人」の多くは日本人だ。
 
+#@# Fujino-san also visited in November 1999 in Chicago. 
+#@# He and I didn’t get to spend much time together 
+#@#   but I believe he built relationships with other colleagues of mine.
 
-Fujino-san also visited in November 1999 in Chicago. 
-He and I didn’t get to spend much time together 
-  but I believe he built relationships with other colleagues of mine.
+藤野さんは、1999年11月にシカゴにも立ち寄っている。
+彼と私はそれほど長い時間をともに過ごしたわけではないが、
+彼は私の同僚たちとも関係を築いたと信じている。
 
 
 
