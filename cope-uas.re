@@ -79,9 +79,30 @@ James O Coplien
 私たちのプログラミング作業の多くの部分は、時間を空間に翻訳するようなメタファーを作る作業だった。
 (後に私が日本で理想的な「間」という考え方を愛することになるのは、ここで予言されていたともいえる。)
 もし私たちのプログラムで時間と空間をうまく扱うことができるなら、
-それは自然(な設計)が見つかり、美しくて調和的な結末を迎える道筋が見えたとういうことだ。
+それは自然(な設計)が見つかり、美しくて調和的な結末を迎える道筋が見えたということだ。
 
- These ideas were, of course, seeds of agile. Agile is all about time: about short intervals, about iteration, about cycles and episodes. But agile is also all about the relationships between people on the plane of the Earth: small teams, pair programming, and other spatial configurations. Agile is this time and space together. These basic building blocks, and the ideas about how to unite them, were already there in the programming Tom and I developed. They would unfold again in the years of my pattern experience in Japan. And they would come to their fruition in the unfolding of agile in Japan.
+#@# These ideas were, of course, seeds of agile. 
+#@# Agile is all about time: 
+#@#   about short intervals, about iteration, about cycles and episodes. 
+#@# But agile is also all about the relationships between people on the plane of the Earth: 
+#@#   small teams, pair programming, and other spatial configurations. 
+#@# Agile is this time and space together. 
+#@# These basic building blocks, 
+#@#   and the ideas about how to unite them, were already there in the programming Tom and I developed. 
+#@# They would unfold again in the years of my pattern experience in Japan. 
+#@# And they would come to their fruition in the unfolding of agile in Japan.
+
+こうした考え方は、もちろんアジャイルの種になった。
+アジャイルとは、まさに時間についての概念だ。
+短いインターバルのことで、イテレーションのことで、サイクルとエピソードのことだ。
+一方でアジャイルは人々と現実世界の間の関係性の概念でもある。
+小さなチーム、ペアプログラミング、その他の空間的な構成などがそれにあたる。
+アジャイルは時間と空間を共に扱うということだ。
+その基本的な構成要素と、
+それらをどうやって統合するかという考え方は、トムと私がそこですでに作り上げていた。
+これらすべては、私の何年にもわたる日本でのパターン体験のなかでも、再展開(unfold)されることになる。
+そして日本でのアジャイルの再展開においても実を結ぶことになるのだ。
+
 
 I met my greatest sensei, Chris Skelly, in the early 1990s; he was a long-time student of Sufiism and Buddhism, and both an Aikidoki and a C++ expert. About the same time, my son Christopher’s interest in the culture of Japanese video games and Manga lured me into learning more about those aspects of Japanese life. Partly in response to this calling, I took up Aikido in the mid-1990s. By then I had probably invested more in understanding Japanese culture than the average American had. Maybe that’s not saying much. But these introductions provided first steps toward my understanding of Japanese culture.
 
