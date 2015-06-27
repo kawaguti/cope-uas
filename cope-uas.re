@@ -49,9 +49,38 @@ James O Coplien
 日本の人々自身のアジャイルへの旅路に希望と活力を与える鏡になることを、願っている。
 
 
-Early Roots
+#@# == Early Roots
+== 水源付近
 
-My history with “Far East” ideology long predates my first visit to Japan. In the 1980s my Bell Labs office mate — and, in most respects, my first Sensei — Tom Burrows, got me interested in Buddhism and its integration with the way we think about programming. Tom had been adopting Buddhist ideas to his programming environment, called GIL. I became a big fan of this programming style in the 1980s and wrote many programs in the new languages Tom created. (One of the programs, which I would write in 1991, would be the basis for the research that would in turn inspire part of Scrum.) We programmed in a style we called “水流の方法” (in Kanji, “無為自然”): the same kind of effortlessness with which water “plans” its way down a mountain. Much of our programming was about creating metaphors that translated time into space — a view that presages my courtship with the Japanese ideal of “間.” If our programs allowed time and space to play well with each other, then nature — design — would find its way to a beautiful and harmonious ending.
+#@# My history with “Far East” ideology long predates my first visit to Japan. 
+#@# In the 1980s my Bell Labs office mate — and, in most respects, my first Sensei — Tom Burrows, 
+#@#   got me interested in Buddhism and its integration with the way we think about programming. 
+#@# Tom had been adopting Buddhist ideas to his programming environment, called GIL. 
+#@# I became a big fan of this programming style in the 1980s 
+#@#   and wrote many programs in the new languages Tom created. 
+#@# (One of the programs, which I would write in 1991, 
+#@#   would be the basis for the research that would in turn inspire part of Scrum.) 
+#@# We programmed in a style we called “水流の方法” (in Kanji, “無為自然”): 
+#@#   the same kind of effortlessness with which water “plans” its way down a mountain. 
+#@# Much of our programming was about creating metaphors that translated time into space 
+#@#   — a view that presages my courtship with the Japanese ideal of “間.” 
+#@# If our programs allowed time and space to play well with each other, 
+#@#   then nature — design — would find its way to a beautiful and harmonious ending.
+
+私が「極東」の考え方にはじめて触れたのは、はじめて日本を訪れるかなり以前のことだった。
+1980年代にベル研究所の同僚であり、多くの尊敬を込めて私の最初の先生(Sensei)と呼びたい
+トム・バロウズ(Tom Burrows)が、仏教の考え方をプログラミング環境に導入していた。それはGILと呼ばれていた。
+1980年代のうちに私はこの環境の大変なファンになり、
+トムが作った新しい言語で多くのプログラムを書いた。
+(そのうちの一つ、1991年に書いたものは、
+スクラムに影響を与える研究につながる基礎となった。)
+そのプログラミングスタイルを、私たちは「水流の方法」(漢字で書くと「無為自然」)と呼んでいた。
+水が山から流れ落ちる時にどのようなルートを通るかを「計画する」とき、無理なく自然に決まる、それと同じことだ。
+私たちのプログラミング作業の多くの部分は、時間を空間に翻訳するようなメタファーを作る作業だった。
+(後に私が日本で理想的な「間」という考え方を愛することになるのは、ここで予言されていたともいえる。)
+もし私たちのプログラムで時間と空間をうまく扱うことができるなら、
+それは自然(な設計)が見つかり、美しくて調和的な結末を迎える道筋が見えたとういうことだ。
+
  These ideas were, of course, seeds of agile. Agile is all about time: about short intervals, about iteration, about cycles and episodes. But agile is also all about the relationships between people on the plane of the Earth: small teams, pair programming, and other spatial configurations. Agile is this time and space together. These basic building blocks, and the ideas about how to unite them, were already there in the programming Tom and I developed. They would unfold again in the years of my pattern experience in Japan. And they would come to their fruition in the unfolding of agile in Japan.
 
 I met my greatest sensei, Chris Skelly, in the early 1990s; he was a long-time student of Sufiism and Buddhism, and both an Aikidoki and a C++ expert. About the same time, my son Christopher’s interest in the culture of Japanese video games and Manga lured me into learning more about those aspects of Japanese life. Partly in response to this calling, I took up Aikido in the mid-1990s. By then I had probably invested more in understanding Japanese culture than the average American had. Maybe that’s not saying much. But these introductions provided first steps toward my understanding of Japanese culture.
