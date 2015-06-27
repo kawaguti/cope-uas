@@ -265,12 +265,51 @@ James O Coplien
 日本のパターンコミュニティはその後、彼らなりのパターンライティングの方法をすぐに発見するには至らず、
 西洋風のやり方に順応していったようにみえた。
 
+#@# At OOPSLA 1999 I had a fortuitous meeting with Terunobu Fujino, 
+#@#   who would become a close friend and great supporter of the pattern cause in Japan. 
+#@# This was three years after I had invited Christopher Alexander to OOPSLA,
+#@#   and in fact, my appearances at OOPSLA would become more and more rare 
+#@#     until my return there in 2012. 
+#@# I was lucky to be able to attend in 1999 
+#@#   and to make some of my first meetings with the people from Japan 
+#@#   who would play key roles in my support of the Japanese people.
 
-At OOPSLA 1999 I had a fortuitous meeting with Terunobu Fujino, who would become a close friend and great supporter of the pattern cause in Japan. This was three years after I had invited Christopher Alexander to OOPSLA, and in fact, my appearances at OOPSLA would become more and more rare until my return there in 2012. I was lucky to be able to attend in 1999 and to make some of my first meetings with the people from Japan who would play key roles in my support of the Japanese people.
+OOPSLA 1999で、私は思いがけず藤野晃延と出会い、
+彼とは親しい友人になった。彼は日本でのパターンの大きな支援者になった。
+これはOOPSLAにクリストファー・アレグザンダーを招いた３年後のことであり、
+実は私がOOPSLAに足を運ぶことはどんどんと珍しいことになっていた時期であった。
+OOPSLAに私が戻ってくるのは2012年のことだ。
+1999年に参加したのは幸運なことだった。
+そして、日本からきた人々とはじめて出会い、
+彼らは、日本の人々に向けて私が協力をするにあたって鍵となる役割を担うことになった。
 
-Terry would show up again at PLoP in August 1999, and then again in 2000. On the way to Illinois from Japan he and his team would stop in Oregon and visit the site of Alexander’s “Oregon Experiment,” where they found the patterns still very much alive then. His colleagues would be with him. PLoP 2000 would be my first meeting with Yoichi Hasegawa-san and with Noriko Kanazawa-san, with whom I would develop a close friendship and working relationships. “Friend” has a very special meaning in Danish: unlike Americans, who have dozens of friends, Danes have just a handful. In this sense I think that most of my “friends” are Japanese.
+#@# Terry would show up again at PLoP in August 1999, and then again in 2000. 
+#@# On the way to Illinois from Japan he and his team would stop in Oregon 
+#@#   and visit the site of Alexander’s “Oregon Experiment,” 
+#@#     where they found the patterns still very much alive then. 
+#@# His colleagues would be with him. 
+#@# PLoP 2000 would be my first meeting with Yoichi Hasegawa-san and with Noriko Kanazawa-san, 
+#@#   with whom I would develop a close friendship and working relationships. 
+#@# “Friend” has a very special meaning in Danish: 
+#@#   unlike Americans, who have dozens of friends, Danes have just a handful. 
+#@# In this sense I think that most of my “friends” are Japanese.
 
-Fujino-san also visited in November 1999 in Chicago. He and I didn’t get to spend much time together but I believe he built relationships with other colleagues of mine.
+テリー(訳注: 藤野さん)は1999年8月のPLoPに再び現れ、2000年にも参加した。
+イリノイから日本への帰り道に、彼のチームはオレゴンに立ち寄った。
+アレグザンダーの「オレゴン大学の実験(Oregon Experiment)」の場所を見に行ったのだ。
+そこにはまだパターンがたくさん息づいている。
+彼の同僚もそれに付き合った。
+PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会った。
+彼らとは親しい友人になり、仕事上の関係を築いた。
+デンマーク語では「友人」とはとても特別な意味を持つ。
+何十人も友人を持っているアメリカ人とは違い、デーン人(訳注: デンマーク人)は片手くらいしか持たない。
+この感覚でいうと、私の「友人」の多くは日本人だ。
+
+
+Fujino-san also visited in November 1999 in Chicago. 
+He and I didn’t get to spend much time together 
+  but I believe he built relationships with other colleagues of mine.
+
 
 
 First Voyage
