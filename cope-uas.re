@@ -156,8 +156,29 @@ James O Coplien
 残念ながら、パターンはツールとメソッドにたびたびハイジャックされてきた。
 ここに書いているストーリーにはそうした出来事は含めない。
 
+#@# Alexander’s views on form and design would have an enormous influence on the software world. 
+#@# Peter Naur took note of Alexander’s potential links to software in 1968 
+#@#   and Peter Coad mentioned him in 1991 and again in 1992, 
+#@#   but software people first started coming together 
+#@#     around Alexander’s concept of patterns and pattern languages in 1993. 
+#@# I would first immerse myself in the works of Christopher Alexander in that year, 
+#@#   and the famous meeting on the Hillside in Colorado took place that August. 
+#@# The group met again in California in April 1994 and we planned the first PLoP. 
+#@# The inaugural PLoP in August of 1994 was a socially powerful event 
+#@#   full of celebration, idealism, and an ethic of perfection and kaizen mind. 
+#@# Eighty people came together in Allerton Park, Illinois, and something great had begun.
 
-Alexander’s views on form and design would have an enormous influence on the software world. Peter Naur took note of Alexander’s potential links to software in 1968 and Peter Coad mentioned him in 1991 and again in 1992, but software people first started coming together around Alexander’s concept of patterns and pattern languages in 1993. I would first immerse myself in the works of Christopher Alexander in that year, and the famous meeting on the Hillside in Colorado took place that August. The group met again in California in April 1994 and we planned the first PLoP. The inaugural PLoP in August of 1994 was a socially powerful event full of celebration, idealism, and an ethic of perfection and kaizen mind. Eighty people came together in Allerton Park, Illinois, and something great had begun.
+形とデザインに関するアレグザンダーの考え方は、ソフトウェアの世界に計り知れないほどの影響を与えてきた。
+ピーター・ナウアー(Peter Naur)は、アレグザンダーとソフトウェアの潜在的な関連性について1968年にメモを残している。
+ピーター・コード(Peter Coad)は1991年と1992年にそのことについて言及した。
+ソフトウェア界の人々がアレグザンダーのパターンとパターンランゲージのコンセプトについて
+集まって話すことを始めたのは1993年のことだ。
+その年に、私がはじめてクリストファー・アレグザンダーの業績に熱中することになり、
+８月にコロラド州のヒルサイド(HillSide)での有名な会合が行われる。
+そのグループに属する人々は再び1994年8月にカリフォルニアに集まり、最初のPLoPを企画した。
+1994年の8月にはじめて開催されたPLoPは、社会的に影響力のあるイベントになり、
+お祝いムードと、理想主義と、完璧を目指す倫理観と改善マインドに満ちていた。
+80人がイリノイ州アラートンパーク(Allerton Park)に集まり、なにかものすごいことが始まった。
 
 Historically, the founders of agile came from pattern roots. Alistair Cockburn, Kent Beck, Ward Cunningham were the agile people with fingers in industry. The patterns folks in academia and in research labs — Ralph Johnson, John Vlissides, for example — didn’t become as visible in the agile discipline. 
  My interest in patterns and Japan together isn’t incidental. When I first met Christopher Alexander face-to-face in 1996 I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. He responded, “Well, yes: isn’t it obvious?” And through what my Japanese friends taught me, I would take several steps forward toward understanding these links more deeply. One of the Do Kyo cues from Alexander’s writing was his use of the phrase “The Quality Without a Name.” In Japanese they call it “無名の質.” To the European ear, “無” sounds like “ム”. This “ム” would become a recurring playmate in my Japanese journey.
