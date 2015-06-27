@@ -314,10 +314,52 @@ PLoP2000では、長谷川洋一さんと金澤典子さんにはじめて出会
 彼は私の同僚たちとも関係を築いたと信じている。
 
 
+#@# == First Voyage
+== 最初の旅
 
-First Voyage
+#@# My first visit to Japan happened later that year in December 
+#@#   when my son Christopher and I together took our first travel to Japan. 
+#@# I went to Japan partly because its culture had already shaped me through my reading, 
+#@#   but also because of my fascination with an exotic culture. 
+#@# I was introduced to Japanese business during a lackluster period in its economic development. 
+#@# Japan had seen powerful and prosperous decades in the 1970s and 1980s, 
+#@#   but the stock market crash in 1989 left a more subdued economy afterwards. 
+#@# The decade in the wake of the crash were called 失われた10年, 
+#@#   and there is debate about whether they should have been called 失われた20年, 
+#@#   as broader international economic malaise set it. 
+#@# Japan groaned through annoying 
+#@#   increases in unemployment 
+#@#   and reductions in disposable income 
+#@#     formerly spent on expensive whiskies and fancy cars. 
+#@# At the corporate level, companies like Toyota and Sony 
+#@#   were facing renewed competition from overseas. 
+#@# Secure lifetime employment became a thing of the past. 
+#@# Perhaps with this humbling of the Japanese economy 
+#@#   came a loss of faith in certainty, 
+#@#     some dampening of the increasingly Western economic and cultural spirit, 
+#@#     and an unspoken yearning for the life values of the classic Japanese way. 
+#@# It was a time ripe for the seeds of agile.
 
-My first visit to Japan happened later that year in December when my son Christopher and I together took our first travel to Japan. I went to Japan partly because its culture had already shaped me through my reading, but also because of my fascination with an exotic culture. I was introduced to Japanese business during a lackluster period in its economic development. Japan had seen powerful and prosperous decades in the 1970s and 1980s, but the stock market crash in 1989 left a more subdued economy afterwards. The decade in the wake of the crash were called 失われた10年, and there is debate about whether they should have been called 失われた20年, as broader international economic malaise set it. Japan groaned through annoying increases in unemployment and reductions in disposable income formerly spent on expensive whiskies and fancy cars. At the corporate level, companies like Toyota and Sony were facing renewed competition from overseas. Secure lifetime employment became a thing of the past. Perhaps with this humbling of the Japanese economy came a loss of faith in certainty, some dampening of the increasingly Western economic and cultural spirit, and an unspoken yearning for the life values of the classic Japanese way. It was a time ripe for the seeds of agile.
+私がはじめて日本を訪れたのはその年の12月のことだった。
+息子のクリストファー(Christopher)と私は、共に日本への最初の旅に出た。
+私が日本に行ったのは、読書を通じてその文化をすでに知っていたからだが、
+エキゾチックな文化に心惹かれたというのもその理由の一つだった。
+私は、経済情勢が精彩を欠いている時期に日本の産業界に紹介された。
+1970年代から80年代にかけての日本は力強く好調な20年間を過ごした。
+しかし1989年に株式市場が暴落してからは、より控えめな経済が残った。
+株式市場の暴落から始まった10年間は失われた10年と呼ばれてきたが、
+失われた20年と呼ぶべきではないかという議論が起きている。
+より広範な世界経済の低迷が起きたからだ。
+日本は失業率の上昇と可処分所得の減少という軋みが音を立てていた。
+以前なら高額なウイスキーや高級車にお金を使えたのに、可処分所得は減少してしまった。
+企業レベルでは、トヨタやソニーといった企業が
+海外との新たな競争に直面していた。
+安全な終身雇用は過去のものとなった。
+だがおそらく、日本経済がそのようにつつましくなることで、
+確実さ(certainty)への信仰が失われ、
+増大してきた西洋型の経済や文化的態度を抑止し、
+日本の伝統的なものの価値観が静かに求められるようになっていた。
+アジャイルの種が成熟する時期に到っていたのだ。
 
 It was a memorable trip, including a visit to the Imperial Palace and a chance to catch a glance of the Emperor and his daughter, who was then with child — a child who was, at that time, expected to inherit the chrysanthemum throne — however, this would end in tragedy, as the child would not survive.
 
