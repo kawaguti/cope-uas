@@ -514,7 +514,7 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 そのいい例だと語った。
 その講演では、生成についても語っている。
 道教の要素とパターンの間の、より広い関連性についての話だ。
-思い起こせば、あれはアレグザンダーが数年の後に「世界システムB」と呼んだものを、
+思い起こせば、あれはアレグザンダーが数年の後に「世界システムB(World System B)」と呼んだものを、
 明確に指し示していたのではないかと思う。
 
 This trip led me to reflect openly with the conference audience about whither Japanese culture. In a talk entitled East meets West I related that I had heard of Japanese respect for authority, about their teamwork, and about respect for experience. All of these aligned well with my work over the preceding few years on the multi-paradigm design book, which would be translated into Japanese by Kenji Hiranabe, Eiiti Hanyuda, and Noriko Kanazawa and published in December of 2000. (My Ph.D. thesis on this topic was published the same year, and the Japanese version of this book was able to build on the Ph.D results and relate more advanced features than the English language version of the book!) Terry Fujino had a large hand in this effort as well, though he was not properly one of the translators. Kenji-san and Noriko-san took great care to translate some of the deepest recognitions of my soul into Japanese words, and some of these remain a secret that the three of us share to this day.
