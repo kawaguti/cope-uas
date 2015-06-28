@@ -695,7 +695,20 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 およそ10年にわたる仕事の成果をもとに、そこで急速に形づくられ、
 それから3年後に出版されることになった。
 
-It was also my first time to Takayama — a very spiritual time for me, seeing the temples there and eating the special food — mainly miso-based — in the temple restaurants. That journey, and the deep personal connections of those days, will linger in my heart in eternity, beyond death and time. I gave myself to Japanese culture and did not want to leave it behind. As a token of this powerful visit I visited a Japanese sword-smith and had a katana made for myself.
+#@# It was also my first time to Takayama — a very spiritual time for me, 
+#@#   seeing the temples there and eating the special food — mainly miso-based — 
+#@#   in the temple restaurants. 
+#@# That journey, and the deep personal connections of those days, 
+#@#   will linger in my heart in eternity, beyond death and time. 
+#@# I gave myself to Japanese culture and did not want to leave it behind. 
+#@# As a token of this powerful visit I visited a Japanese sword-smith and had a katana made for myself.
+
+初めて高山に訪れたのもこのときだった。とてもスピリチュアルな時間だった。
+お寺を見て、お寺のレストランで、特別な料理を食べる。主に味噌ベースの料理だった。
+この旅で、深い個人的なつながりを持ったことは、
+私の心の中に永遠に残るだろう。死すらも時間すらも越えて。
+私は日本文化にこの身を捧げ、もう離れたくないと思った。
+ここに訪れたことを形に残すため、日本の刀匠を訪れ、刀を打ってもらったのだ。
 
 On return from my trip Hasegawa-san would take much time to try to explain 間 to me. I had again attended a Kabuki play on this trip, which provided illustrations of the concept. I eventually found it easy to relate 間 to concepts I knew from Aikido. Soon, its message for design would become more clear. Hasegawa-san was typical of the people with whom I was making close connections in Japan, who had found themselves challenged to dig into their own past. Terunobu Fujino put it well: “[We must] re-consider not only cultural/spiritual
 difference between east and west but also how much right now we Japanese are ignorant in classic traditions of our own culture, such as Bushido and some sacred mind influenced deeply by the mixture of ancient India and Chinese way of thinking.”
