@@ -478,9 +478,9 @@ PLoPカンファレンスで大きな貢献をした。
 家というものは、アーキテクチャで機能を担保され、
 マズローにおける欲求の最も基礎的な部分を供給するものだ。
 しかし一方で、家が、美しさにおいて普通以上であることはまずない。
-それは、俗世を思い起こさせた。
-時にそれは全く醜いものだ。
-多くのミッションクリティカルなビジネスソフトウェアなどは。
+また、俗世的な、
+時に全くもって醜い、
+多くのミッションクリティカルなビジネスソフトウェアのことも想起させる。
 
 #@# At the OO2K conference I gave a keynote and a pattern tutorial. 
 #@# In these talks I related the story that Christopher Alexander had told me 
