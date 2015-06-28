@@ -557,8 +557,17 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 日本におけるパターン、ひいては、アジャイルが日本で成長するための、下地となる仕事であった。
 桜井麻理さんは、OOPSLA 96 に私がアレグザンダーを招いた際の基調講演を翻訳してくれた。
 
+#@# Kanazawa-san would become a very close friend and, 
+#@#   over the ensuing years, would fill my heart with insights into Japanese culture and language. 
+#@# She not only knew Japanese well, 
+#@#   but the deeper “spirit” of the words and their relationship to English language words. 
+#@# She could take me to depths of understanding the Japanese people like few others could.
 
-Kanazawa-san would become a very close friend and, over the ensuing years, would fill my heart with insights into Japanese culture and language. She not only knew Japanese well, but the deeper “spirit” of the words and their relationship to English language words. She could take me to depths of understanding the Japanese people like few others could.
+金澤さんは最も親しい友人になった。
+それから数年にわたって、日本文化と言語に関する私の洞察について、私の心を満たしてくれた。
+彼女は日本人を知っているだけでなく、
+言葉の持つ、より深い「魂」と、英語における言葉との関係について、よく知っていた。
+彼女のおかげで、私は日本人についての理解を深めることができた。同じような深みに至った人は多くはないだろう。
 
 What I learned from the patterns experience was that the Japanese people I met really had a heart for people. Maybe it is that all Japanese know this more than all Europeans, or maybe there was just something special about the people I met. But there was clearly a deep symbiosis between the pattern ideas in my heart and the yearnings of my Japanese friends. Yoichi Hasegawa-san wrote to me in December of 2000 about having discovered patterns, and said, “I think this is my way.” It is something he felt he had long been looking for. I would often see glimpses of Japanese people finding lost cultural treasures within themselves through these ideas — lost, perhaps, with the creeping Westernization of Japan, or perhaps lost with the waning of the Bushi. The hope to build on this connection energized me. Kanazawa-san and I would often reflect on this 気. It was a concept that we would often explore but, unfortunately, my words here will never be able to fully explain.
 
