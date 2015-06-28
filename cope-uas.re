@@ -614,8 +614,42 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 ノーム・カース(Norm Kerth)、ユッタ・エクシュタイン(Jutta Eckstein)、ディルク・リール(Dirk Riehle)
 の３名あてに、手紙を書いている。
 
-As another twist, I've decided that the PLoPs can kind of take care of themselves and that there is greater leverage in starting new PLoPs.  I feel like I've had to fight the Hillside establishment every step of the way to do this, but we've gotten KoalaPLoP up and running, and SugarLoafPLoP is now in our sights.  The one I'm most excited about is MensorePLoP, because I think the greatest hope for patterns lies with the Japanese. I've been able to work with the Japanese at fairly high levels in their IT structures and across a broad community there, and it's wonderful. Like politics, most patterns seem to be local, and I think the best way to grow the world community is through more local communities. Local PLoPs and topic-specific PLoPs seem the way to do this. Of course, there are the local pattern groups, too, but it's more difficult for them to attain critical mass.
- 
+#@# //quote{
+#@# As another twist, 
+#@#   I've decided that the PLoPs can kind of take care of themselves 
+#@#   and that there is greater leverage in starting new PLoPs.  
+#@# I feel like I've had to fight the Hillside establishment every step of the way to do this, 
+#@#   but we've gotten KoalaPLoP up and running, and SugarLoafPLoP is now in our sights.  
+#@# The one I'm most excited about is MensorePLoP, 
+#@#   because I think the greatest hope for patterns lies with the Japanese. 
+#@# I've been able to work with the Japanese at fairly high levels 
+#@#   in their IT structures and across a broad community there, 
+#@#   and it's wonderful. 
+#@# Like politics, most patterns seem to be local, 
+#@#   and I think the best way to grow the world community is through more local communities. 
+#@# Local PLoPs and topic-specific PLoPs seem the way to do this. 
+#@# Of course, there are the local pattern groups, too, 
+#@#   but it's more difficult for them to attain critical mass.
+#@# //}
+
+//quote{
+もう一つ、
+それぞれのPLoPは自分たちの手で進めてもらえるようにすることに決めた。
+新しいPLoPを立ち上げて、より大きなレバレッジを効かせる(訳注: 小さな力で大きなものを動かす梃子の原理)。
+私はヒルサイドを設立するための一歩一歩を戦う必要があったけれど、
+KoalaPLoPが設立されて動き、いまはSugarLoafPLoPも視野に入った。
+一番興奮しているのはMensorePLoPだ。
+パターンにおける最大の希望は、ここ日本にあると思っている。
+私は日本の人たちと、とても高いレベルで仕事をしてきた。
+IT業界の構造や、ここにある広範なコミュニティとだ。
+それはとても素晴らしいものだった。
+政治がそうであるように、多くのパターンもまた地域のものだと思う。
+世界のコミュニティを育てていくための一番の方法は、もっと地域のコミュニティを育てることだ。
+ローカルPLoPや特定トピックのPLoPに、その道があると思う。
+もちろん、地域のパターングループもある。
+しかし、彼らがクリティカルマスを超えるのは、もっと難しい。
+//}
+
 
 From patterns towards Agile
 
