@@ -679,7 +679,21 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 注意深く刈られた庭木に、まばらに隠された景観。
 空から雪が優しく降る中、私たちはお風呂とプールの間を、裸で歩いた。
 
-On a technical note, the topics of the visit had evolved from my previous pattern work to the organizational patterns that had continued to evolve over recent years. This was 2001, and the organizational patterns had been in development for about 8 years already. The book that Neil and I had written, based on about a decade of work, was rapidly taking shape, and would be published three years hence.
+#@# On a technical note, 
+#@#   the topics of the visit had evolved from my previous pattern work 
+#@#     to the organizational patterns that had continued to evolve over recent years. 
+#@# This was 2001, and the organizational patterns had been in development for about 8 years already. 
+#@# The book that Neil and I had written, 
+#@#   based on about a decade of work, was rapidly taking shape, 
+#@#   and would be published three years hence.
+
+少し補足すると、
+この日本訪問は、私の以前からのパターンの仕事を、
+組織パターンへと継続的に進化させるという数年来の仕事が目的であった。
+この年は、2001年。組織パターンはすでに8年かかって進められていた。
+ニールと私によるその本は、
+およそ10年にわたる仕事の成果をもとに、そこで急速に形づくられ、
+それから3年後に出版されることになった。
 
 It was also my first time to Takayama — a very spiritual time for me, seeing the temples there and eating the special food — mainly miso-based — in the temple restaurants. That journey, and the deep personal connections of those days, will linger in my heart in eternity, beyond death and time. I gave myself to Japanese culture and did not want to leave it behind. As a token of this powerful visit I visited a Japanese sword-smith and had a katana made for myself.
 
