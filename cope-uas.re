@@ -655,7 +655,29 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 
 == パターンからアジャイルへ
 
-I would be back to Japan again already in the following Spring — my first trip to Japan together with my good friend Neil Harrison. Again, my son Christopher accompanied me. We went together to a Kabuki play on March 26 which afforded us renewed discussions of 間 and other subtle trappings of Japanese culture — a play about the 47 Gishi. But one of the best parts of trip was a travel to the beautiful nature of Nikko. One of my strongest memories of Japan was an evening in a Japanese bath. The path from the baths to the natural pools followed a sequence of stones in the open outdoors, discretely hidden from view by carefully cultivated vegetation. Snow was gently falling from the sky  as we walked naked between the baths and the pools.
+#@# I would be back to Japan again already in the following Spring 
+#@#   — my first trip to Japan together with my good friend Neil Harrison. 
+#@# Again, my son Christopher accompanied me. 
+#@# We went together to a Kabuki play on March 26 which afforded us renewed discussions of 間 
+#@#   and other subtle trappings of Japanese culture 
+#@#     — a play about the 47 Gishi. 
+#@# But one of the best parts of trip was a travel to the beautiful nature of Nikko. 
+#@# One of my strongest memories of Japan was an evening in a Japanese bath. 
+#@# The path from the baths to the natural pools followed a sequence of stones in the open outdoors,
+#@#   discretely hidden from view by carefully cultivated vegetation. 
+#@# Snow was gently falling from the sky  as we walked naked between the baths and the pools.
+
+日本には次の春すぐに戻ることになった。
+良き友ニール・ハリソン(Neil Harrison)と一緒の初めての旅である。
+再び、息子クリストファーも同行した。
+3月26日に歌舞伎を見に行き、「間」の議論を深めることができた。
+日本文化が仕掛けたもう一つの巧妙な罠は、
+47義士の演劇にあった。
+この旅行で最高に良かったのは、日光の美しい自然であった。
+私にとって、特に強く印象に残る思い出は日本のお風呂に入った夜のことだ。
+そのお風呂から天然のプールまでは、屋外にある連石をたどっていく。
+注意深く刈られた庭木に、まばらに隠された景観。
+空から雪が優しく降る中、私たちはお風呂とプールの間を、裸で歩いた。
 
 On a technical note, the topics of the visit had evolved from my previous pattern work to the organizational patterns that had continued to evolve over recent years. This was 2001, and the organizational patterns had been in development for about 8 years already. The book that Neil and I had written, based on about a decade of work, was rapidly taking shape, and would be published three years hence.
 
