@@ -482,7 +482,40 @@ PLoPカンファレンスで大きな貢献をした。
 時にそれは全く醜いものだ。
 多くのミッションクリティカルなビジネスソフトウェアなどは。
 
-At the OO2K conference I gave a keynote and a pattern tutorial. In these talks I related the story that Christopher Alexander had told me about a night he had gone out drinking with the locals while working on the Eishin Gakuen project in Iruma-shi, Saitama prefecture. He met some foo shui masters at the bar, and he challenged them about where they should situate the gate for the school, as well as the kitchen. Surprisingly the foo shui masters situated these two constructions at exactly the place Alexander had painstakingly selected. Alexander had told me that if ever there was any evidence that something deeper than our senses was at work in design, that this was a good example. In my talk I also covered generativity, the broader relationship of patterns to elements of the Do Kyo, and in recollection made a rather explicit reference to what Alexander would several years later call “World System B.”
+#@# At the OO2K conference I gave a keynote and a pattern tutorial. 
+#@# In these talks I related the story that Christopher Alexander had told me 
+#@#   about a night he had gone out drinking with the locals 
+#@#   while working on the Eishin Gakuen project in Iruma-shi, Saitama prefecture. 
+#@# He met some foo shui masters at the bar, 
+#@#   and he challenged them about where they should situate the gate for the school, 
+#@#   as well as the kitchen. 
+#@# Surprisingly the foo shui masters situated these two constructions 
+#@#   at exactly the place Alexander had painstakingly selected. 
+#@# Alexander had told me that if ever there was any evidence 
+#@#   that something deeper than our senses was at work in design, 
+#@#   that this was a good example. 
+#@# In my talk I also covered generativity, 
+#@#   the broader relationship of patterns to elements of the Do Kyo, 
+#@#   and in recollection made a rather explicit reference to 
+#@#     what Alexander would several years later call “World System B.”
+
+OO2Kカンファレンスにおいて、私は基調講演とパターンのチュートリアルを行った。
+このときの講演で、
+私はクリストファー・アレグザンダーが語ってくれた、あるストーリーを話した。
+それは、埼玉県入間市にある盈進学園(Eishin Gakuen)プロジェクトの仕事をしているとき、
+現地の人々と飲みに行ったときのエピソードだ。
+バーで、どこかの寿司職人たちと出会った。
+彼らに、台所をどこに据えるべきか、そして、
+門をどこに置くべきか考えてみろ、と聞いてみた。
+驚くべきことに、寿司職人たちは、アレグザンダーが苦心して選んだのと全く同じ場所に
+その２つの施設を置いたのだ。
+アレグザンダーは私に、
+これがまさに、私たちが設計において持っている感覚より、もっと深いところに何かがある、
+そのいい例だと語った。
+その講演では、生成についても語っている。
+道教の要素とパターンの間の、より広い関連性についての話だ。
+思い起こせば、あれはアレグザンダーが数年の後に「世界システムB」と呼んだものを、
+明確に指し示していたのではないかと思う。
 
 This trip led me to reflect openly with the conference audience about whither Japanese culture. In a talk entitled East meets West I related that I had heard of Japanese respect for authority, about their teamwork, and about respect for experience. All of these aligned well with my work over the preceding few years on the multi-paradigm design book, which would be translated into Japanese by Kenji Hiranabe, Eiiti Hanyuda, and Noriko Kanazawa and published in December of 2000. (My Ph.D. thesis on this topic was published the same year, and the Japanese version of this book was able to build on the Ph.D results and relate more advanced features than the English language version of the book!) Terry Fujino had a large hand in this effort as well, though he was not properly one of the translators. Kenji-san and Noriko-san took great care to translate some of the deepest recognitions of my soul into Japanese words, and some of these remain a secret that the three of us share to this day.
 
