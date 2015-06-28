@@ -605,9 +605,9 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 気の概念は、私たちがしばしば探索したのだが、
 残念ながら、この文書において、私の言葉ですべてを説明することはできないだろう。
 
-I still held out hope for patterns at this juncture. 
-I would write a letter to Norm Kerth, Jutta Eckstein and Dirk Riehle 
-  in February, 2001:
+#@# I still held out hope for patterns at this juncture. 
+#@# I would write a letter to Norm Kerth, Jutta Eckstein and Dirk Riehle 
+#@#   in February, 2001:
 
 私はまだこの結節点におけるパターンに望みを持っている。
 2001年に、
