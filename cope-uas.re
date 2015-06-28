@@ -710,8 +710,30 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 私は日本文化にこの身を捧げ、もう離れたくないと思った。
 ここに訪れたことを形に残すため、日本の刀匠を訪れ、刀を打ってもらったのだ。
 
-On return from my trip Hasegawa-san would take much time to try to explain 間 to me. I had again attended a Kabuki play on this trip, which provided illustrations of the concept. I eventually found it easy to relate 間 to concepts I knew from Aikido. Soon, its message for design would become more clear. Hasegawa-san was typical of the people with whom I was making close connections in Japan, who had found themselves challenged to dig into their own past. Terunobu Fujino put it well: “[We must] re-consider not only cultural/spiritual
-difference between east and west but also how much right now we Japanese are ignorant in classic traditions of our own culture, such as Bushido and some sacred mind influenced deeply by the mixture of ancient India and Chinese way of thinking.”
+#@# On return from my trip Hasegawa-san would take much time to try to explain 間 to me. 
+#@# I had again attended a Kabuki play on this trip, 
+#@#   which provided illustrations of the concept. 
+#@# I eventually found it easy to relate 間 to concepts I knew from Aikido. 
+#@# Soon, its message for design would become more clear. 
+#@# Hasegawa-san was typical of the people with whom I was making close connections in Japan, 
+#@#   who had found themselves challenged to dig into their own past. 
+#@# Terunobu Fujino put it well: 
+#@#   “[We must] re-consider not only cultural/spiritual difference between east and west 
+#@#     but also how much right now we Japanese are ignorant in classic traditions of our own culture,
+#@#     such as Bushido and some sacred mind influenced deeply 
+#@#       by the mixture of ancient India and Chinese way of thinking.”
+
+この旅からの帰り道に、長谷川さんは私にたっぷりと時間をかけて「間」の概念の説明を試みてくれた。
+私は再び、間の概念の表現をあたえてくれる
+歌舞伎を見に行った。
+そしてついに間は私の知っている合気道の概念と容易に関連付けられることに気がついた。
+間のコンセプトが、デザインについてあたえてくれるメッセージが、より明確になってきた。
+長谷川さんは、日本で私が親密になった人々のなかでも典型的な人で、
+何か問われると、自分自身の過去を振り返って答えを探してくれる。
+この点は、藤野晃延がうまくまとめている。
+「(私たちは)東西の文化的精神的な差異についてだけ考え直すのではなく、
+　私たち自身の伝統的な文化について現在の私たちが忘れてしまっていること、
+　例えば武士道や、古代インドと中国の考え方が混在しつつ影響した宗教観などを考え直す(べきだ)。」
 
 I would go to Japan once more in this decade, in November 2001, to attend the MensorePLoP conference in Okinawa, hosted again by Terunobu Fujino. Terry would be a faithful patron of my work in Japan, a brilliant companion in conversation, and a great advocate and organizer for the proto-agile community. I went to the conference mainly to show support for the pattern community as well as to just enjoy being at the event. It was where I first met Hironori Washizaki-san; he and I would go on to do more work later. After the conference, returning to Tokyo, I continued on the pattern theme with talks on Pattern Languages and on the Nature of Order. Linda Rising had also been at MensorePLoP and gave some talks in the same forum where I presented back in Tokyo.
  Patterns were moving ever more in a human direction, both for me and for Japan. What had started as a novel way to document slightly unconventional technical solutions was finding new application in describing the organizational structures of the world of work. And a core set of people in Japan had started to see reflections of themselves in the works of Christopher Alexander, and his worldview of wholeness, of the natural processes of local adaptation of piecemeal growth, and of the place of feeling in design.
