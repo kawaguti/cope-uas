@@ -549,8 +549,14 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 いくつかの部分で私の魂を、深い部分で日本語に置き換えてくれた。
 いくつかの部分は、３人だけのあの日の秘密だ。
 
+#@# In fact, I owe a lot to the translation efforts of the day 
+#@#   for laying the groundwork that helped patterns and, ultimately, agile, grow in Japan. 
+#@# Mari Sakurai-san translated the keynote that  I invited Alexander to give at OOPSLA ’96.
 
-In fact, I owe a lot to the translation efforts of the day for laying the groundwork that helped patterns and, ultimately, agile, grow in Japan. Mari Sakurai-san translated the keynote that  I invited Alexander to give at OOPSLA ’96.
+実際、当時翻訳に傾けられた労力に、私は大きな借りがある。
+日本におけるパターン、ひいては、アジャイルが日本で成長するための、下地となる仕事であった。
+桜井麻理さんは、OOPSLA 96 に私がアレグザンダーを招いた際の基調講演を翻訳してくれた。
+
 
 Kanazawa-san would become a very close friend and, over the ensuing years, would fill my heart with insights into Japanese culture and language. She not only knew Japanese well, but the deeper “spirit” of the words and their relationship to English language words. She could take me to depths of understanding the Japanese people like few others could.
 
