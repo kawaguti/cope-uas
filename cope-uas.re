@@ -605,7 +605,14 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 気の概念は、私たちがしばしば探索したのだが、
 残念ながら、この文書において、私の言葉ですべてを説明することはできないだろう。
 
-I still held out hope for patterns at this juncture. I would write a letter to Norm Kerth, Jutta Eckstein and Dirk Riehle in February, 2001:
+I still held out hope for patterns at this juncture. 
+I would write a letter to Norm Kerth, Jutta Eckstein and Dirk Riehle 
+  in February, 2001:
+
+私はまだこの結節点におけるパターンに望みを持っている。
+2001年に、
+ノーム・カース(Norm Kerth)、ユッタ・エクシュタイン(Jutta Eckstein)、ディルク・リール(Dirk Riehle)
+の３名あてに、手紙を書いている。
 
 As another twist, I've decided that the PLoPs can kind of take care of themselves and that there is greater leverage in starting new PLoPs.  I feel like I've had to fight the Hillside establishment every step of the way to do this, but we've gotten KoalaPLoP up and running, and SugarLoafPLoP is now in our sights.  The one I'm most excited about is MensorePLoP, because I think the greatest hope for patterns lies with the Japanese. I've been able to work with the Japanese at fairly high levels in their IT structures and across a broad community there, and it's wonderful. Like politics, most patterns seem to be local, and I think the best way to grow the world community is through more local communities. Local PLoPs and topic-specific PLoPs seem the way to do this. Of course, there are the local pattern groups, too, but it's more difficult for them to attain critical mass.
  
