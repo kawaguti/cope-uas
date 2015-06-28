@@ -422,8 +422,65 @@ PLoPカンファレンスで大きな貢献をした。
 またここで初めて平鍋健児(Kenji Hiranabe)さんと初めて対面し、
 彼についてもっとよく知ることができ、楽しかった。
 
+#@# The temples provided an opportunity to seek parallels 
+#@#   between the practices and mores of the built world and those of software. 
+#@# On this visit I was wearing my pattern hat, 
+#@#   but was seeking more parallels to software architecture than to process or organization. 
+#@# I would not be disappointed. 
+#@# One sharp memory from that trip was that 
+#@#   the first thing the carpenters built was their own tools, perhaps as we should in software. 
+#@# The tools that others create for us too often are only an awkward fit to the task at hand. 
+#@# I found other intriguing practices: 
+#@#   the temples that they tear down and rebuild every 20 years at 内宮 and 外宮 
+#@#   (this is the natural principle of 侘寂 
+#@#     — why don’t we rebuild programs from scratch every few years?); 
+#@#   and the loose coupling between stories of the towers 
+#@#     to allow them to safely rattle against each other in an earthquake 
+#@#       instead of reinforcing each other to topple the tower 
+#@#     (loose coupling in software makes it robust). 
+#@# But perhaps more striking were the conceptual links 
+#@#   between the outlook of these temple-builders and of software-builders. 
+#@# Temples are among the least utilitarian of buildings, 
+#@#   yet enjoy the highest level of architectural attentiveness, 
+#@#   or at least of architectural ceremony. 
+#@# Video games are perhaps the least utilitarian software products 
+#@#   but perhaps enjoy the best design. 
+#@# Houses — which must be architecturally functional 
+#@#   and which support the most basic of Maslow needs — 
+#@#   rarely enjoy more than a commoditized beauty. 
+#@# It recalls the mundaneness, 
+#@#   and sometimes outright ugliness, of most mission-critical business software.
 
-The temples provided an opportunity to seek parallels between the practices and mores of the built world and those of software. On this visit I was wearing my pattern hat, but was seeking more parallels to software architecture than to process or organization. I would not be disappointed. One sharp memory from that trip was that the first thing the carpenters built was their own tools, perhaps as we should in software. The tools that others create for us too often are only an awkward fit to the task at hand. I found other intriguing practices: the temples that they tear down and rebuild every 20 years at 内宮 and 外宮 (this is the natural principle of 侘寂 — why don’t we rebuild programs from scratch every few years?); and the loose coupling between stories of the towers to allow them to safely rattle against each other in an earthquake instead of reinforcing each other to topple the tower (loose coupling in software makes it robust). But perhaps more striking were the conceptual links between the outlook of these temple-builders and of software-builders. Temples are among the least utilitarian of buildings, yet enjoy the highest level of architectural attentiveness, or at least of architectural ceremony. Video games are perhaps the least utilitarian software products but perhaps enjoy the best design. Houses — which must be architecturally functional and which support the most basic of Maslow needs — rarely enjoy more than a commoditized beauty. It recalls the mundaneness, and sometimes outright ugliness, of most mission-critical business software.
+プラクティス(訳注:技術や実践)、そこに構築された世界にあるプラクティス以外のもの、ソフトウェアにおいてそれは...。
+これらの関係性について、お寺は私に考える機会をくれた。
+このとき私は、私のパターンの帽子をかぶって(訳注: 組織パターンの著者として)行ったのだが、
+プロセスや組織よりもソフトウェアアーキテクチャとの関連性を強く見出した。
+残念には感じなかった。
+強く心に残っている記憶が一つある。
+お寺の大工たちは、自分たちで作った道具を使って作業をしていた。おそらくこれは私たちもソフトウェアでやるべきだ。
+他者が作ってくれるツールは、しばしば私たちの手作業に、それほど馴染まないことがある。
+もう一つ、興味深いプラクティスがあった。
+そのお寺(訳注: 伊勢神宮のこと)は、20年ごとに内宮と外宮を取り壊し、再構築する。
+(これは自然にある"侘び寂び"原理だ。
+私たちはなぜ数年ごとにスクラッチからソフトウェアを書き直すということをしないのだろう？)
+そして、塔の柱は疎結合で、緩やかにつながっている。
+これは地震の際にお互い安全に振動することができるようにだ。
+塔の倒壊を防ぐよう補強するのではなく。
+(ソフトウェアにおける疎結合は頑健性をもたらす。)
+しかし、もしかすると一番心に響いたのは、
+お寺の大工と、ソフトウェア開発者のあり方に、
+概念上の関係性を見出したことかもしれない。
+お寺というのは、最も実用的でない建物に属するだろう。
+しかし、最高級のアーキテクテャ上の配慮を行い、
+建築にかかわる儀式(architectural ceremony)を重視する。
+ビデオゲームはおそらく最も実用的でないソフトウェプロダクトだが、
+おそらく最高のデザインを持っている。
+家は、最も機能的なアーキテクチャを持っていなければならないし、
+マズローにおける欲求の最も基礎的な部分を供給するものだ。
+しかし一方で、家が、コモディティ化された美以上のものを持っていることは少ない。
+それは、俗世を思い起こさせた。
+時にそれは全く醜いものだ。
+多くのミッションクリティカルなビジネスソフトウェアなどは。
 
 At the OO2K conference I gave a keynote and a pattern tutorial. In these talks I related the story that Christopher Alexander had told me about a night he had gone out drinking with the locals while working on the Eishin Gakuen project in Iruma-shi, Saitama prefecture. He met some foo shui masters at the bar, and he challenged them about where they should situate the gate for the school, as well as the kitchen. Surprisingly the foo shui masters situated these two constructions at exactly the place Alexander had painstakingly selected. Alexander had told me that if ever there was any evidence that something deeper than our senses was at work in design, that this was a good example. In my talk I also covered generativity, the broader relationship of patterns to elements of the Do Kyo, and in recollection made a rather explicit reference to what Alexander would several years later call “World System B.”
 
