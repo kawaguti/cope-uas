@@ -517,7 +517,38 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 思い起こせば、あれはアレグザンダーが数年の後に「世界システムB(World System B)」と呼んだものを、
 明確に指し示していたのではないかと思う。
 
-This trip led me to reflect openly with the conference audience about whither Japanese culture. In a talk entitled East meets West I related that I had heard of Japanese respect for authority, about their teamwork, and about respect for experience. All of these aligned well with my work over the preceding few years on the multi-paradigm design book, which would be translated into Japanese by Kenji Hiranabe, Eiiti Hanyuda, and Noriko Kanazawa and published in December of 2000. (My Ph.D. thesis on this topic was published the same year, and the Japanese version of this book was able to build on the Ph.D results and relate more advanced features than the English language version of the book!) Terry Fujino had a large hand in this effort as well, though he was not properly one of the translators. Kenji-san and Noriko-san took great care to translate some of the deepest recognitions of my soul into Japanese words, and some of these remain a secret that the three of us share to this day.
+#@# This trip led me to reflect openly with the conference audience about whither Japanese culture. 
+#@# In a talk entitled East meets West 
+#@#   I related that I had heard of Japanese respect for authority,
+#@#     about their teamwork, and about respect for experience. 
+#@# All of these aligned well with my work 
+#@#   over the preceding few years on the multi-paradigm design book, 
+#@#   which would be translated into Japanese by Kenji Hiranabe, Eiiti Hanyuda, 
+#@#     and Noriko Kanazawa and published in December of 2000. 
+#@#   (My Ph.D. thesis on this topic was published the same year, 
+#@#     and the Japanese version of this book was able to build on the Ph.D results 
+#@#     and relate more advanced features than the English language version of the book!) 
+#@# Terry Fujino had a large hand in this effort as well, 
+#@#   though he was not properly one of the translators. 
+#@# Kenji-san and Noriko-san took great care to translate 
+#@#   some of the deepest recognitions of my soul into Japanese words, 
+#@#   and some of these remain a secret that the three of us share to this day.
+
+この旅のおかげで、その各所で得た日本文化に関して、カンファレンスの聴衆に共有できたのではないかと思う。
+私の講演は「East meets West」と題して、
+日本人が権威(authority)を敬うこと、日本人のチームワーク、そして、経験を尊重することについて話した。
+こうした事柄は、マルチパラダイムデザインの本を書くにあたって、
+数年前から行ってきた仕事の上にうまく整理された。
+この本は日本語にも訳された。平鍋健児、羽生田栄一、金澤典子の訳で、2000年12月に出版されている。
+(私のPh.D論文も、このトピックを扱って同年に提出しており、
+日本語版はそのPh.D論文の内容を踏まえて作ることができたため、
+英語版よりも一歩進んだ内容になっている！)
+テリー藤野はここでも大きな労力をかたむけてくれたが、
+翻訳者の一人としては記載されていない。
+健児さんと典子さんは、翻訳にあたって様々な配慮を行ってくれた。
+いくつかの部分で私の魂を、深い部分で日本語に置き換えてくれた。
+いくつかの部分は、３人だけのあの日の秘密だ。
+
 
 In fact, I owe a lot to the translation efforts of the day for laying the groundwork that helped patterns and, ultimately, agile, grow in Japan. Mari Sakurai-san translated the keynote that  I invited Alexander to give at OOPSLA ’96.
 
