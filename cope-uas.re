@@ -651,7 +651,9 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 //}
 
 
-From patterns towards Agile
+#@# == From patterns towards Agile
+
+== パターンからアジャイルへ
 
 I would be back to Japan again already in the following Spring — my first trip to Japan together with my good friend Neil Harrison. Again, my son Christopher accompanied me. We went together to a Kabuki play on March 26 which afforded us renewed discussions of 間 and other subtle trappings of Japanese culture — a play about the 47 Gishi. But one of the best parts of trip was a travel to the beautiful nature of Nikko. One of my strongest memories of Japan was an evening in a Japanese bath. The path from the baths to the natural pools followed a sequence of stones in the open outdoors, discretely hidden from view by carefully cultivated vegetation. Snow was gently falling from the sky  as we walked naked between the baths and the pools.
 
