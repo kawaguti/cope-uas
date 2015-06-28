@@ -569,9 +569,41 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 言葉の持つ、より深い「魂」と、英語における言葉との関係について、よく知っていた。
 彼女のおかげで、私は日本人についての理解を深めることができた。同じような深みに至った人は多くはないだろう。
 
-What I learned from the patterns experience was that the Japanese people I met really had a heart for people. Maybe it is that all Japanese know this more than all Europeans, or maybe there was just something special about the people I met. But there was clearly a deep symbiosis between the pattern ideas in my heart and the yearnings of my Japanese friends. Yoichi Hasegawa-san wrote to me in December of 2000 about having discovered patterns, and said, “I think this is my way.” It is something he felt he had long been looking for. I would often see glimpses of Japanese people finding lost cultural treasures within themselves through these ideas — lost, perhaps, with the creeping Westernization of Japan, or perhaps lost with the waning of the Bushi. The hope to build on this connection energized me. Kanazawa-san and I would often reflect on this 気. It was a concept that we would often explore but, unfortunately, my words here will never be able to fully explain.
+#@# What I learned from the patterns experience was that 
+#@#   the Japanese people I met really had a heart for people. 
+#@# Maybe it is that all Japanese know this more than all Europeans, 
+#@#   or maybe there was just something special about the people I met. 
+#@# But there was clearly a deep symbiosis 
+#@#   between the pattern ideas in my heart and the yearnings of my Japanese friends. 
+#@# Yoichi Hasegawa-san wrote to me in December of 2000 about having discovered patterns, 
+#@#   and said, “I think this is my way.” 
+#@# It is something he felt he had long been looking for. 
+#@# I would often see glimpses of Japanese people finding lost cultural treasures within themselves 
+#@#   through these ideas 
+#@#     — lost, perhaps, with the creeping Westernization of Japan, 
+#@#     or perhaps lost with the waning of the Bushi. 
+#@# The hope to build on this connection energized me. 
+#@# Kanazawa-san and I would often reflect on this 気. 
+#@# It was a concept that we would often explore but, 
+#@#   unfortunately, my words here will never be able to fully explain.
 
-
+私がこのパターン体験の中で学んだことは、
+私が出会った日本の人々は、人々を思いやる心を持っているということだった。
+すべての日本人がすべてのヨーロッパ人よりも、思いやりの心を理解しているのかもしれないし、
+私が偶然そういう特別な人々に出会っただけなのかもしれない。
+しかし、私の頭の中にあるパターンの考え方と、日本の友人たちからもらったものは、
+明らかに深い共生関係(deep symbiosis)がある。
+長谷川洋一さんは2000年12月に、発見したパターンについて私に書いて送ってくれた。
+そして「これは私のやり方だと思う」と言った。
+彼自身が長いこと探してきたものが、これだと感じたのだ。
+私はたびたび、日本の人々が自ら失ってしまった自身の文化的な財産を、
+パターンの考え方を通じて見つけ出すところを見てきた。
+失ったのは、日本に西洋化が侵食したからかもしれないし、
+武士が衰退したことに伴うものかもしれない。
+そこに関係性を構築することに対する希望は、私にエネルギーをくれた。
+金澤さんと私は、「気」についても意見を交換した。
+気の概念は、私たちがしばしば探索したのだが、
+残念ながら、この文書において、私の言葉ですべてを説明することはできないだろう。
 
 I still held out hope for patterns at this juncture. I would write a letter to Norm Kerth, Jutta Eckstein and Dirk Riehle in February, 2001:
 
