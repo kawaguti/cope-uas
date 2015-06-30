@@ -735,7 +735,35 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 　私たち自身の伝統的な文化について現在の私たちが忘れてしまっていること、
 　例えば武士道や、古代インドと中国の考え方が混在しつつ影響した宗教観などを考え直す(べきだ)。」
 
-I would go to Japan once more in this decade, in November 2001, to attend the MensorePLoP conference in Okinawa, hosted again by Terunobu Fujino. Terry would be a faithful patron of my work in Japan, a brilliant companion in conversation, and a great advocate and organizer for the proto-agile community. I went to the conference mainly to show support for the pattern community as well as to just enjoy being at the event. It was where I first met Hironori Washizaki-san; he and I would go on to do more work later. After the conference, returning to Tokyo, I continued on the pattern theme with talks on Pattern Languages and on the Nature of Order. Linda Rising had also been at MensorePLoP and gave some talks in the same forum where I presented back in Tokyo.
+#@# I would go to Japan once more in this decade, 
+#@#   in November 2001, to attend the MensorePLoP conference in Okinawa, 
+#@#   hosted again by Terunobu Fujino. 
+#@# Terry would be a faithful patron of my work in Japan, 
+#@#   a brilliant companion in conversation, 
+#@#   and a great advocate and organizer for the proto-agile community. 
+#@# I went to the conference mainly to show support for the pattern community 
+#@#   as well as to just enjoy being at the event. 
+#@# It was where I first met Hironori Washizaki-san; 
+#@#   he and I would go on to do more work later. 
+#@# After the conference, returning to Tokyo, 
+#@#   I continued on the pattern theme with talks on Pattern Languages and on the Nature of Order. 
+#@# Linda Rising had also been at MensorePLoP and gave some talks 
+#@#   in the same forum where I presented back in Tokyo.
+
+この時期(訳注: パターンの10年)には、もう一度日本に行く機会があった。
+2001年11月、藤野晃延の主催により沖縄で開催された MensolePLoP カンファレンスに参加するためだ。
+テリーは日本における私の活動の誠実なパトロン役を務めてくれた。
+会話の仲介役として素晴らしいサポートをしてくれたり、
+アジャイルの前身となるコミュニティのすぐれた擁護者であり、まとめ役であった。
+私は主にパターンコミュニティの支援のため、そのカンファレンスに足を運び、
+そして純粋にイベントを楽しんだ。
+そこで初めて鷲崎弘宜さんと出会っている。
+彼とは後にまた活動をともにすることになる。
+カンファレンスの後に、東京に戻り、
+引き続きパターンランゲージやネイチャーオブオーダーの講演を通じてパターンに関わる活動を行った。
+リンダ・ライジングもMensolePLoPを訪れ、
+東京に戻ってからも幾つかの講演を共にした。
+
  Patterns were moving ever more in a human direction, both for me and for Japan. What had started as a novel way to document slightly unconventional technical solutions was finding new application in describing the organizational structures of the world of work. And a core set of people in Japan had started to see reflections of themselves in the works of Christopher Alexander, and his worldview of wholeness, of the natural processes of local adaptation of piecemeal growth, and of the place of feeling in design.
 
 
