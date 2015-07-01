@@ -785,7 +785,8 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 
 
 
-Ten-Year Reflections at the Chasm
+#@# == Ten-Year Reflections at the Chasm
+== ここまでの10年(キャズム)をふりかえる 
 
 There was a nine-year hiatus before I would return to Japan, in January 2010. The Japanese economy was bad in the 1990s, and though it bounced back somewhat after 2000, the global financial crisis slowed Japan’s economy in the latter part of the decade.
 
