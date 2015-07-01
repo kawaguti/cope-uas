@@ -764,7 +764,25 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 リンダ・ライジングもMensolePLoPを訪れ、
 東京に戻ってからも幾つかの講演を共にした。
 
- Patterns were moving ever more in a human direction, both for me and for Japan. What had started as a novel way to document slightly unconventional technical solutions was finding new application in describing the organizational structures of the world of work. And a core set of people in Japan had started to see reflections of themselves in the works of Christopher Alexander, and his worldview of wholeness, of the natural processes of local adaptation of piecemeal growth, and of the place of feeling in design.
+ #@# Patterns were moving ever more in a human direction, 
+ #@#   both for me and for Japan. 
+ #@# What had started as a novel way to document slightly unconventional technical solutions 
+ #@#   was finding new application in describing the organizational structures of the world of work. 
+ #@# And a core set of people in Japan had started to see reflections of themselves 
+ #@#   in the works of Christopher Alexander, and his worldview of wholeness, 
+ #@#     of the natural processes of local adaptation of piecemeal growth, 
+ #@#       and of the place of feeling in design.
+
+パターンの活動は私と日本の両方で、さらに様々な方向に広がっていた。
+それまでになかった技術的な解決策を文書化する新しい方法としてはじまったが、
+さらに新しい適用方法が発見された。
+世界の仕事現場における組織構造を描き出すのだ。
+日本の活動の中心にいる人々は、クリストファー・アレグザンダーの業績と
+自分たち自身への関連性を見出した。
+全体性(wholeness)という世界観、
+漸進的成長(piecemeal growth)を各地域がしていくという自然のプロセス、
+設計において感覚をどのように扱うか、といった考え方である。
+
 
 
 Ten-Year Reflections at the Chasm
