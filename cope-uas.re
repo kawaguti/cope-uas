@@ -788,9 +788,41 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 #@# == Ten-Year Reflections at the Chasm
 == ここまでの10年(キャズム)をふりかえる 
 
-There was a nine-year hiatus before I would return to Japan, in January 2010. The Japanese economy was bad in the 1990s, and though it bounced back somewhat after 2000, the global financial crisis slowed Japan’s economy in the latter part of the decade.
+#@# There was a nine-year hiatus before I would return to Japan, in January 2010. 
+#@# The Japanese economy was bad in the 1990s, and though it bounced back somewhat after 2000, 
+#@#   the global financial crisis slowed Japan’s economy in the latter part of the decade.
 
-In mid-2009 two Japanese engineers stumbled across the notes from my “East Meets West” talk at OO2K. Their names were Eiiti Hanyuda-san and Hiroshi Nakano-sensei. At this time patterns had again become a hot topic in the Japanese software world. Excited, these two contacted my friend Kenji Hiranabe-san whom I had first met at that event in 2000. In Kenji-san wrote to me in late August 2009 to invite me to give a ten-year anniversary talk in Japan and Takeshi Kakeda-san followed up with a mail in September inviting me to Japan for a ten-year anniversary talk in December. Schedule conflicts caused the date to be pushed to the following month. Takeshi-san took over the arrangements for the event and, to increase my appetite for the visit, said that he would arrange a trip to the famous Eishin Gakuen which Christopher Alexander had built outside Tokyo between 1982 and 1989.
+2010年1月に日本を再び訪れるまで、9年の空白の時間があった。
+1990年代の日本経済は悪い状態だったが、2000年以降のある時点で回復していたように思う。
+2000年代の後半になると、世界的な経済危機が日本経済を減速させていた。
+
+#@# In mid-2009 two Japanese engineers stumbled across the notes from my “East Meets West” talk at OO2K.
+#@# Their names were Eiiti Hanyuda-san and Hiroshi Nakano-sensei. 
+#@# At this time patterns had again become a hot topic in the Japanese software world. 
+#@# Excited, 
+#@#   these two contacted my friend Kenji Hiranabe-san whom I had first met at that event in 2000. 
+#@# In Kenji-san wrote to me in late August 2009 to invite me 
+#@#   to give a ten-year anniversary talk in Japan 
+#@#     and Takeshi Kakeda-san followed up with a mail in September 
+#@#       inviting me to Japan for a ten-year anniversary talk in December. 
+#@# Schedule conflicts caused the date to be pushed to the following month. 
+#@# Takeshi-san took over the arrangements for the event and, 
+#@#   to increase my appetite for the visit, 
+#@#     said that he would arrange a trip to the famous Eishin Gakuen 
+#@#       which Christopher Alexander had built outside Tokyo between 1982 and 1989.
+
+2009年の中頃に、２人の日本人エンジニアが私がOO2Kカンファレンスで行った「East Meets West」の講演メモに出会った。
+羽生田栄一(Eiiti Hanyuda)さんと中埜博(Hiroshi Nakano)先生だ。
+その時パターンは再び日本のソフトウェア界でホットな話題となっていた。
+うれしいことに、
+彼ら二人は2000年のイベントで出会った平鍋健児さんに連絡をとってくれた。
+健児さんは2009年の8月終わりに、10周年記念の講演をするよう誘ってくれ、
+9月になって、懸田剛(Takeshi Kakeda)さんが12月にその講演をするよう招待してくれた。
+スケジュールが重なってしまっており、次の月に後ろ倒しになった。
+剛さんはそのイベントの手配を引き受けてくれ、
+さらに私が日本にもっと来たくなるよう、
+盈進学園への訪問を手配してくれた。
+盈進学園は、クリストファー・アレグザンダーが1982年から1989年の間に建設した東京近郊の建築物である。
 
 Also, in 2009, Waseda University announced their plans to host an AsianPLoP in March of 2010, billed as “the first Asian conference of Pattern Languages of Programs.” I found it odd that I had heard about it only third-hand, and found it odd that it was being called the “first” conference though there had already been one in 1998 and MensorePLoP in 2001, and found it strange that none of the organizers of either of those were involved in this one, and found it most strange that the venue was in academia. Indeed, much seemed to have changed in my absence. And this conference seemed to have official connections to the Hillside Group, which by then was running PLoPs that had little of the vision of us original founders. In any case, the pattern community seems to have split. Most of the pattern community would find out about my journey to Japan that would take place in the following December only after I was gone. It would be another year or two before Japan would awaken to the fact that patterns could tap deeply into their own culture, rather than just refine the Americanization of what were originally profound Japanese ideas.
 
