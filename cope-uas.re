@@ -928,7 +928,26 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 その後2008年と2011年にも再び訪れている。
 いつも、私たちの共通の友人である平鍋健児さんがホストしていた。
 
-Some of my books had been translated into Japanese and published in my absence. Some of the organizational patterns appeared in the 2004 collected work プログラムデザイン のためのパターン言語 edited by Ryuichi Hosoya and Yuko Nakayama. C++プログラミングの筋と定石 was translated by Amura-san, Ohtani-san and Sugihara-san, and a second translation was done by Michiaki Yasumura, Hiroshi Otani and Hara Shigeru and published by Pearson in 2009. And as this trip loomed, the translation of my Multi-Paradigm Design book into Japanese was nearing completion, and a book store wanted me to give an evening presentation on the topic — but I don’t think I was ever able to fit it into my schedule.
+#@# Some of my books had been translated into Japanese and published in my absence. 
+#@# Some of the organizational patterns appeared 
+#@#   in the 2004 collected work プログラムデザイン のためのパターン言語 
+#@#     edited by Ryuichi Hosoya and Yuko Nakayama. 
+#@# C++プログラミングの筋と定石 was translated by Amura-san, Ohtani-san and Sugihara-san, 
+#@#   and a second translation was done by Michiaki Yasumura, Hiroshi Otani and Hara Shigeru 
+#@#     and published by Pearson in 2009. 
+#@# And as this trip loomed, the translation of my Multi-Paradigm Design book into Japanese 
+#@#   was nearing completion, and a book store wanted me to give an evening presentation 
+#@#     on the topic — but I don’t think I was ever able to fit it into my schedule.
+
+私がいない間にも、私の本が幾つか日本語に訳されている。
+組織パターンのうちいくつかは、
+細谷竜一(Ryuichi Hosoya)と中山裕子(Yuko Nakayama)によって編集された
+『プログラムデザインのためのパターン言語』に掲載されている。
+安村通晃(Michiaki Yasumura)、大谷浩司(Hiroshi Otani)、渦原茂(Sugihara Shigeru)が、
+『C++プログラミングの筋と定石』を翻訳し、2009年にピアソン桐原(Pearson)から再刊されている。
+そしてこの旅で知ったのだが、マルチパラダイムデザインの本が翻訳完了間近であった。
+そこで、ある書店が私に、このトピックに関する夜間のプレゼンテーションをしてくれないかと尋ねてきたが、
+私のスケジュールに講演日程を合わせるのは困難だった。
 
 My work on this trip to Japan covered a wide range of otherwise dissociated ideas that would lead up to agile. I gave a seminar on the nascent DCI architecture at Waseda University, which led to my first meeting with Kiro Harada-san, who would become a good friend over the years. And, as described below, I would travel with Nakano-sensei to Eishin Gakuen. But perhaps my most important reflection on this trip was a talk I gave at the Alexander Festival entitled “From Patterns: Eastward to Lean, Westward to True Objects.”
 
