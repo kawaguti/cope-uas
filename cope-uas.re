@@ -894,10 +894,39 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Hayashi)さんをコーチとして雇った。
 彼らは、すくすくスクラム(Suku-Suku-Scrum)というコミュニティを2009年4月に始めた。
 エバッキーとエマーソンが、日本においてスクラムという言葉を普及させる
-力強いフォースとなったことは間違いがないだろう。
+力強いフォースとなったことは間違いないだろう。
 ほぼ同時期に平鍋健児さんたちも彼らの会社でスクラムのバナーを掲載するようになった。
 
-As for myself, I had left Bell Labs, started and ended a job at a university, started and ended another at a hardware design company and another at a consulting company, and had  struggled to pull myself out of the painful transitions and had come to enjoy life as an independent consultant. I was living in a new country and a new culture: Denmark. Danish design has a longstanding resonance with Japanese design. The two countries have many elements of design in common, with simplicity and elegance foremost among them. There is a vibrant trade in designed goods between the two countries. What’s more, a relatively close neighbor of mine in Denmark, Bent Jensen, had also made an investment in Japan, and particularly in the Japanese agile community. He and several other Nordic agile folk first visited Japan in 2007 and he would return in 2008 and again in 2011, usually hosted by our mutual friend Kenji Hiranabe-san.
+#@# As for myself, I had left Bell Labs, started and ended a job at a university, 
+#@#   started and ended another at a hardware design company 
+#@#   and another at a consulting company, 
+#@#   and had struggled to pull myself out of the painful transitions 
+#@#     and had come to enjoy life as an independent consultant. 
+#@# I was living in a new country and a new culture: Denmark. 
+#@# Danish design has a longstanding resonance with Japanese design. 
+#@# The two countries have many elements of design in common, 
+#@#   with simplicity and elegance foremost among them. 
+#@# There is a vibrant trade in designed goods between the two countries. 
+#@# What’s more, a relatively close neighbor of mine in Denmark, Bent Jensen, 
+#@#   had also made an investment in Japan, and particularly in the Japanese agile community. 
+#@# He and several other Nordic agile folk first visited Japan in 2007 
+#@#   and he would return in 2008 and again in 2011, 
+#@#   usually hosted by our mutual friend Kenji Hiranabe-san.
+
+私自身は、ベル研究所を離れ、大学での仕事を始め、その仕事を辞め、
+ハードウェア設計の会社と、コンサルティング会社での仕事を始め、そして辞め、
+痛みの伴う変化の過程でもがいた後に、
+独立コンサルタントとしての仕事を楽しむようになった。
+そして、新しい国と文化のなかで暮らすようになっていた。デンマークである。
+デンマークのデザインは、日本のデザインと長年共鳴してきた。
+この２つの国は多くの共通のデザイン要素をもっていて、
+  とりわけシンプルさとエレガンスさを共有している。
+両国の間でのデザイン用品の輸出入も活発だ。
+さらにデンマークで近所に住んでいる、ベント・ジェンセン(Bent Jensen)も、
+日本への投資、特に日本のアジャイルコミュニティへの投資を行っていた。
+彼と数名の北欧のアジャイル仲間たちが日本に初めて訪問したのは2007年のことで、
+その後2008年と2011年にも再び訪れている。
+いつも、私たちの共通の友人である平鍋健児さんがホストしていた。
 
 Some of my books had been translated into Japanese and published in my absence. Some of the organizational patterns appeared in the 2004 collected work プログラムデザイン のためのパターン言語 edited by Ryuichi Hosoya and Yuko Nakayama. C++プログラミングの筋と定石 was translated by Amura-san, Ohtani-san and Sugihara-san, and a second translation was done by Michiaki Yasumura, Hiroshi Otani and Hara Shigeru and published by Pearson in 2009. And as this trip loomed, the translation of my Multi-Paradigm Design book into Japanese was nearing completion, and a book store wanted me to give an evening presentation on the topic — but I don’t think I was ever able to fit it into my schedule.
 
