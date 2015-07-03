@@ -859,9 +859,43 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 パターンならば日本の文化のなかに浸透させることができることが、
 これから1〜2年をかけて明らかになっていく。
 
-Anyhow, after a nine-year hiatus, I was coming back to Japan, and it wouldn’t be so much about patterns as about agile — even though the main event that beckoned me was called the “Alexander-Matsuri.” In the mean time many other things had happened — both in my life and in Japan. Scrum had come to Japan. Bas Vodde-san ran his first course in Japan in 2007 in cooperation with Emerson Mills, who was then at amazon.com. Emerson would go on to become the first Japanese-speaking Scrum trainer in Japan.
+#@# Anyhow, after a nine-year hiatus, 
+#@#   I was coming back to Japan, and it wouldn’t be so much about patterns as about agile 
+#@#   — even though the main event that beckoned me was called the “Alexander-Matsuri.” 
+#@# In the mean time many other things had happened — both in my life and in Japan. 
+#@# Scrum had come to Japan. 
+#@# Bas Vodde-san ran his first course in Japan in 2007 
+#@#   in cooperation with Emerson Mills, who was then at amazon.com. 
+#@# Emerson would go on to become the first Japanese-speaking Scrum trainer in Japan.
 
-One of the early Scrum course students (at the second course in Japan) was Kazumasa Ebata ("Ebacky"). In February 2009, Ebacky and Yasunobu Kawaguchi-san started up a Scrum team at QUICK Corporation and hired Eiichi Hayashi-san as a coach. They would go on to start the Suku-Suku-Scrum community in April 2009. Both Ebacky and Emerson would prove to be powerful forces in spreading the word about Scrum in Japan. About the same time Kenji Hiranabe-san and others from his company also took up the Scrum banner.
+いずれにせよ、9年の空白を挟んで、
+私は日本に帰ってきた。ここからアジャイルに比べてパターンについての話は多くはない。
+私を日本に呼び戻したイベントは、「アレグザンダー祭り」と呼ばれていたのだけれど。
+その間に、私の人生にとっても、日本にとっても、非常に多くのことが起きていた。
+スクラムが日本にやってきたのだ。
+バス・ボッデ(Bas Vodde)さんが最初の研修を行ったのは2007年のことだった。
+以前Amazon.comで働いていたエマーソン・ミルズ(Emerson Mills)の協力によって行われた。
+エマーソンはその後、日本において初の日本語を話せるスクラムトレーナーになった。
+
+#@# One of the early Scrum course students (at the second course in Japan) 
+#@#   was Kazumasa Ebata ("Ebacky"). 
+#@# In February 2009, 
+#@# Ebacky and Yasunobu Kawaguchi-san started up a Scrum team at QUICK Corporation 
+#@#   and hired Eiichi Hayashi-san as a coach. 
+#@# They would go on to start the Suku-Suku-Scrum community in April 2009. 
+#@# Both Ebacky and Emerson would prove to be powerful forces 
+#@#   in spreading the word about Scrum in Japan. 
+#@# About the same time Kenji Hiranabe-san and others from his company 
+#@#   also took up the Scrum banner.
+
+初期のスクラム研修(日本で２回目の研修)の受講生の一人が、
+エバッキー("Ebacky")こと江端一将(Kazumasa Ebata)だった。
+2009年の2月に、エバッキーと川口恭伸(Yasunobu Kawaguchi)さんは、
+QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Hayashi)さんをコーチとして雇った。
+彼らは、すくすくスクラム(Suku-Suku-Scrum)というコミュニティを2009年4月に始めた。
+エバッキーとエマーソンが、日本においてスクラムという言葉を普及させる
+力強いフォースとなったことは間違いがないだろう。
+ほぼ同時期に平鍋健児さんたちも彼らの会社でスクラムのバナーを掲載するようになった。
 
 As for myself, I had left Bell Labs, started and ended a job at a university, started and ended another at a hardware design company and another at a consulting company, and had  struggled to pull myself out of the painful transitions and had come to enjoy life as an independent consultant. I was living in a new country and a new culture: Denmark. Danish design has a longstanding resonance with Japanese design. The two countries have many elements of design in common, with simplicity and elegance foremost among them. There is a vibrant trade in designed goods between the two countries. What’s more, a relatively close neighbor of mine in Denmark, Bent Jensen, had also made an investment in Japan, and particularly in the Japanese agile community. He and several other Nordic agile folk first visited Japan in 2007 and he would return in 2008 and again in 2011, usually hosted by our mutual friend Kenji Hiranabe-san.
 
