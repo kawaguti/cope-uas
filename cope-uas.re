@@ -949,7 +949,26 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 そこで、ある書店が私に、このトピックに関する夜間のプレゼンテーションをしてくれないかと尋ねてきたが、
 私のスケジュールに講演日程を合わせるのは困難だった。
 
-My work on this trip to Japan covered a wide range of otherwise dissociated ideas that would lead up to agile. I gave a seminar on the nascent DCI architecture at Waseda University, which led to my first meeting with Kiro Harada-san, who would become a good friend over the years. And, as described below, I would travel with Nakano-sensei to Eishin Gakuen. But perhaps my most important reflection on this trip was a talk I gave at the Alexander Festival entitled “From Patterns: Eastward to Lean, Westward to True Objects.”
+#@# My work on this trip to Japan covered a wide range of otherwise dissociated ideas 
+#@#   that would lead up to agile. 
+#@# I gave a seminar on the nascent DCI architecture at Waseda University, 
+#@#   which led to my first meeting with Kiro Harada-san, 
+#@#   who would become a good friend over the years. 
+#@# And, as described below, I would travel with Nakano-sensei to Eishin Gakuen. 
+#@# But perhaps my most important reflection on this trip was a talk 
+#@#   I gave at the Alexander Festival entitled 
+#@#     “From Patterns: Eastward to Lean, Westward to True Objects.”
+
+この旅でした仕事は、幅広い。
+いずれアジャイルにつながっていくのだが、その時点ではバラバラの仕事だった。
+初期のDCIアーキテクチャについてのセミナーを早稲田大学で行った。
+ここで原田騎郎さん(Kiro Harada-san)との最初の出会いがあった。
+彼とはその後長年の友人となる。
+そして、あとでまた述べるが、中埜先生と盈進学園を訪問した。
+だが、もしかすると私にとって最も記憶に残っているのは、
+アレグザンダー祭りで行った講演
+「パターンから: 東ではリーンへ、西では本当のオブジェクトへ」
+かもしれない。
 
 The title intentionally echoed that of my talk ten years earlier and was intended to be a reflection of, or continuation of, the OO2K event. This talk was in many ways the high point of my experience with Japanese culture, patterns, and agile together. I had painstakingly pored through Alexander’s literature seeking out the origins and the links to the Do Kyo. And I found something amazing in quotes like this:
 
