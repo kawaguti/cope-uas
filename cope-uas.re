@@ -965,12 +965,26 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 ここで原田騎郎さん(Kiro Harada-san)との最初の出会いがあった。
 彼とはその後長年の友人となる。
 そして、あとでまた述べるが、中埜先生と盈進学園を訪問した。
-だが、もしかすると私にとって最も記憶に残っているのは、
+だが、もしかすると私にとって最も得るものが大きかったのは、
 アレグザンダー祭りで行った講演
 「パターンから: 東ではリーンへ、西では本当のオブジェクトへ」
 かもしれない。
 
-The title intentionally echoed that of my talk ten years earlier and was intended to be a reflection of, or continuation of, the OO2K event. This talk was in many ways the high point of my experience with Japanese culture, patterns, and agile together. I had painstakingly pored through Alexander’s literature seeking out the origins and the links to the Do Kyo. And I found something amazing in quotes like this:
+#@# The title intentionally echoed that of my talk ten years earlier 
+#@#   and was intended to be a reflection of, or continuation of, the OO2K event. 
+#@# This talk was in many ways the high point of my experience 
+#@#   with Japanese culture, patterns, and agile together. 
+#@# I had painstakingly pored through Alexander’s literature seeking out the origins 
+#@#   and the links to the Do Kyo. 
+#@# And I found something amazing in quotes like this:
+
+このタイトルは10年前の講演タイトルをわざと復唱している。
+あのOO2Kイベントから得たもの、または、続編である。
+この講演では、日本文化、パターン、アジャイルに関する私の体験をまとめ、
+その概要を、様々なアプローチで話した。
+私はアレグザンダーの文献を注意深く読み、
+その源流や、道教への参照がないか探した。
+すると以下のような素晴らしいとしか言いようのない文章を見つけた。
 
 And finally, of course, I want to paint a picture which allows me to understand the patterns of events which keep on happening in the thing whose structure I seek. In other words, I hope to find a picture, or a structure, which will, in some rather obvious and simple sense, account for the outward properties, for the pattern of events of the thing which I am studying.
 
