@@ -824,7 +824,40 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 盈進学園への訪問を手配してくれた。
 盈進学園は、クリストファー・アレグザンダーが1982年から1989年の間に建設した東京近郊の建築物である。
 
-Also, in 2009, Waseda University announced their plans to host an AsianPLoP in March of 2010, billed as “the first Asian conference of Pattern Languages of Programs.” I found it odd that I had heard about it only third-hand, and found it odd that it was being called the “first” conference though there had already been one in 1998 and MensorePLoP in 2001, and found it strange that none of the organizers of either of those were involved in this one, and found it most strange that the venue was in academia. Indeed, much seemed to have changed in my absence. And this conference seemed to have official connections to the Hillside Group, which by then was running PLoPs that had little of the vision of us original founders. In any case, the pattern community seems to have split. Most of the pattern community would find out about my journey to Japan that would take place in the following December only after I was gone. It would be another year or two before Japan would awaken to the fact that patterns could tap deeply into their own culture, rather than just refine the Americanization of what were originally profound Japanese ideas.
+#@# Also, in 2009, Waseda University announced their plans to host an AsianPLoP in March of 2010, 
+#@#   billed as “the first Asian conference of Pattern Languages of Programs.” 
+#@# I found it odd that I had heard about it only third-hand, 
+#@#   and found it odd that it was being called the “first” conference 
+#@#     though there had already been one in 1998 and MensorePLoP in 2001, 
+#@#   and found it strange that none of the organizers of either of those were involved in this one, 
+#@#   and found it most strange that the venue was in academia. 
+#@# Indeed, much seemed to have changed in my absence. 
+#@# And this conference seemed to have official connections to the Hillside Group, 
+#@#   which by then was running PLoPs that had little of the vision of us original founders. 
+#@# In any case, the pattern community seems to have split. 
+#@# Most of the pattern community would find out about my journey to Japan 
+#@#   that would take place in the following December only after I was gone. 
+#@# It would be another year or two before Japan would awaken to the fact 
+#@#   that patterns could tap deeply into their own culture, 
+#@#     rather than just refine the Americanization of what were originally profound Japanese ideas.
+
+また、同年には早稲田大学が翌年3月にAsianPLoPをホストする計画が発表された。
+「はじめてのアジアのPattern Languages of Programs」と題してあった。
+私はそれを人づてに知らされたことも不思議だったが、
+すでに1998年にPLoPをやっているし、2001年にはMensorePLoPがあったのに、
+なぜ「はじめての」と呼んでいるのかが不思議だった。
+さらに、その過去のPLoPの主催者が一人もその企画に参加していないことも奇妙だったし、
+なにより開催場所が大学であることが奇妙極まりなかった。
+どうも、私がいない間にいろいろなことが変わってしまったのだ。
+また、このカンファレンスは、
+私たちが設立し、そのビジョンをもって各地のPLoPを運営しているヒルサイドグループとの
+つながりを公式に持っていた。
+どんな場合でも、パターンコミュニティは同じスピリットを共有しているようにみてた。
+ほとんどのパターンコミュニティの人々は、
+次の12月に久しぶりに私が日本に旅するという情報を見つけてくれた。
+日本の深遠な考え方をただアメリカナイズするより、
+パターンならば日本の文化のなかに浸透させることができることが、
+これから1〜2年をかけて明らかになっていく。
 
 Anyhow, after a nine-year hiatus, I was coming back to Japan, and it wouldn’t be so much about patterns as about agile — even though the main event that beckoned me was called the “Alexander-Matsuri.” In the mean time many other things had happened — both in my life and in Japan. Scrum had come to Japan. Bas Vodde-san ran his first course in Japan in 2007 in cooperation with Emerson Mills, who was then at amazon.com. Emerson would go on to become the first Japanese-speaking Scrum trainer in Japan.
 
