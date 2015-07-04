@@ -1056,7 +1056,36 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 複数の責務が関与する(Responsibilities Engage)は着々(chaku-chaku)と関連しているし、
 全体論的多様性(Holistic Diversity)はトヨタのワークセルと関連していて、他にもたくさんの関連がある。
 
-But it goes deeper, even into the common principles between patterns and agile. Alexander talks of the “principle of participation” (The Oregon Experiment, Chapter 2) while the the Japanese speak of 根回し. Alexander talks of a “slow and continuous process” (Christopher Alexander, The Oregon Experiment, p. 69) and the Toyota Way embraces 根回し. Alexander wants to build on mature, established practice; the Toyota Way Principle number 8 says to use only reliable, thoroughly tested technology. Alexander says that several acts of building will slowly generate a new house over time (Alexander, Timeless Way of Building, Chapter 24) while Taichi Ōno speaks of 平準化: the consistent tortoise beats the hare. Alexander says we must rely on feelings more than intellect; George Yamashima, director of the Toyota technical Center, says that 反省 is key (Liker, The Toyota Way, p. 257). Both approaches clearly embrace Kaizen mind.
+#@# But it goes deeper, even into the common principles between patterns and agile. 
+#@# Alexander talks of the “principle of participation” (The Oregon Experiment, Chapter 2) 
+#@#   while the the Japanese speak of 根回し. 
+#@# Alexander talks of a “slow and continuous process” 
+#@#   (Christopher Alexander, The Oregon Experiment, p. 69) 
+#@#   and the Toyota Way embraces 根回し. 
+#@# Alexander wants to build on mature, established practice; 
+#@#   the Toyota Way Principle number 8 says to use only reliable, thoroughly tested technology. 
+#@# Alexander says that several acts of building will slowly generate a new house over time 
+#@#   (Alexander, Timeless Way of Building, Chapter 24) 
+#@#   while Taichi Ōno speaks of 平準化: the consistent tortoise beats the hare. 
+#@# Alexander says we must rely on feelings more than intellect; 
+#@#   George Yamashima, director of the Toyota technical Center, says that 反省 is key 
+#@#     (Liker, The Toyota Way, p. 257). 
+#@# Both approaches clearly embrace Kaizen mind.
+
+それはさらに深めれば、パターンとアジャイルの間にある共通の原則に至る。
+アレグザンダーの言う「参加の原則(principle of participation)」(『オレゴン大学の実験』第2章)
+は日本人が「根回し」と呼ぶものだ。
+アレグザンダーの言う「緩やかで継続的なプロセス(slow and continuous process)」(『オレゴン大学の実験』第2章)と
+トヨタウェイは根回しを含んでいる。
+アレグザンダーは熟成した、確立したプラクティスを作りたいと思っていたが、
+トヨタウェイの原則8番でも、信頼でき、完全にテストされた技術だけを使うと言っている。
+アレグザンダーは幾つかの建築の取り決めが、時間をかけてゆっくりと新しい家が生み出していくと言っているが
+(『時を超えた建設の道』24章)、
+大野耐一は「平準化」について「着実なカメがウサギに勝つ」と語っている。
+アレグザンダーは知性よりも感覚を信頼すべきだと言っているが、
+トヨタテクニカルセンター所長のGeorge Yamashimaは「反省」が鍵だと言っている。
+(Liker, The Toyota Way, p. 257 / ジェフリー・K・ライカー著、稲垣公夫訳『ザ・トヨタウェイ(上)(下)』)
+いずれのアプローチも明らかに改善マインドを内包している。
 
 The other schools of thought fall in line. Think of the Organizational Patterns as a way of designing teams and companies in the way that Toyota designs cars, and think of Scrum in the same way. All of these ideas go back to the same roots; all follow the same principles. I emphasized in the talk that these ideas together must be contrasted with “agile,” which is a much shallower approach to improving the world of work. Agile is about rework such as refactoring and deferring decisions; the Toyota Way about careful thought up front, pushing all the rework into the more flexible activity of analysis. I delineated five other ways in which agile and the Toyota Production System are in diametric opposition. To this day, far too many confuse agile with the Toyota Way.
 
