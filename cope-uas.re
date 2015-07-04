@@ -1004,7 +1004,14 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 クリストファー・アレグザンダー著, 平田翰那訳『時を超えた建設の道』第５章 空間のパタン
 //}
 
-Alexander was clearly in tune with the life rhythms of architecture. This returns us to the relationship between space and time, of バ, of the role of time in Japanese culture, and harks back to that 間 that I had learned so early on.
+#@# Alexander was clearly in tune with the life rhythms of architecture. 
+#@# This returns us to the relationship between space and time, 
+#@#   of バ, of the role of time in Japanese culture, 
+#@#   and harks back to that 間 that I had learned so early on.
+
+アレグザンダーは明確にアーキテクチャの生体リズムを調和しようとした。
+これは私たちにとっては、空間と時間のあいだの関係であり、
+「場 (バ)」、日本文化における時間の役割、そして、以前学んだ「間」を意識することだ。
 
 This talk is one of the most satisfying talks I ever put together. I discovered incredible depths of synchronicity and integration while researching this talk. They go to the very deepest concepts of form and existence, and all the way to what the Japanese call 自然. This concept is directly at the foundation of Alexander’s patterns, of the Toyota Way, and of Scrum. The second generation of these ideas surfaces in the Organizational Patterns (which I would bring to Japan on my next visit), in agile, and in the DCI architecture I had presented in my seminar.
 
