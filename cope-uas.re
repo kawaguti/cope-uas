@@ -1013,7 +1013,23 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 これは私たちにとっては、空間と時間のあいだの関係であり、
 「場 (バ)」、日本文化における時間の役割、そして、以前学んだ「間」を意識することだ。
 
-This talk is one of the most satisfying talks I ever put together. I discovered incredible depths of synchronicity and integration while researching this talk. They go to the very deepest concepts of form and existence, and all the way to what the Japanese call 自然. This concept is directly at the foundation of Alexander’s patterns, of the Toyota Way, and of Scrum. The second generation of these ideas surfaces in the Organizational Patterns (which I would bring to Japan on my next visit), in agile, and in the DCI architecture I had presented in my seminar.
+#@# This talk is one of the most satisfying talks I ever put together. 
+#@# I discovered incredible depths of synchronicity and integration while researching this talk. 
+#@# They go to the very deepest concepts of form and existence, 
+#@#   and all the way to what the Japanese call 自然. 
+#@# This concept is directly at the foundation of Alexander’s patterns, 
+#@#   of the Toyota Way, and of Scrum. 
+#@# The second generation of these ideas 
+#@#   surfaces in the Organizational Patterns (which I would bring to Japan on my next visit), 
+#@#   in agile, and in the DCI architecture I had presented in my seminar.
+
+その講演はわたしが行った講演の中でも最も満足のいくものの一つだった。
+講演を準備するために調査している間、きわめて深いレベルでの同期性(synchronicity)とまとまり(integration)を感じた。
+形(form)と存在(existence)の概念、そして日本人が「自然」と呼ぶあらゆる過程の深淵に至った。
+この概念は直接的にはアレグザンダーのパターンの基礎であるが、トヨタウェイとスクラムの基礎でもある。
+こうしたアイデアの第二世代は、
+アジャイルにおいても、講演で紹介したDCIアーキテクチャにおいても、
+組織パターン(これは次の日本訪問で運んだ)として表される。
 
 So I explained that I saw many links forming between our software worldview and Japanese culture. I love telling people of my first face-to-face meeting with Alexander back in 1996, and his relating of the drunken evening with the foo shui masters, and about the relationship of his work to the Do Kyo. The Toyota Way offers many practical paths to harmony in its focus on eliminating 無駄, 斑, and 無理. Scrum takes its inspiration in part from the Toyota Way and in part from Jeff Sutherland-san’s direct inspiration from Buddhist philosophy. The organizational patterns foresaw most of the Toyota ideas that would make it into Scrum just a couple of years afterwards: Developer Controls Process and Responsibilities Engage and chaku-chaku; Holistic Diversity and Toyota work cells; and many more. 
 
