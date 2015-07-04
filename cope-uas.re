@@ -986,9 +986,22 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 その源流や、道教への参照がないか探した。
 すると以下のような素晴らしいとしか言いようのない文章を見つけた。
 
-And finally, of course, I want to paint a picture which allows me to understand the patterns of events which keep on happening in the thing whose structure I seek. In other words, I hope to find a picture, or a structure, which will, in some rather obvious and simple sense, account for the outward properties, for the pattern of events of the thing which I am studying.
+#@# And finally, of course, 
+#@#   I want to paint a picture which allows me to understand the patterns 
+#@#     of events which keep on happening in the thing whose structure I seek. 
+#@# In other words, I hope to find a picture, or a structure, which will, 
+#@#   in some rather obvious and simple sense, account for the outward properties, 
+#@#   for the pattern of events of the thing which I am studying.
 
-— Christopher Alexander, The Timeless Way of Building, Chapter 5
+#@# — Christopher Alexander, The Timeless Way of Building, Chapter 5
+
+結局、私の描こうとする空間像は、自分の求める構造内で、
+繰り返し発生する出来事を理解させてくれるようなものになるのは当然である。
+言い換えると、私の見出そうとする空間像または構造とは、ごく素朴な意味で、
+外見上の特性や自分の注目する情況の出来事のパタンを説明してくれるようなものである。
+
+クリストファー・アレグザンダー著, 平田翰那訳『時を超えた建設の道』第５章 空間のパタン
+
 
 Alexander was clearly in tune with the life rhythms of architecture. This returns us to the relationship between space and time, of バ, of the role of time in Japanese culture, and harks back to that 間 that I had learned so early on.
 
