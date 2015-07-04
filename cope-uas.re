@@ -1031,7 +1031,30 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 アジャイルにおいても、講演で紹介したDCIアーキテクチャにおいても、
 組織パターン(これは次の日本訪問で運んだ)として表される。
 
-So I explained that I saw many links forming between our software worldview and Japanese culture. I love telling people of my first face-to-face meeting with Alexander back in 1996, and his relating of the drunken evening with the foo shui masters, and about the relationship of his work to the Do Kyo. The Toyota Way offers many practical paths to harmony in its focus on eliminating 無駄, 斑, and 無理. Scrum takes its inspiration in part from the Toyota Way and in part from Jeff Sutherland-san’s direct inspiration from Buddhist philosophy. The organizational patterns foresaw most of the Toyota ideas that would make it into Scrum just a couple of years afterwards: Developer Controls Process and Responsibilities Engage and chaku-chaku; Holistic Diversity and Toyota work cells; and many more. 
+#@# So I explained that I saw many links forming between our software worldview and Japanese culture. 
+#@# I love telling people of my first face-to-face meeting with Alexander back in 1996, 
+#@#   and his relating of the drunken evening with the foo shui masters, 
+#@#     and about the relationship of his work to the Do Kyo. 
+#@# The Toyota Way offers many practical paths to harmony 
+#@#   in its focus on eliminating 無駄, 斑, and 無理. 
+#@# Scrum takes its inspiration in part from the Toyota Way 
+#@#   and in part from Jeff Sutherland-san’s direct inspiration from Buddhist philosophy. 
+#@# The organizational patterns foresaw most of the Toyota ideas 
+#@#   that would make it into Scrum just a couple of years afterwards: 
+#@#   Developer Controls Process and Responsibilities Engage and chaku-chaku; 
+#@#   Holistic Diversity and Toyota work cells; and many more. 
+
+そして、私たちのいるソフトウェアの世界観と日本文化の間に見つけた多くの関連性について説明を行った。
+私は1996年にアレグザンダーと初めて対面した時のことを人々に語るのが大好きだ。
+風水師の人たちと飲んだ夜のこと、彼の仕事と道教の関係のことを。
+トヨタウェイは無駄(ムダ)、斑(ムラ)、無理(ムリ)をなくすことに集中することで、
+調和への多くの現実的な筋道を与える。
+スクラムはトヨタウェイの一部から発想を得ている。
+ジェフ・サザーランドさん(Jeff Sutherland-san)が直接、仏教思想から得た発想もある。
+組織パターンは、スクラムが数年後に取り込むことになる多くのトヨタのアイデアを予測していた。
+開発者がプロセスをコントロールする(Developer Controls Process)および
+複数の責務が関与する(Responsibilities Engage)は着々(chaku-chaku)と関連しているし、
+全体論的多様性(Holistic Diversity)はトヨタのワークセルと関連していて、他にもたくさんの関連がある。
 
 But it goes deeper, even into the common principles between patterns and agile. Alexander talks of the “principle of participation” (The Oregon Experiment, Chapter 2) while the the Japanese speak of 根回し. Alexander talks of a “slow and continuous process” (Christopher Alexander, The Oregon Experiment, p. 69) and the Toyota Way embraces 根回し. Alexander wants to build on mature, established practice; the Toyota Way Principle number 8 says to use only reliable, thoroughly tested technology. Alexander says that several acts of building will slowly generate a new house over time (Alexander, Timeless Way of Building, Chapter 24) while Taichi Ōno speaks of 平準化: the consistent tortoise beats the hare. Alexander says we must rely on feelings more than intellect; George Yamashima, director of the Toyota technical Center, says that 反省 is key (Liker, The Toyota Way, p. 257). Both approaches clearly embrace Kaizen mind.
 
