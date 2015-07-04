@@ -1111,7 +1111,35 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 私は５つの方法を使って、アジャイルとトヨタ生産方式が全く正反対であるところを描き出した。
 現在に至るまで、アジャイルとトヨタウェイの間にはとても大きな混乱がみられる。
 
-The next section of the talk described how Trygve Reenskaug’s DCI paradigm is one technological face of these principles. It is a style of software design that gives a voice to the expression of temporal concerns — to the patterns of events that Alexander holds dear — while focusing more outward on the human being rather than inward on technology. In my talk I drove deeper and deeper into the roots that are common to all of these Japan-culture-linked world-views. Part of the conclusion of the talk was that the pattern discipline had lost its way, degrading into overly technical concerns while missing the grander notions of systems thinking and beauty. This talk would foresee a profound analysis by a great Japanese speaker in a comical setting eleven months later.
+#@# The next section of the talk described 
+#@#   how Trygve Reenskaug’s DCI paradigm 
+#@#     is one technological face of these principles. 
+#@# It is a style of software design 
+#@#   that gives a voice to the expression of temporal concerns 
+#@#   — to the patterns of events that Alexander holds dear — 
+#@#   while focusing more outward on the human being rather than inward on technology. 
+#@# In my talk I drove deeper and deeper into the roots that 
+#@#   are common to all of these Japan-culture-linked world-views. 
+#@# Part of the conclusion of the talk was that the pattern discipline had lost its way, 
+#@#   degrading into overly technical concerns 
+#@#     while missing the grander notions of systems thinking and beauty. 
+#@# This talk would foresee a profound analysis by a great Japanese speaker 
+#@#   in a comical setting eleven months later.
+
+講演の次のパートでは、
+トリグブ・リエンスカウ(Trygve Reenskaug)のDCIパラダイムが
+これらの原則の技術的な一つの表象だということを説明した。
+DCIはソフトウェアデザインのスタイルの一つで、
+内向きの技術的な事柄より、外向きの、より人間にフォーカスし、
+(アレグザンダーが愛した出来事のパターンへの)一時的な関心の表現に
+発言権を与える。
+私の講演ではより深く深く、ここで語ったような
+日本文化とリンクした世界観すべての共通の根元まで辿った。
+最後に講演のまとめとして、パターン原則は方向を見失い、
+システム思考と美への基礎的な関心を忘れ、
+技術的な関心にばかり捉われて退化しつつある。
+この講演は11ヶ月後に素晴らしい日本人の講演者によって分析が行われることを予知していた。
+
 
 The talk concluded with a facet of patterns which sets them apart from the foundations of Toyota or agile: that of geometry. This is an aspect of patterns; also of agile — in the broader, sense, of existence — that I currently understand only viscerally. I could only echo Alexander’s mysterious groanings on this topic and relate a bit of what I know about the formal edges of this phenomenon from my Doctoral thesis.
 
