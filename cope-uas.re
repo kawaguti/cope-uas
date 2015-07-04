@@ -1087,7 +1087,29 @@ QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Haya
 (Liker, The Toyota Way, p. 257 / ジェフリー・K・ライカー著、稲垣公夫訳『ザ・トヨタウェイ(上)(下)』)
 いずれのアプローチも明らかに改善マインドを内包している。
 
-The other schools of thought fall in line. Think of the Organizational Patterns as a way of designing teams and companies in the way that Toyota designs cars, and think of Scrum in the same way. All of these ideas go back to the same roots; all follow the same principles. I emphasized in the talk that these ideas together must be contrasted with “agile,” which is a much shallower approach to improving the world of work. Agile is about rework such as refactoring and deferring decisions; the Toyota Way about careful thought up front, pushing all the rework into the more flexible activity of analysis. I delineated five other ways in which agile and the Toyota Production System are in diametric opposition. To this day, far too many confuse agile with the Toyota Way.
+#@# The other schools of thought fall in line. 
+#@# Think of the Organizational Patterns as a way of designing teams and companies 
+#@#   in the way that Toyota designs cars, and think of Scrum in the same way. 
+#@# All of these ideas go back to the same roots; all follow the same principles. 
+#@# I emphasized in the talk that these ideas together must be contrasted with “agile,” 
+#@#   which is a much shallower approach to improving the world of work. 
+#@# Agile is about rework such as refactoring and deferring decisions; 
+#@#   the Toyota Way about careful thought up front, 
+#@#     pushing all the rework into the more flexible activity of analysis. 
+#@# I delineated five other ways in which agile and the Toyota Production System are 
+#@#   in diametric opposition. 
+#@# To this day, far too many confuse agile with the Toyota Way.
+
+これらの行間にはその他の思考の結果も含まれている。
+組織パターンを、トヨタがクルマをデザインするやり方で、チームや会社をデザインする方法として考えてみよう。
+スクラムも同じように考えてみよう。
+これらの考え方の根っこは同じところにある。同じ原則に従っているのだ。
+私は講演でこれらの考え方と、「アジャイル」との違いを強調した。
+アジャイルは、世界の仕事の仕方を変えるという点では、かなり浅薄なアプローチだ。
+アジャイルというのは、リファクタリングや決定を遅らせるといったアイデアをやり直した(reworrk)にすぎない。
+トヨタウェイはもっと以前に注意深く考え、すべてのやり直しを柔軟な分析活動のなかに追いやる。
+私は５つの方法を使って、アジャイルとトヨタ生産方式が全く正反対であるところを描き出した。
+現在に至るまで、アジャイルとトヨタウェイの間にはとても大きな混乱がみられる。
 
 The next section of the talk described how Trygve Reenskaug’s DCI paradigm is one technological face of these principles. It is a style of software design that gives a voice to the expression of temporal concerns — to the patterns of events that Alexander holds dear — while focusing more outward on the human being rather than inward on technology. In my talk I drove deeper and deeper into the roots that are common to all of these Japan-culture-linked world-views. Part of the conclusion of the talk was that the pattern discipline had lost its way, degrading into overly technical concerns while missing the grander notions of systems thinking and beauty. This talk would foresee a profound analysis by a great Japanese speaker in a comical setting eleven months later.
 
