@@ -1140,7 +1140,6 @@ DCIはソフトウェアデザインのスタイルの一つで、
 技術的な関心にばかり捉われて退化しつつある。
 この講演は11ヶ月後に素晴らしい日本人の講演者によって分析が行われることを予知していた。
 
-
 The talk concluded with a facet of patterns which sets them apart from the foundations of Toyota or agile: that of geometry. This is an aspect of patterns; also of agile — in the broader, sense, of existence — that I currently understand only viscerally. I could only echo Alexander’s mysterious groanings on this topic and relate a bit of what I know about the formal edges of this phenomenon from my Doctoral thesis.
 
 At this time I still believed that patterns could succeed and, if they did, Japan would be the fount of their success. Patterns had emerged from the roots of Japanese culture and had even been nurtured there in some degree in Alexander’s Eishen Gakuen project. However, some of the roots of agile’s demise had already been planted. As eventually happened in Europe, the concepts had found inroads into academia and started to take on more academic than human tone. I had used my glimpses of these problems to try to rally the Japanese audience to again take up patterns if out of, for no other reason, the pride of living in the culture where they were born. Maybe too many Japanese had moved far enough Westward from that culture to no longer be able to see the pattern-ness of their cultural landscape.
