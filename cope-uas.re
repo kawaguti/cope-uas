@@ -1152,9 +1152,36 @@ DCIはソフトウェアデザインのスタイルの一つで、
 それは、トヨタやアジャイルを基礎と切り分ける、ジオメトリだ。
 これはパターンの考え方だが、アジャイルでもそうだ。より広い意味では、存在の認識。私は直感的にしか理解できていないが。
 私はできることは、この話題におけるアレグザンダーのミステリアスなうめき声を繰り返し、
-私自身が書いた博士論文から、この現象の形式的な輪郭について私が知りえたほんのわずかのことを説明することしかできない。
+私自身が書いた博士論文から、この現象の形式的な輪郭について
+私が知りえたほんのわずかのことを説明することしかできない。
 
-At this time I still believed that patterns could succeed and, if they did, Japan would be the fount of their success. Patterns had emerged from the roots of Japanese culture and had even been nurtured there in some degree in Alexander’s Eishen Gakuen project. However, some of the roots of agile’s demise had already been planted. As eventually happened in Europe, the concepts had found inroads into academia and started to take on more academic than human tone. I had used my glimpses of these problems to try to rally the Japanese audience to again take up patterns if out of, for no other reason, the pride of living in the culture where they were born. Maybe too many Japanese had moved far enough Westward from that culture to no longer be able to see the pattern-ness of their cultural landscape.
+#@# At this time I still believed that patterns could succeed and, 
+#@#   if they did, Japan would be the fount of their success. 
+#@# Patterns had emerged from the roots of Japanese culture 
+#@#   and had even been nurtured there in some degree in Alexander’s Eishen Gakuen project. 
+#@# However, some of the roots of agile’s demise had already been planted. 
+#@# As eventually happened in Europe, 
+#@#   the concepts had found inroads into academia 
+#@#     and started to take on more academic than human tone. 
+#@# I had used my glimpses of these problems to try to rally the Japanese audience 
+#@#   to again take up patterns if out of, for no other reason, 
+#@#   the pride of living in the culture where they were born.
+#@# Maybe too many Japanese had moved far enough Westward from that culture 
+#@#   to no longer be able to see the pattern-ness of their cultural landscape.
+
+この時点で私は、まだパターンは成功できると信じていたし、
+もし日本の人がやってくれるなら、パターンの成功の源泉になると考えていた。
+パターンは日本文化の源流から発生しており、
+アレグザンダーの盈進学園プロジェクトによってパターンはある程度育てられてきた。
+しかし、幾つかのアジャイルの死の芽もまた植えられていた。
+ついに欧州で、
+パターンの概念がアカデミアを侵食しているのが発見され、
+人間的な感覚から、よりアカデミックなものになり始めていた。
+私はそういった問題を垣間見てきたので、日本の聴衆を呼び集め、
+なにより自分たちの生まれた場所の文化の中に生きるプライドのために、
+そこからパターンをふたたび抽出していくよう、促したかった。
+もしかすると、すでに多くの日本人が、そうした文化から西洋の文化に移ってしまっていて、
+現在の文化の有りようから、パターンを見出すことは、もうないのかもしれない。
 
 I nonetheless sought every opportunity I could to learn more about Alexander’s deep pattern visions and about their Japanese roots. I had long heard stories that one of Alexander’s colleagues, working in the Center for Environmental Structure, was from Japan and had started to engage the pattern community there. That would provide a double benefit of close association both with Alexander’s ideals and their Japanese roots! Indeed, his name is Hiroshi Nakano-san, and I had the pleasure of meeting him for the first time at the Alexander Fest. It was in fact partly his fault that I had been invited, based on his discovery of my early talks in Japan about patterns and Alexander’s work. He is a man who is more alive than almost everyone I know, with a loud laugh and a keen eye for what is happy and good. Yet he can also be somber and reflective when life and relationship call for it. He would be a large influence on me over the years.
 
