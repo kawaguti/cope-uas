@@ -1283,7 +1283,8 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 日本は自らの源泉を見つけたのだ。
 
 
-Eishin
+#@# == Eishin
+== 盈進
 
 Hiroshi-san would be my host for an excursion to Eishin Gakuen. I would learn that Eishin wasn’t just a myth or an incidental event in time to the Japanese agile community, but that in fact Hiroshi-sensei had worked closely with Christopher Alexander as the new school came into being, and that he had already been engaging with the software agile community in Japan.
 
