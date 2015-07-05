@@ -1228,7 +1228,25 @@ DCIはソフトウェアデザインのスタイルの一つで、
 この訪問のあと、私は本橋正成(Masanari Motohashi)さんから、思慮深いメールをもらった。
 Ariさん(訳注: 本橋さん)は、こう言っている。
 
-I study both western and eastern culture as an amateur, but I feel that almost Japanese don't know true value of Japanese/eastern culture or concepts yet. We subconsciously believe that we should hesitate/neglect our culture, even though we don't know that we may misunderstand our culture. In this case, "we" means the standard/stereotype business/academia/government people in Japanese including software and information technology persons.
+#@# //quote{
+#@# I study both western and eastern culture as an amateur, 
+#@#   but I feel that almost Japanese don't know true value of 
+#@#     Japanese/eastern culture or concepts yet.
+#@# We subconsciously believe that we should hesitate/neglect our culture, 
+#@#   even though we don't know that we may misunderstand our culture. 
+#@# In this case, "we" means the standard/stereotype business/academia/government people 
+#@#   in Japanese including software and information technology persons.
+#@# //}
+
+//quote{
+私は西洋と東洋の両方の文化を独学て学びました。
+しかし私はほとんどの日本人は、日本ないし東洋の文化や概念の
+本当の価値を知らないと感じています。
+私たちは無意識のうちに自分たちの文化を恥じたり、軽視したりするべきだと信じています。
+私たちが自分たちの文化を誤解しているかもしれない、ということすら知らないのにです。
+ここで「私たち」とは、日本の標準的なステレオタイプのビジネス、アカデミア、政府の人々です。
+ここにはソフトウェアや情報技術に従事する人も含みます。
+//}
 
 He felt that the people who attended the Alexander-Matsuri were different. So there is hope. In June 2010, I received a draft of a pattern paper entitled, ”Language of 倭.” Colloquially, “倭” translates into English as “harmony;” more literally, it is an ancient form of 日本, and it might best be translated into English as “community.” I read it with wonder. It drives to the foundations of the forms of community dialogue, employing metaphors from ceremonies around shrines in Japanese culture. It was written by Masanari Motohashi-san about Mikoshi, Yoriai, and Kuuki — topics that Masanari-san had been meditating about for many months. It has one of the best articulations of 守破離 that I have ever read and clearly articulates not only 倭 but the elusive concept of 場 as well. In my mind, this paper stands as one of the classics of organizational pattern literature — in fact, of all pattern literature that has emerged from the broader software community. Japan was finding its own roots.
 
