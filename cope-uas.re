@@ -1248,8 +1248,39 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 ここにはソフトウェアや情報技術に従事する人も含みます。
 //}
 
-He felt that the people who attended the Alexander-Matsuri were different. So there is hope. In June 2010, I received a draft of a pattern paper entitled, ”Language of 倭.” Colloquially, “倭” translates into English as “harmony;” more literally, it is an ancient form of 日本, and it might best be translated into English as “community.” I read it with wonder. It drives to the foundations of the forms of community dialogue, employing metaphors from ceremonies around shrines in Japanese culture. It was written by Masanari Motohashi-san about Mikoshi, Yoriai, and Kuuki — topics that Masanari-san had been meditating about for many months. It has one of the best articulations of 守破離 that I have ever read and clearly articulates not only 倭 but the elusive concept of 場 as well. In my mind, this paper stands as one of the classics of organizational pattern literature — in fact, of all pattern literature that has emerged from the broader software community. Japan was finding its own roots.
+#@# He felt that the people who attended the Alexander-Matsuri were different. 
+#@# So there is hope. 
+#@# In June 2010, I received a draft of a pattern paper entitled, ”Language of 倭.” 
+#@# Colloquially, “倭” translates into English as “harmony;” 
+#@#   more literally, it is an ancient form of 日本, 
+#@#    and it might best be translated into English as “community.” 
+#@# I read it with wonder. 
+#@# It drives to the foundations of the forms of community dialogue, 
+#@#   employing metaphors from ceremonies around shrines in Japanese culture. 
+#@# It was written by Masanari Motohashi-san about Mikoshi, Yoriai, and Kuuki 
+#@#   — topics that Masanari-san had been meditating about for many months. 
+#@# It has one of the best articulations of 守破離 
+#@#   that I have ever read and clearly articulates not only 倭 but the elusive concept of 場 as well. 
+#@# In my mind, this paper stands as one of the classics of organizational pattern literature 
+#@#   — in fact, of all pattern literature that has emerged from the broader software community. 
+#@# Japan was finding its own roots.
 
+アレグザンダー祭りに来ているような人々は違う、と彼は考えている。
+そう、ここには希望がある。
+2010年6月に、パターン論文の草稿を受け取った。「Language of 倭」というタイトルだった。
+口語で「倭」を訳すと「Harmony」ということになる。
+より文語的には、これは「日本」の古い表現だ。
+そして一番上手な英語訳は、おそらく「community」だろう。
+私は不思議な気持ちでこの草稿を読んだ。
+この論文は日本文化における、神社にまつわる儀式のメタファーを用いて、
+コミュニティでの対話の形式の基底にあるものを紹介する。
+本橋正成さんは神輿(Mikoshi)、寄合(Yoriai)、空気(Kuuki)について述べている。
+何ヶ月にも渡って本橋さんが瞑想してきたトピックである。
+これは私が聞いたり明確に表現されたものの中で、最も優れた「守破離」の表現の一つだ。
+「倭」だけでなく「場」の概念も見事に表現されている。
+私の考えでは、この論文は組織パターンの文書のなかでも、最も古くからある考え方の上に立っている。
+実際、パターンの文書というのは、ほとんどが広範なソフトウェアコミュニティから得られたものだ。
+日本は自らの源泉を見つけたのだ。
 
 
 Eishin
