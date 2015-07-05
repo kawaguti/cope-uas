@@ -1286,7 +1286,18 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 #@# == Eishin
 == 盈進
 
-Hiroshi-san would be my host for an excursion to Eishin Gakuen. I would learn that Eishin wasn’t just a myth or an incidental event in time to the Japanese agile community, but that in fact Hiroshi-sensei had worked closely with Christopher Alexander as the new school came into being, and that he had already been engaging with the software agile community in Japan.
+#@# Hiroshi-san would be my host for an excursion to Eishin Gakuen. 
+#@# I would learn that Eishin wasn’t just a myth or an incidental event 
+#@#   in time to the Japanese agile community, 
+#@#   but that in fact Hiroshi-sensei had worked closely with Christopher Alexander 
+#@#     as the new school came into being, 
+#@#       and that he had already been engaging with the software agile community in Japan.
+
+博さん(訳注: 中埜博さん)は、盈進学園に訪問する際にホストを務めてくれた。
+日本のアジャイルコミュニティにとって、
+盈進は単なる神話ではなく、偶然の出来事でもない、ということを学ぶことになった。
+実際、博先生はこの学校を新しく作る際には、クリストファー・アレグザンダーと一緒に働いていた。
+そしてこの訪問の時点では、日本のソフトウェアアジャルコミュニティとも関係を築いていた。
 
 So I would go there with Sasagawa-san and Nakano-sensei — two students of Christopher Alexander-san. Nakano-sensei is a gnome of a man who is ever smiling in the manner of someone who is about to deliver the punch line to a joke. He maintains a beret and braces as his trademarks, telegraphing the image of an artist. He is the principal in the Center for Environment Structure (CES) in Japan, Christopher Alexander’s architectural firm. Nanako-sensei had figured prominently in the building of Eishin and, in fact, his name comes up a number of times in Alexander’s new book Battle, and we even find a few pictures of a much younger Nanako-sensei there (he looks strange without his beret)!
 
