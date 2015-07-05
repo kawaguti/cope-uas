@@ -1184,7 +1184,39 @@ DCIはソフトウェアデザインのスタイルの一つで、
 もしかすると、すでに多くの日本人が、そうした文化から西洋の文化に移ってしまっていて、
 現在の文化の有りようから、パターンを見出すことは、もうないのかもしれない。
 
-I nonetheless sought every opportunity I could to learn more about Alexander’s deep pattern visions and about their Japanese roots. I had long heard stories that one of Alexander’s colleagues, working in the Center for Environmental Structure, was from Japan and had started to engage the pattern community there. That would provide a double benefit of close association both with Alexander’s ideals and their Japanese roots! Indeed, his name is Hiroshi Nakano-san, and I had the pleasure of meeting him for the first time at the Alexander Fest. It was in fact partly his fault that I had been invited, based on his discovery of my early talks in Japan about patterns and Alexander’s work. He is a man who is more alive than almost everyone I know, with a loud laugh and a keen eye for what is happy and good. Yet he can also be somber and reflective when life and relationship call for it. He would be a large influence on me over the years.
+#@# I nonetheless sought every opportunity 
+#@#   I could to learn more about Alexander’s deep pattern visions 
+#@#     and about their Japanese roots. 
+#@# I had long heard stories that one of Alexander’s colleagues, 
+#@#   working in the Center for Environmental Structure, was from Japan 
+#@#     and had started to engage the pattern community there. 
+#@# That would provide a double benefit of close association both with Alexander’s ideals 
+#@#   and their Japanese roots! 
+#@# Indeed, his name is Hiroshi Nakano-san, and I had the pleasure of meeting him 
+#@#   for the first time at the Alexander Fest. 
+#@# It was in fact partly his fault that I had been invited, 
+#@#   based on his discovery of my early talks in Japan about patterns and Alexander’s work. 
+#@# He is a man who is more alive than almost everyone I know, 
+#@#   with a loud laugh and a keen eye for what is happy and good. 
+#@# Yet he can also be somber and reflective when life and relationship call for it. 
+#@# He would be a large influence on me over the years.
+
+それにもかかわらず、私はアレグザンダーの深いパターンのビジョンと
+日本におけるその源泉をもっと学ぶため、
+あらゆる機会を探していた。
+アレグザンダーが環境構造センターで働いていた頃の同僚の中に、
+日本から来た人がおり、彼は日本でパターンのコミュニティを作り始めたという話を、
+もう長いこと聞いていた。
+これはアレグザンダーの理想と日本の源流、いずれにも繋がる、
+二重の恩恵を得られるかもしれない機会だった！
+その人の名は中埜博さん(Hiroshi Nakano-san)という。
+アレグザンダー祭りにおいて、初めて彼と会うことができ、大変嬉しかった。
+実際この出会いは、中埜さんがきっかけの一部を作ったものだ。
+私が以前日本で行ったパターンとアレグザンダーに関する講演を、中埜さんが発見し、私が招待されることになったのだ。
+彼は私が知る誰よりもいきいきしている。
+大きな声で笑い、鋭い目で幸せや、よいものを見つけ出す。
+それでいて、人生や関係性について語る時は、厳粛で思慮深い。
+彼はそれから何年にも渡り、私に大きな影響を及ぼしてくれた。
 
 But it is sometimes a struggle leading the Japanese to an understanding of the power of their own culture and history. After this visit, I received a thoughtful mail from Masanari Motohashi. Ari-san wrote this to me:
 
