@@ -1218,7 +1218,15 @@ DCIはソフトウェアデザインのスタイルの一つで、
 それでいて、人生や関係性について語る時は、厳粛で思慮深い。
 彼はそれから何年にも渡り、私に大きな影響を及ぼしてくれた。
 
-But it is sometimes a struggle leading the Japanese to an understanding of the power of their own culture and history. After this visit, I received a thoughtful mail from Masanari Motohashi. Ari-san wrote this to me:
+#@# But it is sometimes a struggle leading the Japanese to an understanding 
+#@#   of the power of their own culture and history. 
+#@# After this visit, I received a thoughtful mail from Masanari Motohashi. 
+#@# Ari-san wrote this to me:
+
+しかし、日本の人々に、自分たちの文化と歴史が持つ力を理解してもらうように、
+促すことは、難しいこともある。
+この訪問のあと、私は本橋正成(Masanari Motohashi)さんから、思慮深いメールをもらった。
+Ariさん(訳注: 本橋さん)は、こう言っている。
 
 I study both western and eastern culture as an amateur, but I feel that almost Japanese don't know true value of Japanese/eastern culture or concepts yet. We subconsciously believe that we should hesitate/neglect our culture, even though we don't know that we may misunderstand our culture. In this case, "we" means the standard/stereotype business/academia/government people in Japanese including software and information technology persons.
 
