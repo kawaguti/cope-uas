@@ -504,10 +504,10 @@ OO2Kカンファレンスにおいて、私は基調講演とパターンのチ�
 私はクリストファー・アレグザンダーが語ってくれた、あるストーリーを話した。
 それは、埼玉県入間市にある盈進学園(Eishin Gakuen)プロジェクトの仕事をしているとき、
 現地の人々と飲みに行ったときのエピソードだ。
-バーで、どこかの寿司職人たちと出会った。
+バーで、どこかの風水師たちと出会った。
 彼らに、台所をどこに据えるべきか、そして、
 門をどこに置くべきか考えてみろ、と聞いてみた。
-驚くべきことに、寿司職人たちは、アレグザンダーが苦心して選んだのと全く同じ場所に
+驚くべきことに、風水師たちは、アレグザンダーが苦心して選んだのと全く同じ場所に
 その２つの施設を置いたのだ。
 アレグザンダーは私に、
 これがまさに、私たちが設計において持っている感覚より、もっと深いところに何かがある、
@@ -695,68 +695,609 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 およそ10年にわたる仕事の成果をもとに、そこで急速に形づくられ、
 それから3年後に出版されることになった。
 
-It was also my first time to Takayama — a very spiritual time for me, seeing the temples there and eating the special food — mainly miso-based — in the temple restaurants. That journey, and the deep personal connections of those days, will linger in my heart in eternity, beyond death and time. I gave myself to Japanese culture and did not want to leave it behind. As a token of this powerful visit I visited a Japanese sword-smith and had a katana made for myself.
+#@# It was also my first time to Takayama — a very spiritual time for me, 
+#@#   seeing the temples there and eating the special food — mainly miso-based — 
+#@#   in the temple restaurants. 
+#@# That journey, and the deep personal connections of those days, 
+#@#   will linger in my heart in eternity, beyond death and time. 
+#@# I gave myself to Japanese culture and did not want to leave it behind. 
+#@# As a token of this powerful visit I visited a Japanese sword-smith and had a katana made for myself.
 
-On return from my trip Hasegawa-san would take much time to try to explain 間 to me. I had again attended a Kabuki play on this trip, which provided illustrations of the concept. I eventually found it easy to relate 間 to concepts I knew from Aikido. Soon, its message for design would become more clear. Hasegawa-san was typical of the people with whom I was making close connections in Japan, who had found themselves challenged to dig into their own past. Terunobu Fujino put it well: “[We must] re-consider not only cultural/spiritual
-difference between east and west but also how much right now we Japanese are ignorant in classic traditions of our own culture, such as Bushido and some sacred mind influenced deeply by the mixture of ancient India and Chinese way of thinking.”
+初めて高山に訪れたのもこのときだった。とてもスピリチュアルな時間だった。
+お寺を見て、お寺のレストランで、特別な料理を食べる。主に味噌ベースの料理だった。
+この旅で、深い個人的なつながりを持ったことは、
+私の心の中に永遠に残るだろう。死すらも時間すらも越えて。
+私は日本文化にこの身を捧げ、もう離れたくないと思った。
+ここに訪れたことを形に残すため、日本の刀匠を訪れ、刀を打ってもらったのだ。
 
-I would go to Japan once more in this decade, in November 2001, to attend the MensorePLoP conference in Okinawa, hosted again by Terunobu Fujino. Terry would be a faithful patron of my work in Japan, a brilliant companion in conversation, and a great advocate and organizer for the proto-agile community. I went to the conference mainly to show support for the pattern community as well as to just enjoy being at the event. It was where I first met Hironori Washizaki-san; he and I would go on to do more work later. After the conference, returning to Tokyo, I continued on the pattern theme with talks on Pattern Languages and on the Nature of Order. Linda Rising had also been at MensorePLoP and gave some talks in the same forum where I presented back in Tokyo.
- Patterns were moving ever more in a human direction, both for me and for Japan. What had started as a novel way to document slightly unconventional technical solutions was finding new application in describing the organizational structures of the world of work. And a core set of people in Japan had started to see reflections of themselves in the works of Christopher Alexander, and his worldview of wholeness, of the natural processes of local adaptation of piecemeal growth, and of the place of feeling in design.
+#@# On return from my trip Hasegawa-san would take much time to try to explain 間 to me. 
+#@# I had again attended a Kabuki play on this trip, 
+#@#   which provided illustrations of the concept. 
+#@# I eventually found it easy to relate 間 to concepts I knew from Aikido. 
+#@# Soon, its message for design would become more clear. 
+#@# Hasegawa-san was typical of the people with whom I was making close connections in Japan, 
+#@#   who had found themselves challenged to dig into their own past. 
+#@# Terunobu Fujino put it well: 
+#@#   “[We must] re-consider not only cultural/spiritual difference between east and west 
+#@#     but also how much right now we Japanese are ignorant in classic traditions of our own culture,
+#@#     such as Bushido and some sacred mind influenced deeply 
+#@#       by the mixture of ancient India and Chinese way of thinking.”
+
+この旅からの帰り道に、長谷川さんは私にたっぷりと時間をかけて「間」の概念の説明を試みてくれた。
+私は再び、間の概念の表現をあたえてくれる
+歌舞伎を見に行った。
+そしてついに間は私の知っている合気道の概念と容易に関連付けられることに気がついた。
+間のコンセプトが、デザインについてあたえてくれるメッセージが、より明確になってきた。
+長谷川さんは、日本で私が親密になった人々のなかでも典型的な人で、
+何か問われると、自分自身の過去を振り返って答えを探してくれる。
+この点は、藤野晃延がうまくまとめている。
+「(私たちは)東西の文化的精神的な差異についてだけ考え直すのではなく、
+　私たち自身の伝統的な文化について現在の私たちが忘れてしまっていること、
+　例えば武士道や、古代インドと中国の考え方が混在しつつ影響した宗教観などを考え直す(べきだ)。」
+
+#@# I would go to Japan once more in this decade, 
+#@#   in November 2001, to attend the MensorePLoP conference in Okinawa, 
+#@#   hosted again by Terunobu Fujino. 
+#@# Terry would be a faithful patron of my work in Japan, 
+#@#   a brilliant companion in conversation, 
+#@#   and a great advocate and organizer for the proto-agile community. 
+#@# I went to the conference mainly to show support for the pattern community 
+#@#   as well as to just enjoy being at the event. 
+#@# It was where I first met Hironori Washizaki-san; 
+#@#   he and I would go on to do more work later. 
+#@# After the conference, returning to Tokyo, 
+#@#   I continued on the pattern theme with talks on Pattern Languages and on the Nature of Order. 
+#@# Linda Rising had also been at MensorePLoP and gave some talks 
+#@#   in the same forum where I presented back in Tokyo.
+
+この時期(訳注: パターンの10年)には、もう一度日本に行く機会があった。
+2001年11月、藤野晃延の主催により沖縄で開催された MensolePLoP カンファレンスに参加するためだ。
+テリーは日本における私の活動の誠実なパトロン役を務めてくれた。
+会話の仲介役として素晴らしいサポートをしてくれたり、
+アジャイルの前身となるコミュニティのすぐれた擁護者であり、まとめ役であった。
+私は主にパターンコミュニティの支援のため、そのカンファレンスに足を運び、
+そして純粋にイベントを楽しんだ。
+そこで初めて鷲崎弘宜さんと出会っている。
+彼とは後にまた活動をともにすることになる。
+カンファレンスの後に、東京に戻り、
+引き続きパターンランゲージやネイチャーオブオーダーの講演を通じてパターンに関わる活動を行った。
+リンダ・ライジングもMensolePLoPを訪れ、
+東京に戻ってからも幾つかの講演を共にした。
+
+ #@# Patterns were moving ever more in a human direction, 
+ #@#   both for me and for Japan. 
+ #@# What had started as a novel way to document slightly unconventional technical solutions 
+ #@#   was finding new application in describing the organizational structures of the world of work. 
+ #@# And a core set of people in Japan had started to see reflections of themselves 
+ #@#   in the works of Christopher Alexander, and his worldview of wholeness, 
+ #@#     of the natural processes of local adaptation of piecemeal growth, 
+ #@#       and of the place of feeling in design.
+
+パターンの活動は私と日本の両方で、さらに様々な方向に広がっていた。
+それまでになかった技術的な解決策を文書化する新しい方法としてはじまったが、
+さらに新しい適用方法が発見された。
+世界の仕事現場における組織構造を描き出すのだ。
+日本の活動の中心にいる人々は、クリストファー・アレグザンダーの業績と
+自分たち自身への関連性を見出した。
+全体性(wholeness)という世界観、
+漸進的成長(piecemeal growth)を各地域がしていくという自然のプロセス、
+設計において感覚をどのように扱うか、といった考え方である。
 
 
-Ten-Year Reflections at the Chasm
 
-There was a nine-year hiatus before I would return to Japan, in January 2010. The Japanese economy was bad in the 1990s, and though it bounced back somewhat after 2000, the global financial crisis slowed Japan’s economy in the latter part of the decade.
+#@# == Ten-Year Reflections at the Chasm
+== ここまでの10年(キャズム)をふりかえる 
 
-In mid-2009 two Japanese engineers stumbled across the notes from my “East Meets West” talk at OO2K. Their names were Eiiti Hanyuda-san and Hiroshi Nakano-sensei. At this time patterns had again become a hot topic in the Japanese software world. Excited, these two contacted my friend Kenji Hiranabe-san whom I had first met at that event in 2000. In Kenji-san wrote to me in late August 2009 to invite me to give a ten-year anniversary talk in Japan and Takeshi Kakeda-san followed up with a mail in September inviting me to Japan for a ten-year anniversary talk in December. Schedule conflicts caused the date to be pushed to the following month. Takeshi-san took over the arrangements for the event and, to increase my appetite for the visit, said that he would arrange a trip to the famous Eishin Gakuen which Christopher Alexander had built outside Tokyo between 1982 and 1989.
+#@# There was a nine-year hiatus before I would return to Japan, in January 2010. 
+#@# The Japanese economy was bad in the 1990s, and though it bounced back somewhat after 2000, 
+#@#   the global financial crisis slowed Japan’s economy in the latter part of the decade.
 
-Also, in 2009, Waseda University announced their plans to host an AsianPLoP in March of 2010, billed as “the first Asian conference of Pattern Languages of Programs.” I found it odd that I had heard about it only third-hand, and found it odd that it was being called the “first” conference though there had already been one in 1998 and MensorePLoP in 2001, and found it strange that none of the organizers of either of those were involved in this one, and found it most strange that the venue was in academia. Indeed, much seemed to have changed in my absence. And this conference seemed to have official connections to the Hillside Group, which by then was running PLoPs that had little of the vision of us original founders. In any case, the pattern community seems to have split. Most of the pattern community would find out about my journey to Japan that would take place in the following December only after I was gone. It would be another year or two before Japan would awaken to the fact that patterns could tap deeply into their own culture, rather than just refine the Americanization of what were originally profound Japanese ideas.
+2010年1月に日本を再び訪れるまで、9年の空白の時間があった。
+1990年代の日本経済は悪い状態だったが、2000年以降のある時点で回復していたように思う。
+2000年代の後半になると、世界的な経済危機が日本経済を減速させていた。
 
-Anyhow, after a nine-year hiatus, I was coming back to Japan, and it wouldn’t be so much about patterns as about agile — even though the main event that beckoned me was called the “Alexander-Matsuri.” In the mean time many other things had happened — both in my life and in Japan. Scrum had come to Japan. Bas Vodde-san ran his first course in Japan in 2007 in cooperation with Emerson Mills, who was then at amazon.com. Emerson would go on to become the first Japanese-speaking Scrum trainer in Japan.
+#@# In mid-2009 two Japanese engineers stumbled across the notes from my “East Meets West” talk at OO2K.
+#@# Their names were Eiiti Hanyuda-san and Hiroshi Nakano-sensei. 
+#@# At this time patterns had again become a hot topic in the Japanese software world. 
+#@# Excited, 
+#@#   these two contacted my friend Kenji Hiranabe-san whom I had first met at that event in 2000. 
+#@# In Kenji-san wrote to me in late August 2009 to invite me 
+#@#   to give a ten-year anniversary talk in Japan 
+#@#     and Takeshi Kakeda-san followed up with a mail in September 
+#@#       inviting me to Japan for a ten-year anniversary talk in December. 
+#@# Schedule conflicts caused the date to be pushed to the following month. 
+#@# Takeshi-san took over the arrangements for the event and, 
+#@#   to increase my appetite for the visit, 
+#@#     said that he would arrange a trip to the famous Eishin Gakuen 
+#@#       which Christopher Alexander had built outside Tokyo between 1982 and 1989.
 
-One of the early Scrum course students (at the second course in Japan) was Kazumasa Ebata ("Ebacky"). In February 2009, Ebacky and Yasunobu Kawaguchi-san started up a Scrum team at QUICK Corporation and hired Eiichi Hayashi-san as a coach. They would go on to start the Suku-Suku-Scrum community in April 2009. Both Ebacky and Emerson would prove to be powerful forces in spreading the word about Scrum in Japan. About the same time Kenji Hiranabe-san and others from his company also took up the Scrum banner.
+2009年の中頃に、２人の日本人エンジニアが私がOO2Kカンファレンスで行った「East Meets West」の講演メモに出会った。
+羽生田栄一(Eiiti Hanyuda)さんと中埜博(Hiroshi Nakano)先生だ。
+その時パターンは再び日本のソフトウェア界でホットな話題となっていた。
+うれしいことに、
+彼ら二人は2000年のイベントで出会った平鍋健児さんに連絡をとってくれた。
+健児さんは2009年の8月終わりに、10周年記念の講演をするよう誘ってくれ、
+9月になって、懸田剛(Takeshi Kakeda)さんが12月にその講演をするよう招待してくれた。
+スケジュールが重なってしまっており、次の月に後ろ倒しになった。
+剛さんはそのイベントの手配を引き受けてくれ、
+さらに私が日本にもっと来たくなるよう、
+盈進学園への訪問を手配してくれた。
+盈進学園は、クリストファー・アレグザンダーが1982年から1989年の間に建設した東京近郊の建築物である。
 
-As for myself, I had left Bell Labs, started and ended a job at a university, started and ended another at a hardware design company and another at a consulting company, and had  struggled to pull myself out of the painful transitions and had come to enjoy life as an independent consultant. I was living in a new country and a new culture: Denmark. Danish design has a longstanding resonance with Japanese design. The two countries have many elements of design in common, with simplicity and elegance foremost among them. There is a vibrant trade in designed goods between the two countries. What’s more, a relatively close neighbor of mine in Denmark, Bent Jensen, had also made an investment in Japan, and particularly in the Japanese agile community. He and several other Nordic agile folk first visited Japan in 2007 and he would return in 2008 and again in 2011, usually hosted by our mutual friend Kenji Hiranabe-san.
+#@# Also, in 2009, Waseda University announced their plans to host an AsianPLoP in March of 2010, 
+#@#   billed as “the first Asian conference of Pattern Languages of Programs.” 
+#@# I found it odd that I had heard about it only third-hand, 
+#@#   and found it odd that it was being called the “first” conference 
+#@#     though there had already been one in 1998 and MensorePLoP in 2001, 
+#@#   and found it strange that none of the organizers of either of those were involved in this one, 
+#@#   and found it most strange that the venue was in academia. 
+#@# Indeed, much seemed to have changed in my absence. 
+#@# And this conference seemed to have official connections to the Hillside Group, 
+#@#   which by then was running PLoPs that had little of the vision of us original founders. 
+#@# In any case, the pattern community seems to have split. 
+#@# Most of the pattern community would find out about my journey to Japan 
+#@#   that would take place in the following December only after I was gone. 
+#@# It would be another year or two before Japan would awaken to the fact 
+#@#   that patterns could tap deeply into their own culture, 
+#@#     rather than just refine the Americanization of what were originally profound Japanese ideas.
 
-Some of my books had been translated into Japanese and published in my absence. Some of the organizational patterns appeared in the 2004 collected work プログラムデザイン のためのパターン言語 edited by Ryuichi Hosoya and Yuko Nakayama. C++プログラミングの筋と定石 was translated by Amura-san, Ohtani-san and Sugihara-san, and a second translation was done by Michiaki Yasumura, Hiroshi Otani and Hara Shigeru and published by Pearson in 2009. And as this trip loomed, the translation of my Multi-Paradigm Design book into Japanese was nearing completion, and a book store wanted me to give an evening presentation on the topic — but I don’t think I was ever able to fit it into my schedule.
+また、同年には早稲田大学が翌年3月にAsianPLoPをホストする計画が発表された。
+「はじめてのアジアのPattern Languages of Programs」と題してあった。
+私はそれを人づてに知らされたことも不思議だったが、
+すでに1998年にPLoPをやっているし、2001年にはMensorePLoPがあったのに、
+なぜ「はじめての」と呼んでいるのかが不思議だった。
+さらに、その過去のPLoPの主催者が一人もその企画に参加していないことも奇妙だったし、
+なにより開催場所が大学であることが奇妙極まりなかった。
+どうも、私がいない間にいろいろなことが変わってしまったのだ。
+また、このカンファレンスは、
+私たちが設立し、そのビジョンをもって各地のPLoPを運営しているヒルサイドグループとの
+つながりを公式に持っていた。
+どんな場合でも、パターンコミュニティは同じスピリットを共有しているようにみてた。
+ほとんどのパターンコミュニティの人々は、
+次の12月に久しぶりに私が日本に旅するという情報を見つけてくれた。
+日本の深遠な考え方をただアメリカナイズするより、
+パターンならば日本の文化のなかに浸透させることができることが、
+これから1〜2年をかけて明らかになっていく。
 
-My work on this trip to Japan covered a wide range of otherwise dissociated ideas that would lead up to agile. I gave a seminar on the nascent DCI architecture at Waseda University, which led to my first meeting with Kiro Harada-san, who would become a good friend over the years. And, as described below, I would travel with Nakano-sensei to Eishin Gakuen. But perhaps my most important reflection on this trip was a talk I gave at the Alexander Festival entitled “From Patterns: Eastward to Lean, Westward to True Objects.”
+#@# Anyhow, after a nine-year hiatus, 
+#@#   I was coming back to Japan, and it wouldn’t be so much about patterns as about agile 
+#@#   — even though the main event that beckoned me was called the “Alexander-Matsuri.” 
+#@# In the mean time many other things had happened — both in my life and in Japan. 
+#@# Scrum had come to Japan. 
+#@# Bas Vodde-san ran his first course in Japan in 2007 
+#@#   in cooperation with Emerson Mills, who was then at amazon.com. 
+#@# Emerson would go on to become the first Japanese-speaking Scrum trainer in Japan.
 
-The title intentionally echoed that of my talk ten years earlier and was intended to be a reflection of, or continuation of, the OO2K event. This talk was in many ways the high point of my experience with Japanese culture, patterns, and agile together. I had painstakingly pored through Alexander’s literature seeking out the origins and the links to the Do Kyo. And I found something amazing in quotes like this:
+いずれにせよ、9年の空白を挟んで、
+私は日本に帰ってきた。ここからアジャイルに比べてパターンについての話は多くはない。
+私を日本に呼び戻したイベントは、「アレグザンダー祭り」と呼ばれていたのだけれど。
+その間に、私の人生にとっても、日本にとっても、非常に多くのことが起きていた。
+スクラムが日本にやってきたのだ。
+バス・ボッデ(Bas Vodde)さんが最初の研修を行ったのは2007年のことだった。
+以前Amazon.comで働いていたエマーソン・ミルズ(Emerson Mills)の協力によって行われた。
+エマーソンはその後、日本において初の日本語を話せるスクラムトレーナーになった。
 
-And finally, of course, I want to paint a picture which allows me to understand the patterns of events which keep on happening in the thing whose structure I seek. In other words, I hope to find a picture, or a structure, which will, in some rather obvious and simple sense, account for the outward properties, for the pattern of events of the thing which I am studying.
+#@# One of the early Scrum course students (at the second course in Japan) 
+#@#   was Kazumasa Ebata ("Ebacky"). 
+#@# In February 2009, 
+#@# Ebacky and Yasunobu Kawaguchi-san started up a Scrum team at QUICK Corporation 
+#@#   and hired Eiichi Hayashi-san as a coach. 
+#@# They would go on to start the Suku-Suku-Scrum community in April 2009. 
+#@# Both Ebacky and Emerson would prove to be powerful forces 
+#@#   in spreading the word about Scrum in Japan. 
+#@# About the same time Kenji Hiranabe-san and others from his company 
+#@#   also took up the Scrum banner.
 
-— Christopher Alexander, The Timeless Way of Building, Chapter 5
+初期のスクラム研修(日本で２回目の研修)の受講生の一人が、
+エバッキー("Ebacky")こと江端一将(Kazumasa Ebata)だった。
+2009年の2月に、エバッキーと川口恭伸(Yasunobu Kawaguchi)さんは、
+QUICK社で最初のスクラムチームを立ち上げ、林栄一(Eiichi Hayashi)さんをコーチとして雇った。
+彼らは、すくすくスクラム(Suku-Suku-Scrum)というコミュニティを2009年4月に始めた。
+エバッキーとエマーソンが、日本においてスクラムという言葉を普及させる
+力強いフォースとなったことは間違いないだろう。
+ほぼ同時期に平鍋健児さんたちも彼らの会社でスクラムのバナーを掲載するようになった。
 
-Alexander was clearly in tune with the life rhythms of architecture. This returns us to the relationship between space and time, of バ, of the role of time in Japanese culture, and harks back to that 間 that I had learned so early on.
+#@# As for myself, I had left Bell Labs, started and ended a job at a university, 
+#@#   started and ended another at a hardware design company 
+#@#   and another at a consulting company, 
+#@#   and had struggled to pull myself out of the painful transitions 
+#@#     and had come to enjoy life as an independent consultant. 
+#@# I was living in a new country and a new culture: Denmark. 
+#@# Danish design has a longstanding resonance with Japanese design. 
+#@# The two countries have many elements of design in common, 
+#@#   with simplicity and elegance foremost among them. 
+#@# There is a vibrant trade in designed goods between the two countries. 
+#@# What’s more, a relatively close neighbor of mine in Denmark, Bent Jensen, 
+#@#   had also made an investment in Japan, and particularly in the Japanese agile community. 
+#@# He and several other Nordic agile folk first visited Japan in 2007 
+#@#   and he would return in 2008 and again in 2011, 
+#@#   usually hosted by our mutual friend Kenji Hiranabe-san.
 
-This talk is one of the most satisfying talks I ever put together. I discovered incredible depths of synchronicity and integration while researching this talk. They go to the very deepest concepts of form and existence, and all the way to what the Japanese call 自然. This concept is directly at the foundation of Alexander’s patterns, of the Toyota Way, and of Scrum. The second generation of these ideas surfaces in the Organizational Patterns (which I would bring to Japan on my next visit), in agile, and in the DCI architecture I had presented in my seminar.
+私自身は、ベル研究所を離れ、大学での仕事を始め、その仕事を辞め、
+ハードウェア設計の会社と、コンサルティング会社での仕事を始め、そして辞め、
+痛みの伴う変化の過程でもがいた後に、
+独立コンサルタントとしての仕事を楽しむようになった。
+そして、新しい国と文化のなかで暮らすようになっていた。デンマークである。
+デンマークのデザインは、日本のデザインと長年共鳴してきた。
+この２つの国は多くの共通のデザイン要素をもっていて、
+  とりわけシンプルさとエレガンスさを共有している。
+両国の間でのデザイン用品の輸出入も活発だ。
+さらにデンマークで近所に住んでいる、ベント・ジェンセン(Bent Jensen)も、
+日本への投資、特に日本のアジャイルコミュニティへの投資を行っていた。
+彼と数名の北欧のアジャイル仲間たちが日本に初めて訪問したのは2007年のことで、
+その後2008年と2011年にも再び訪れている。
+いつも、私たちの共通の友人である平鍋健児さんがホストしていた。
 
-So I explained that I saw many links forming between our software worldview and Japanese culture. I love telling people of my first face-to-face meeting with Alexander back in 1996, and his relating of the drunken evening with the foo shui masters, and about the relationship of his work to the Do Kyo. The Toyota Way offers many practical paths to harmony in its focus on eliminating 無駄, 斑, and 無理. Scrum takes its inspiration in part from the Toyota Way and in part from Jeff Sutherland-san’s direct inspiration from Buddhist philosophy. The organizational patterns foresaw most of the Toyota ideas that would make it into Scrum just a couple of years afterwards: Developer Controls Process and Responsibilities Engage and chaku-chaku; Holistic Diversity and Toyota work cells; and many more. 
+#@# Some of my books had been translated into Japanese and published in my absence. 
+#@# Some of the organizational patterns appeared 
+#@#   in the 2004 collected work プログラムデザイン のためのパターン言語 
+#@#     edited by Ryuichi Hosoya and Yuko Nakayama. 
+#@# C++プログラミングの筋と定石 was translated by Amura-san, Ohtani-san and Sugihara-san, 
+#@#   and a second translation was done by Michiaki Yasumura, Hiroshi Otani and Hara Shigeru 
+#@#     and published by Pearson in 2009. 
+#@# And as this trip loomed, the translation of my Multi-Paradigm Design book into Japanese 
+#@#   was nearing completion, and a book store wanted me to give an evening presentation 
+#@#     on the topic — but I don’t think I was ever able to fit it into my schedule.
 
-But it goes deeper, even into the common principles between patterns and agile. Alexander talks of the “principle of participation” (The Oregon Experiment, Chapter 2) while the the Japanese speak of 根回し. Alexander talks of a “slow and continuous process” (Christopher Alexander, The Oregon Experiment, p. 69) and the Toyota Way embraces 根回し. Alexander wants to build on mature, established practice; the Toyota Way Principle number 8 says to use only reliable, thoroughly tested technology. Alexander says that several acts of building will slowly generate a new house over time (Alexander, Timeless Way of Building, Chapter 24) while Taichi Ōno speaks of 平準化: the consistent tortoise beats the hare. Alexander says we must rely on feelings more than intellect; George Yamashima, director of the Toyota technical Center, says that 反省 is key (Liker, The Toyota Way, p. 257). Both approaches clearly embrace Kaizen mind.
+私がいない間にも、私の本が幾つか日本語に訳されている。
+組織パターンのうちいくつかは、
+細谷竜一(Ryuichi Hosoya)と中山裕子(Yuko Nakayama)によって編集された
+『プログラムデザインのためのパターン言語』に掲載されている。
+安村通晃(Michiaki Yasumura)、大谷浩司(Hiroshi Otani)、渦原茂(Sugihara Shigeru)が、
+『C++プログラミングの筋と定石』を翻訳し、2009年にピアソン桐原(Pearson)から再刊されている。
+そしてこの旅で知ったのだが、マルチパラダイムデザインの本が翻訳完了間近であった。
+そこで、ある書店が私に、このトピックに関する夜間のプレゼンテーションをしてくれないかと尋ねてきたが、
+私のスケジュールに講演日程を合わせるのは困難だった。
 
-The other schools of thought fall in line. Think of the Organizational Patterns as a way of designing teams and companies in the way that Toyota designs cars, and think of Scrum in the same way. All of these ideas go back to the same roots; all follow the same principles. I emphasized in the talk that these ideas together must be contrasted with “agile,” which is a much shallower approach to improving the world of work. Agile is about rework such as refactoring and deferring decisions; the Toyota Way about careful thought up front, pushing all the rework into the more flexible activity of analysis. I delineated five other ways in which agile and the Toyota Production System are in diametric opposition. To this day, far too many confuse agile with the Toyota Way.
+#@# My work on this trip to Japan covered a wide range of otherwise dissociated ideas 
+#@#   that would lead up to agile. 
+#@# I gave a seminar on the nascent DCI architecture at Waseda University, 
+#@#   which led to my first meeting with Kiro Harada-san, 
+#@#   who would become a good friend over the years. 
+#@# And, as described below, I would travel with Nakano-sensei to Eishin Gakuen. 
+#@# But perhaps my most important reflection on this trip was a talk 
+#@#   I gave at the Alexander Festival entitled 
+#@#     “From Patterns: Eastward to Lean, Westward to True Objects.”
 
-The next section of the talk described how Trygve Reenskaug’s DCI paradigm is one technological face of these principles. It is a style of software design that gives a voice to the expression of temporal concerns — to the patterns of events that Alexander holds dear — while focusing more outward on the human being rather than inward on technology. In my talk I drove deeper and deeper into the roots that are common to all of these Japan-culture-linked world-views. Part of the conclusion of the talk was that the pattern discipline had lost its way, degrading into overly technical concerns while missing the grander notions of systems thinking and beauty. This talk would foresee a profound analysis by a great Japanese speaker in a comical setting eleven months later.
+この旅でした仕事は、幅広い。
+いずれアジャイルにつながっていくのだが、その時点ではバラバラの仕事だった。
+初期のDCIアーキテクチャについてのセミナーを早稲田大学で行った。
+ここで原田騎郎さん(Kiro Harada-san)との最初の出会いがあった。
+彼とはその後長年の友人となる。
+そして、あとでまた述べるが、中埜先生と盈進学園を訪問した。
+だが、もしかすると私にとって最も得るものが大きかったのは、
+アレグザンダー祭りで行った講演
+「パターンから: 東ではリーンへ、西では本当のオブジェクトへ」
+かもしれない。
 
-The talk concluded with a facet of patterns which sets them apart from the foundations of Toyota or agile: that of geometry. This is an aspect of patterns; also of agile — in the broader, sense, of existence — that I currently understand only viscerally. I could only echo Alexander’s mysterious groanings on this topic and relate a bit of what I know about the formal edges of this phenomenon from my Doctoral thesis.
+#@# The title intentionally echoed that of my talk ten years earlier 
+#@#   and was intended to be a reflection of, or continuation of, the OO2K event. 
+#@# This talk was in many ways the high point of my experience 
+#@#   with Japanese culture, patterns, and agile together. 
+#@# I had painstakingly pored through Alexander’s literature seeking out the origins 
+#@#   and the links to the Do Kyo. 
+#@# And I found something amazing in quotes like this:
 
-At this time I still believed that patterns could succeed and, if they did, Japan would be the fount of their success. Patterns had emerged from the roots of Japanese culture and had even been nurtured there in some degree in Alexander’s Eishen Gakuen project. However, some of the roots of agile’s demise had already been planted. As eventually happened in Europe, the concepts had found inroads into academia and started to take on more academic than human tone. I had used my glimpses of these problems to try to rally the Japanese audience to again take up patterns if out of, for no other reason, the pride of living in the culture where they were born. Maybe too many Japanese had moved far enough Westward from that culture to no longer be able to see the pattern-ness of their cultural landscape.
+このタイトルは10年前の講演タイトルをわざと復唱している。
+あのOO2Kイベントから得たもの、または、続編である。
+この講演では、日本文化、パターン、アジャイルに関する私の体験をまとめ、
+その概要を、様々なアプローチで話した。
+私はアレグザンダーの文献を注意深く読み、
+その源流や、道教への参照がないか探した。
+すると以下のような素晴らしいとしか言いようのない文章を見つけた。
 
-I nonetheless sought every opportunity I could to learn more about Alexander’s deep pattern visions and about their Japanese roots. I had long heard stories that one of Alexander’s colleagues, working in the Center for Environmental Structure, was from Japan and had started to engage the pattern community there. That would provide a double benefit of close association both with Alexander’s ideals and their Japanese roots! Indeed, his name is Hiroshi Nakano-san, and I had the pleasure of meeting him for the first time at the Alexander Fest. It was in fact partly his fault that I had been invited, based on his discovery of my early talks in Japan about patterns and Alexander’s work. He is a man who is more alive than almost everyone I know, with a loud laugh and a keen eye for what is happy and good. Yet he can also be somber and reflective when life and relationship call for it. He would be a large influence on me over the years.
+#@# And finally, of course, 
+#@#   I want to paint a picture which allows me to understand the patterns 
+#@#     of events which keep on happening in the thing whose structure I seek. 
+#@# In other words, I hope to find a picture, or a structure, which will, 
+#@#   in some rather obvious and simple sense, account for the outward properties, 
+#@#   for the pattern of events of the thing which I am studying.
 
-But it is sometimes a struggle leading the Japanese to an understanding of the power of their own culture and history. After this visit, I received a thoughtful mail from Masanari Motohashi. Ari-san wrote this to me:
+#@# — Christopher Alexander, The Timeless Way of Building, Chapter 5
 
-I study both western and eastern culture as an amateur, but I feel that almost Japanese don't know true value of Japanese/eastern culture or concepts yet. We subconsciously believe that we should hesitate/neglect our culture, even though we don't know that we may misunderstand our culture. In this case, "we" means the standard/stereotype business/academia/government people in Japanese including software and information technology persons.
+//quote{
+結局、私の描こうとする空間像は、自分の求める構造内で、
+繰り返し発生する出来事を理解させてくれるようなものになるのは当然である。
+言い換えると、私の見出そうとする空間像または構造とは、ごく素朴な意味で、
+外見上の特性や自分の注目する情況の出来事のパタンを説明してくれるようなものである。
 
-He felt that the people who attended the Alexander-Matsuri were different. So there is hope. In June 2010, I received a draft of a pattern paper entitled, ”Language of 倭.” Colloquially, “倭” translates into English as “harmony;” more literally, it is an ancient form of 日本, and it might best be translated into English as “community.” I read it with wonder. It drives to the foundations of the forms of community dialogue, employing metaphors from ceremonies around shrines in Japanese culture. It was written by Masanari Motohashi-san about Mikoshi, Yoriai, and Kuuki — topics that Masanari-san had been meditating about for many months. It has one of the best articulations of 守破離 that I have ever read and clearly articulates not only 倭 but the elusive concept of 場 as well. In my mind, this paper stands as one of the classics of organizational pattern literature — in fact, of all pattern literature that has emerged from the broader software community. Japan was finding its own roots.
+クリストファー・アレグザンダー著, 平田翰那訳『時を超えた建設の道』第５章 空間のパタン
+//}
+
+#@# Alexander was clearly in tune with the life rhythms of architecture. 
+#@# This returns us to the relationship between space and time, 
+#@#   of バ, of the role of time in Japanese culture, 
+#@#   and harks back to that 間 that I had learned so early on.
+
+アレグザンダーは明確にアーキテクチャの生体リズムを調和しようとした。
+これは私たちにとっては、空間と時間のあいだの関係であり、
+「場 (バ)」、日本文化における時間の役割、そして、以前学んだ「間」を意識することだ。
+
+#@# This talk is one of the most satisfying talks I ever put together. 
+#@# I discovered incredible depths of synchronicity and integration while researching this talk. 
+#@# They go to the very deepest concepts of form and existence, 
+#@#   and all the way to what the Japanese call 自然. 
+#@# This concept is directly at the foundation of Alexander’s patterns, 
+#@#   of the Toyota Way, and of Scrum. 
+#@# The second generation of these ideas 
+#@#   surfaces in the Organizational Patterns (which I would bring to Japan on my next visit), 
+#@#   in agile, and in the DCI architecture I had presented in my seminar.
+
+その講演はわたしが行った講演の中でも最も満足のいくものの一つだった。
+講演を準備するために調査している間、きわめて深いレベルでの同期性(synchronicity)とまとまり(integration)を感じた。
+形(form)と存在(existence)の概念、そして日本人が「自然」と呼ぶあらゆる過程の深淵に至った。
+この概念は直接的にはアレグザンダーのパターンの基礎であるが、トヨタウェイとスクラムの基礎でもある。
+こうしたアイデアの第二世代は、
+アジャイルにおいても、講演で紹介したDCIアーキテクチャにおいても、
+組織パターン(これは次の日本訪問で運んだ)として表される。
+
+#@# So I explained that I saw many links forming between our software worldview and Japanese culture. 
+#@# I love telling people of my first face-to-face meeting with Alexander back in 1996, 
+#@#   and his relating of the drunken evening with the foo shui masters, 
+#@#     and about the relationship of his work to the Do Kyo. 
+#@# The Toyota Way offers many practical paths to harmony 
+#@#   in its focus on eliminating 無駄, 斑, and 無理. 
+#@# Scrum takes its inspiration in part from the Toyota Way 
+#@#   and in part from Jeff Sutherland-san’s direct inspiration from Buddhist philosophy. 
+#@# The organizational patterns foresaw most of the Toyota ideas 
+#@#   that would make it into Scrum just a couple of years afterwards: 
+#@#   Developer Controls Process and Responsibilities Engage and chaku-chaku; 
+#@#   Holistic Diversity and Toyota work cells; and many more. 
+
+そして、私たちのいるソフトウェアの世界観と日本文化の間に見つけた多くの関連性について説明を行った。
+私は1996年にアレグザンダーと初めて対面した時のことを人々に語るのが大好きだ。
+風水師の人たちと飲んだ夜のこと、彼の仕事と道教の関係のことを。
+トヨタウェイは無駄(ムダ)、斑(ムラ)、無理(ムリ)をなくすことに集中することで、
+調和への多くの現実的な筋道を与える。
+スクラムはトヨタウェイの一部から発想を得ている。
+ジェフ・サザーランドさん(Jeff Sutherland-san)が直接、仏教思想から得た発想もある。
+組織パターンは、スクラムが数年後に取り込むことになる多くのトヨタのアイデアを予測していた。
+開発者がプロセスをコントロールする(Developer Controls Process)および
+複数の責務が関与する(Responsibilities Engage)は着々(chaku-chaku)と関連しているし、
+全体論的多様性(Holistic Diversity)はトヨタのワークセルと関連していて、他にもたくさんの関連がある。
+
+#@# But it goes deeper, even into the common principles between patterns and agile. 
+#@# Alexander talks of the “principle of participation” (The Oregon Experiment, Chapter 2) 
+#@#   while the the Japanese speak of 根回し. 
+#@# Alexander talks of a “slow and continuous process” 
+#@#   (Christopher Alexander, The Oregon Experiment, p. 69) 
+#@#   and the Toyota Way embraces 根回し. 
+#@# Alexander wants to build on mature, established practice; 
+#@#   the Toyota Way Principle number 8 says to use only reliable, thoroughly tested technology. 
+#@# Alexander says that several acts of building will slowly generate a new house over time 
+#@#   (Alexander, Timeless Way of Building, Chapter 24) 
+#@#   while Taichi Ōno speaks of 平準化: the consistent tortoise beats the hare. 
+#@# Alexander says we must rely on feelings more than intellect; 
+#@#   George Yamashima, director of the Toyota technical Center, says that 反省 is key 
+#@#     (Liker, The Toyota Way, p. 257). 
+#@# Both approaches clearly embrace Kaizen mind.
+
+それはさらに深めれば、パターンとアジャイルの間にある共通の原則に至る。
+アレグザンダーの言う「参加の原則(principle of participation)」(『オレゴン大学の実験』第2章)
+は日本人が「根回し」と呼ぶものだ。
+アレグザンダーの言う「緩やかで継続的なプロセス(slow and continuous process)」(『オレゴン大学の実験』第2章)と
+トヨタウェイは根回しを含んでいる。
+アレグザンダーは熟成した、確立したプラクティスを作りたいと思っていたが、
+トヨタウェイの原則8番でも、信頼でき、完全にテストされた技術だけを使うと言っている。
+アレグザンダーは幾つかの建築の取り決めが、時間をかけてゆっくりと新しい家が生み出していくと言っているが
+(『時を超えた建設の道』24章)、
+大野耐一は「平準化」について「着実なカメがウサギに勝つ」と語っている。
+アレグザンダーは知性よりも感覚を信頼すべきだと言っているが、
+トヨタテクニカルセンター所長のGeorge Yamashimaは「反省」が鍵だと言っている。
+(Liker, The Toyota Way, p. 257 / ジェフリー・K・ライカー著、稲垣公夫訳『ザ・トヨタウェイ(上)(下)』)
+いずれのアプローチも明らかに改善マインドを内包している。
+
+#@# The other schools of thought fall in line. 
+#@# Think of the Organizational Patterns as a way of designing teams and companies 
+#@#   in the way that Toyota designs cars, and think of Scrum in the same way. 
+#@# All of these ideas go back to the same roots; all follow the same principles. 
+#@# I emphasized in the talk that these ideas together must be contrasted with “agile,” 
+#@#   which is a much shallower approach to improving the world of work. 
+#@# Agile is about rework such as refactoring and deferring decisions; 
+#@#   the Toyota Way about careful thought up front, 
+#@#     pushing all the rework into the more flexible activity of analysis. 
+#@# I delineated five other ways in which agile and the Toyota Production System are 
+#@#   in diametric opposition. 
+#@# To this day, far too many confuse agile with the Toyota Way.
+
+これらの行間にはその他の思考の結果も含まれている。
+組織パターンを、トヨタがクルマをデザインするやり方で、チームや会社をデザインする方法として考えてみよう。
+スクラムも同じように考えてみよう。
+これらの考え方の根っこは同じところにある。同じ原則に従っているのだ。
+私は講演でこれらの考え方と、「アジャイル」との違いを強調した。
+アジャイルは、世界の仕事の仕方を変えるという点では、かなり浅薄なアプローチだ。
+アジャイルというのは、リファクタリングや決定を遅らせるといったアイデアをやり直した(reworrk)にすぎない。
+トヨタウェイはもっと以前に注意深く考え、すべてのやり直しを柔軟な分析活動のなかに追いやる。
+私は５つの方法を使って、アジャイルとトヨタ生産方式が全く正反対であるところを描き出した。
+現在に至るまで、アジャイルとトヨタウェイの間にはとても大きな混乱がみられる。
+
+#@# The next section of the talk described 
+#@#   how Trygve Reenskaug’s DCI paradigm 
+#@#     is one technological face of these principles. 
+#@# It is a style of software design 
+#@#   that gives a voice to the expression of temporal concerns 
+#@#   — to the patterns of events that Alexander holds dear — 
+#@#   while focusing more outward on the human being rather than inward on technology. 
+#@# In my talk I drove deeper and deeper into the roots that 
+#@#   are common to all of these Japan-culture-linked world-views. 
+#@# Part of the conclusion of the talk was that the pattern discipline had lost its way, 
+#@#   degrading into overly technical concerns 
+#@#     while missing the grander notions of systems thinking and beauty. 
+#@# This talk would foresee a profound analysis by a great Japanese speaker 
+#@#   in a comical setting eleven months later.
+
+講演の次のパートでは、
+トリグブ・リエンスカウ(Trygve Reenskaug)のDCIパラダイムが
+これらの原則の技術的な一つの表象だということを説明した。
+DCIはソフトウェアデザインのスタイルの一つで、
+内向きの技術的な事柄より、外向きの、より人間にフォーカスし、
+(アレグザンダーが愛した出来事のパターンへの)一時的な関心の表現に
+発言権を与える。
+私の講演ではより深く深く、ここで語ったような
+日本文化とリンクした世界観すべての共通の根元まで辿った。
+最後に講演のまとめとして、パターン原則は方向を見失い、
+システム思考と美への基礎的な関心を忘れ、
+技術的な関心にばかり捉われて退化しつつある。
+この講演は11ヶ月後に素晴らしい日本人の講演者によって分析が行われることを予知していた。
+
+#@# The talk concluded with a facet of patterns 
+#@#   which sets them apart from the foundations of Toyota or agile: that of geometry. 
+#@# This is an aspect of patterns; also of agile 
+#@#   — in the broader, sense, of existence — that I currently understand only viscerally. 
+#@# I could only echo Alexander’s mysterious groanings on this topic 
+#@#   and relate a bit of what I know 
+#@#     about the formal edges of this phenomenon from my Doctoral thesis.
+
+講演の最後に、パターンのファセット(訳注: インタフェース)を話して締めくくった。
+それは、トヨタやアジャイルを基礎と切り分ける、ジオメトリだ。
+これはパターンの考え方だが、アジャイルでもそうだ。より広い意味では、存在の認識。
+私は直感的にしか理解できていないが。
+私はできることは、この話題におけるアレグザンダーのミステリアスなうめき声を繰り返し、
+私自身が書いた博士論文から、この現象の形式的な輪郭について
+私が知りえたほんのわずかのことを説明することしかできない。
+
+#@# At this time I still believed that patterns could succeed and, 
+#@#   if they did, Japan would be the fount of their success. 
+#@# Patterns had emerged from the roots of Japanese culture 
+#@#   and had even been nurtured there in some degree in Alexander’s Eishen Gakuen project. 
+#@# However, some of the roots of agile’s demise had already been planted. 
+#@# As eventually happened in Europe, 
+#@#   the concepts had found inroads into academia 
+#@#     and started to take on more academic than human tone. 
+#@# I had used my glimpses of these problems to try to rally the Japanese audience 
+#@#   to again take up patterns if out of, for no other reason, 
+#@#   the pride of living in the culture where they were born.
+#@# Maybe too many Japanese had moved far enough Westward from that culture 
+#@#   to no longer be able to see the pattern-ness of their cultural landscape.
+
+この時点で私は、まだパターンは成功できると信じていたし、
+もし日本の人がやってくれるなら、パターンの成功の源泉になると考えていた。
+パターンは日本文化の源流から発生しており、
+アレグザンダーの盈進学園プロジェクトによってパターンはある程度育てられてきた。
+しかし、幾つかのアジャイルの死の芽もまた植えられていた。
+ついに欧州で、
+パターンの概念がアカデミアを侵食しているのが発見され、
+人間的な感覚から、よりアカデミックなものになり始めていた。
+私はそういった問題を垣間見てきたので、日本の聴衆を呼び集め、
+なにより自分たちの生まれた場所の文化の中に生きるプライドのために、
+そこからパターンをふたたび抽出していくよう、促したかった。
+もしかすると、すでに多くの日本人が、そうした文化から西洋の文化に移ってしまっていて、
+現在の文化の有りようから、パターンを見出すことは、もうないのかもしれない。
+
+#@# I nonetheless sought every opportunity 
+#@#   I could to learn more about Alexander’s deep pattern visions 
+#@#     and about their Japanese roots. 
+#@# I had long heard stories that one of Alexander’s colleagues, 
+#@#   working in the Center for Environmental Structure, was from Japan 
+#@#     and had started to engage the pattern community there. 
+#@# That would provide a double benefit of close association both with Alexander’s ideals 
+#@#   and their Japanese roots! 
+#@# Indeed, his name is Hiroshi Nakano-san, and I had the pleasure of meeting him 
+#@#   for the first time at the Alexander Fest. 
+#@# It was in fact partly his fault that I had been invited, 
+#@#   based on his discovery of my early talks in Japan about patterns and Alexander’s work. 
+#@# He is a man who is more alive than almost everyone I know, 
+#@#   with a loud laugh and a keen eye for what is happy and good. 
+#@# Yet he can also be somber and reflective when life and relationship call for it. 
+#@# He would be a large influence on me over the years.
+
+それにもかかわらず、私はアレグザンダーの深いパターンのビジョンと
+日本におけるその源泉をもっと学ぶため、
+あらゆる機会を探していた。
+アレグザンダーが環境構造センターで働いていた頃の同僚の中に、
+日本から来た人がおり、彼は日本でパターンのコミュニティを作り始めたという話を、
+もう長いこと聞いていた。
+これはアレグザンダーの理想と日本の源流、いずれにも繋がる、
+二重の恩恵を得られるかもしれない機会だった！
+その人の名は中埜博さん(Hiroshi Nakano-san)という。
+アレグザンダー祭りにおいて、初めて彼と会うことができ、大変嬉しかった。
+実際この出会いは、中埜さんがきっかけの一部を作ったものだ。
+私が以前日本で行ったパターンとアレグザンダーに関する講演を、中埜さんが発見し、私が招待されることになったのだ。
+彼は私が知る誰よりもいきいきしている。
+大きな声で笑い、鋭い目で幸せや、よいものを見つけ出す。
+それでいて、人生や関係性について語る時は、厳粛で思慮深い。
+彼はそれから何年にも渡り、私に大きな影響を及ぼしてくれた。
+
+#@# But it is sometimes a struggle leading the Japanese to an understanding 
+#@#   of the power of their own culture and history. 
+#@# After this visit, I received a thoughtful mail from Masanari Motohashi. 
+#@# Ari-san wrote this to me:
+
+しかし、日本の人々に、自分たちの文化と歴史が持つ力を理解してもらうように、
+促すことは、難しいこともある。
+この訪問のあと、私は本橋正成(Masanari Motohashi)さんから、思慮深いメールをもらった。
+Ariさん(訳注: 本橋さん)は、こう言っている。
+
+#@# //quote{
+#@# I study both western and eastern culture as an amateur, 
+#@#   but I feel that almost Japanese don't know true value of 
+#@#     Japanese/eastern culture or concepts yet.
+#@# We subconsciously believe that we should hesitate/neglect our culture, 
+#@#   even though we don't know that we may misunderstand our culture. 
+#@# In this case, "we" means the standard/stereotype business/academia/government people 
+#@#   in Japanese including software and information technology persons.
+#@# //}
+
+//quote{
+私は西洋と東洋の両方の文化を独学て学びました。
+しかし私はほとんどの日本人は、日本ないし東洋の文化や概念の
+本当の価値を知らないと感じています。
+私たちは無意識のうちに自分たちの文化を恥じたり、軽視したりするべきだと信じています。
+私たちが自分たちの文化を誤解しているかもしれない、ということすら知らないのにです。
+ここで「私たち」とは、日本の標準的なステレオタイプのビジネス、アカデミア、政府の人々です。
+ここにはソフトウェアや情報技術に従事する人も含みます。
+//}
+
+#@# He felt that the people who attended the Alexander-Matsuri were different. 
+#@# So there is hope. 
+#@# In June 2010, I received a draft of a pattern paper entitled, ”Language of 倭.” 
+#@# Colloquially, “倭” translates into English as “harmony;” 
+#@#   more literally, it is an ancient form of 日本, 
+#@#    and it might best be translated into English as “community.” 
+#@# I read it with wonder. 
+#@# It drives to the foundations of the forms of community dialogue, 
+#@#   employing metaphors from ceremonies around shrines in Japanese culture. 
+#@# It was written by Masanari Motohashi-san about Mikoshi, Yoriai, and Kuuki 
+#@#   — topics that Masanari-san had been meditating about for many months. 
+#@# It has one of the best articulations of 守破離 
+#@#   that I have ever read and clearly articulates not only 倭 but the elusive concept of 場 as well. 
+#@# In my mind, this paper stands as one of the classics of organizational pattern literature 
+#@#   — in fact, of all pattern literature that has emerged from the broader software community. 
+#@# Japan was finding its own roots.
+
+アレグザンダー祭りに来ているような人々は違う、と彼は考えている。
+そう、ここには希望がある。
+2010年6月に、パターン論文の草稿を受け取った。「Language of 倭」というタイトルだった。
+口語で「倭」を訳すと「Harmony」ということになる。
+より文語的には、これは「日本」の古い表現だ。
+そして一番上手な英語訳は、おそらく「community」だろう。
+私は不思議な気持ちでこの草稿を読んだ。
+この論文は日本文化における、神社にまつわる儀式のメタファーを用いて、
+コミュニティでの対話の形式の基底にあるものを紹介する。
+本橋正成さんは神輿(Mikoshi)、寄合(Yoriai)、空気(Kuuki)について述べている。
+何ヶ月にも渡って本橋さんが瞑想してきたトピックである。
+これは私が聞いたり明確に表現されたものの中で、最も優れた「守破離」の表現の一つだ。
+「倭」だけでなく「場」の概念も見事に表現されている。
+私の考えでは、この論文は組織パターンの文書のなかでも、最も古くからある考え方の上に立っている。
+実際、パターンの文書というのは、ほとんどが広範なソフトウェアコミュニティから得られたものだ。
+日本は自らの源泉を見つけたのだ。
 
 
+#@# == Eishin
+== 盈進
 
-Eishin
+#@# Hiroshi-san would be my host for an excursion to Eishin Gakuen. 
+#@# I would learn that Eishin wasn’t just a myth or an incidental event 
+#@#   in time to the Japanese agile community, 
+#@#   but that in fact Hiroshi-sensei had worked closely with Christopher Alexander 
+#@#     as the new school came into being, 
+#@#       and that he had already been engaging with the software agile community in Japan.
 
-Hiroshi-san would be my host for an excursion to Eishin Gakuen. I would learn that Eishin wasn’t just a myth or an incidental event in time to the Japanese agile community, but that in fact Hiroshi-sensei had worked closely with Christopher Alexander as the new school came into being, and that he had already been engaging with the software agile community in Japan.
+博さん(訳注: 中埜博さん)は、盈進学園に訪問する際にホストを務めてくれた。
+日本のアジャイルコミュニティにとって、
+盈進は単なる神話ではなく、偶然の出来事でもない、ということを学ぶことになった。
+実際、博先生はこの学校を新しく作る際には、クリストファー・アレグザンダーと一緒に働いていた。
+そしてこの訪問の時点では、日本のソフトウェアアジャルコミュニティとも関係を築いていた。
 
 So I would go there with Sasagawa-san and Nakano-sensei — two students of Christopher Alexander-san. Nakano-sensei is a gnome of a man who is ever smiling in the manner of someone who is about to deliver the punch line to a joke. He maintains a beret and braces as his trademarks, telegraphing the image of an artist. He is the principal in the Center for Environment Structure (CES) in Japan, Christopher Alexander’s architectural firm. Nanako-sensei had figured prominently in the building of Eishin and, in fact, his name comes up a number of times in Alexander’s new book Battle, and we even find a few pictures of a much younger Nanako-sensei there (he looks strange without his beret)!
 
