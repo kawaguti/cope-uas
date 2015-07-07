@@ -1337,7 +1337,40 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 日本のデザインや建築はアーキテクチャにとって役立つことを予見したが、
 盈進学園への訪問で、建築をより活きたものにするためのプロセスを、より深く知ることができた。
 
-The repercussions for agile were huge. At one juncture, standing in the courtyard, one looks through the arch of the Administration building to catch a glimpse of a row of buildings along a narrow, quiet road curving out of sight. It is the quintessential example of ZEN VIEW. There is no way this could have been planned: it is an emergent feature of the design that lures one’s attention and drives deep into one’s focus. As with our software systems, there was a mix of old and new: some tea plants from the original plantation, and an old country-style fence around the property, decorate the site. Much of the lacquer craftswork was done by local craftsman Ishiguro-san, though some students also learned how to apply the lacquer — it would have taken far too long if he had done it all himself. (It is strange that Alexander fails to mention this in Battle.)
+#@# The repercussions for agile were huge. 
+#@# At one juncture, standing in the courtyard, 
+#@#   one looks through the arch of the Administration building 
+#@#   to catch a glimpse of a row of buildings 
+#@#   along a narrow, quiet road curving out of sight.
+#@# It is the quintessential example of ZEN VIEW. 
+#@# There is no way this could have been planned: 
+#@#   it is an emergent feature of the design 
+#@#     that lures one’s attention and drives deep into one’s focus. 
+#@# As with our software systems, there was a mix of old and new: 
+#@#   some tea plants from the original plantation, 
+#@#   and an old country-style fence around the property, 
+#@#     decorate the site. 
+#@# Much of the lacquer craftswork was done by local craftsman Ishiguro-san, 
+#@#   though some students also learned how to apply the lacquer 
+#@#   — it would have taken far too long if he had done it all himself. 
+#@#   (It is strange that Alexander fails to mention this in Battle.)
+
+アジャイルに反映できる気づきはたくさんあった。
+道が交差するあたりで、中庭に立つと、
+管理棟のアーチを見渡すことができる。
+建物の並ぶ静かな小道は、カーブを描きながら、やがて見えなくなる。
+これは禅の世界観(ZEN VIEW)の真髄を示している。
+こうしたことを設計することはできない。
+設計の結果、後発的に浮かび上がってきた機能(emergent feature)だ。
+見るものの注意を引き寄せ、その目線を誘導する。
+ソフトウェアシステムでいえば、古いものと新しいものが混在するときに、
+元来の植え込み(訳注: 古いもの)から幾つかのお茶の苗をとってきて、
+プロパティの周りを古い庭園っぽい塀で囲って、
+サイトの見た目を調整するようなものだ。
+地元の漆職人のイシグロさん(Ishiguro-san)による、多くの漆工芸が採用されている。
+学校には漆の利用方法を学ぶ学生もおり、
+自分自身で学ぶのに比べれば、極めて多くのことを学ぶことができるだろう。
+(アレグザンダーが『Battle』の中でそのことに触れなかったのが不思議だ。)
 
 The point is that mature, classic ideas have a crucial place in the agile and software development toolbox. During my visit to Eishin I was reminded of Mike Cohn’s then newly released book, much of which described a kind of guerrilla warfare approach to adopting Scrum. It describes how to use groupthink and mass indoctrination to move an organization to Scrum. The book says very little about evaluating the suitability of Scrum to a given product, or about deliberating and discussing change across the community. Alexander claims that he strived for such dialog at Eishin. On a practical level, I fear that the sometimes militant attitude of the agile movement could limit the benefits to the zealous teams where agile takes root. It would set up an adversarial context with the business from the beginning, and that only makes things worse for the long term. On a more fundamental scale, I am concerned that this guerrilla style dissolves any system-level notion of moving ahead judiciously and incrementally. Even Alexander is prone to this warlike attitude, to which the title of his latest book attests.
 
