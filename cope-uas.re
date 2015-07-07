@@ -1299,7 +1299,28 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 実際、博先生はこの学校を新しく作る際には、クリストファー・アレグザンダーと一緒に働いていた。
 そしてこの訪問の時点では、日本のソフトウェアアジャルコミュニティとも関係を築いていた。
 
-So I would go there with Sasagawa-san and Nakano-sensei — two students of Christopher Alexander-san. Nakano-sensei is a gnome of a man who is ever smiling in the manner of someone who is about to deliver the punch line to a joke. He maintains a beret and braces as his trademarks, telegraphing the image of an artist. He is the principal in the Center for Environment Structure (CES) in Japan, Christopher Alexander’s architectural firm. Nanako-sensei had figured prominently in the building of Eishin and, in fact, his name comes up a number of times in Alexander’s new book Battle, and we even find a few pictures of a much younger Nanako-sensei there (he looks strange without his beret)!
+#@# So I would go there with Sasagawa-san and Nakano-sensei 
+#@#   — two students of Christopher Alexander-san. 
+#@# Nakano-sensei is a gnome of a man 
+#@#   who is ever smiling in the manner of someone who is about to deliver the punch line to a joke. 
+#@# He maintains a beret and braces as his trademarks, telegraphing the image of an artist. 
+#@# He is the principal in the Center for Environment Structure (CES) in Japan, 
+#@#   Christopher Alexander’s architectural firm. 
+#@# Nanako-sensei had figured prominently in the building of Eishin and, in fact, 
+#@#   his name comes up a number of times in Alexander’s new book Battle, 
+#@#     and we even find a few pictures of a much younger Nanako-sensei there 
+#@#     (he looks strange without his beret)!
+
+そうして私は笹川さん(Sasagawa-san)と中埜先生という、
+アレグザンダーさんの２人のお弟子さんと同行することができた。
+中埜先生は小鬼(gnome)のような人で、
+いつも面白いことを言って周囲を笑顔させそうな感じがする人だ。
+いつもベレー帽を被り、サスペンダーをつけていて、芸術家の雰囲気を感じさせる。
+彼はクリストファー•アレグザンダーの建築事務所である
+環境構造センター(CES)の日本代表を務めている。
+中埜先生は盈進学園の建設に深く携わり、
+実際、アレグザンダーの新しい本『Battle』にもなんどもでてくる。
+中埜先生のとても若い頃の写真も載っている(ベレー帽を被っていないのが新鮮だ)。
 
 Eishin was the project that gave Alexander confidence about about the ideas in the Nature of Order: the processes by which things in nature come into being and come into harmony. At my visits of the Japanese temples back in 2000 I studied what Japanese design and construction portended for architecture, but this time I was looking more deeply into the buildings for the processes that brought them into being.
 
