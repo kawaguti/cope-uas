@@ -1322,7 +1322,20 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 実際、アレグザンダーの新しい本『Battle』にもなんどもでてくる。
 中埜先生のとても若い頃の写真も載っている(ベレー帽を被っていないのが新鮮だ)。
 
-Eishin was the project that gave Alexander confidence about about the ideas in the Nature of Order: the processes by which things in nature come into being and come into harmony. At my visits of the Japanese temples back in 2000 I studied what Japanese design and construction portended for architecture, but this time I was looking more deeply into the buildings for the processes that brought them into being.
+#@# Eishin was the project that gave Alexander confidence 
+#@#   about about the ideas in the Nature of Order: 
+#@#     the processes by which things in nature come into being and come into harmony. 
+#@# At my visits of the Japanese temples back in 2000 
+#@#   I studied what Japanese design and construction portended for architecture, 
+#@#     but this time I was looking more deeply into the buildings 
+#@#       for the processes that brought them into being.
+
+盈進学園はアレグザンダーがネイチャー・オブ・オーダー(the Nature of Order)のアイデアに
+自信を持つきっかけとなったプロジェクトで、
+自然の中にあるものを活かし、調和させている。
+2000年に日本のお寺を訪問した際、
+日本のデザインや建築はアーキテクチャにとって役立つことを予見したが、
+盈進学園への訪問で、建築をより活きたものにするためのプロセスを、より深く知ることができた。
 
 The repercussions for agile were huge. At one juncture, standing in the courtyard, one looks through the arch of the Administration building to catch a glimpse of a row of buildings along a narrow, quiet road curving out of sight. It is the quintessential example of ZEN VIEW. There is no way this could have been planned: it is an emergent feature of the design that lures one’s attention and drives deep into one’s focus. As with our software systems, there was a mix of old and new: some tea plants from the original plantation, and an old country-style fence around the property, decorate the site. Much of the lacquer craftswork was done by local craftsman Ishiguro-san, though some students also learned how to apply the lacquer — it would have taken far too long if he had done it all himself. (It is strange that Alexander fails to mention this in Battle.)
 
