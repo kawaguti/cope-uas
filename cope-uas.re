@@ -1284,7 +1284,7 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 
 
 #@# == Eishin
-== 盈進
+== 盈進学園
 
 #@# Hiroshi-san would be my host for an excursion to Eishin Gakuen. 
 #@# I would learn that Eishin wasn’t just a myth or an incidental event 
