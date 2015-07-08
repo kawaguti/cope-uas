@@ -1482,7 +1482,17 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 ほどなく、右桂さんと私はとても親しい「友人」になり、
 多くの考えを共有した。
 
-In October of 2010 a woman named Miho Nagase-san contacted me. By then, she had already been certified as a ScrumMaster by Bas Vodde, but she wanted to take my course to learn more. The economy was slow and money was hard to come by, so I told her that I would give her money back if she didn’t learn anything.
+#@# In October of 2010 a woman named Miho Nagase-san contacted me. 
+#@# By then, she had already been certified as a ScrumMaster by Bas Vodde, 
+#@#   but she wanted to take my course to learn more. 
+#@# The economy was slow and money was hard to come by, 
+#@#   so I told her that I would give her money back if she didn’t learn anything.
+
+2010年の10月には永瀬美穂さんがコンタクトしてくれた。
+それまでにバス・ボッデさんからスクラムマスターの認定を受けていたが、
+もっと知りたいということで、研修を受講してくれた。
+経済状況はあまりよくなく、参加のためのコストを払うことはなかなか難しいということだったので、
+私は彼女が何も得るものがなかったら返金する、と伝えた。
 
 And Bas had taught Miho-san well. Bas Vodde is a pioneer in bringing Scrum to Japan. Bas was famous for his work at Nokia Siemens Networks and for the infamous Nokia Test. Bas and I met early in my Scrum career. It was hardly a peaceful meeting, but one vividly animated by point and counterpoint over drinks at a bar. He earned my respect immediately and he still stands as an icon to me in the constellation of Scrum folk in Japan.
 
