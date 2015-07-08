@@ -1663,7 +1663,29 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 彼はまた、「間」にちかいが、別の統合(unity)の観点を見せてくれた。
 講演の中で、プロダクトとプロセスの間の統合をたびたび強調していたのだ。
 
-And so it was from this time forward that my focus in Japan would segue from patterns to Scrum. Scrum seemed to energize peoples’ interest and attention in ways that patterns could not. The pattern community continues in Japan and shows occasional bright spots, but I have not immersed myself in the broader community and am no longer knowledgable about its overall direction. One big factor in my detachment from the community was the disappearance of two of my closest friends from the Japanese software social scene: Terunobu Fujino and Noriko Kanazawa. Over time, Fujino-san reportedly retreated to working in IT outside the crossroads of daily Tokyo business life, and “Nori-chan” has vanished into the world of Japanese literature. I have not seen either of them in many years, and I miss them like I would miss my right arm. 
+#@# And so it was from this time forward that my focus in Japan would segue from patterns to Scrum.
+#@# Scrum seemed to energize peoples’ interest and attention in ways that patterns could not. 
+#@# The pattern community continues in Japan and shows occasional bright spots, 
+#@#   but I have not immersed myself in the broader community 
+#@#     and am no longer knowledgable about its overall direction. 
+#@# One big factor in my detachment from the community 
+#@#   was the disappearance of two of my closest friends from the Japanese software social scene: 
+#@#   Terunobu Fujino and Noriko Kanazawa. 
+#@# Over time, Fujino-san reportedly retreated to working in IT 
+#@#   outside the crossroads of daily Tokyo business life, 
+#@#   and “Nori-chan” has vanished into the world of Japanese literature. 
+#@# I have not seen either of them in many years, and I miss them like I would miss my right arm. 
+
+だからこそ、現在私は日本での活動のフォーカスをパターンからスクラムへと移している。
+スクラムは人々の関心と注意を引きつけ、活性化させているように見える。これはパターンではできなかったことだ。
+日本のパターンコミュニティは続いているし、たびたび脚光をあびるが、
+私自身は幅広いコミュニティに身を置いてこなかったし、
+その全体的な方向に関して、もうそれほど詳しくない。
+私がパターンコミュニティから離れた一つの大きな原因は、
+日本での社会活動のなかでもっとも近しい友人であった２人、藤野晃延と金澤典子が姿を見せなくなったことだ。
+長い間、藤野さんは東京での日々のビジネスライフに囲まれた、ITの仕事から身を引きつつあることは聞いていた。
+「のりちゃん」は日本の文筆業界から姿を消した。
+二人とは、もう何年も会っていない。まるで失った右腕を恋するみたいに、二人に会いたいと思っている。
 
 Agile: The Process Side
 
