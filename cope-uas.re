@@ -1555,7 +1555,7 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 講演の全体はある種のジョークだった...私についての。
 角谷さんは、私がたくさんの、彼が身を捧げてきたものを破壊したと嘆いた。
 そして、さまざまな手法たちが戦う、死屍累々たる戦場に喩えたのだ。
-AOP、スクラム、状態遷移マシン、デメテルの法則、TDD、Userストーリー、Java、XP、アジャイル、
+AOP、スクラム、ステートマシン、デメテルの法則、TDD、Userストーリー、Java、XP、アジャイル、
 デザインパターン、ソフトウェア工学...私は彼の中の印象を壊した。
 「すべてを破壊し、すべてをつなげた。(Destroy ‘em all, connect ‘em all.)」
 そして角谷さんの中で、私の猛攻から生き残った唯一の戦士は、Rubyだった。
@@ -1606,7 +1606,41 @@ DCIはノルウェーでの体験から生み出された。トリグブ・リ�
 それを文化的バイアスなしに語ることは難しいが、
 観察眼が鋭く、謙虚な人々が長年かけて体験した観点をまとめたものがそこにある。
 
-My past excoriation of AOP, as Kakutani-san recalled them, came from its obfuscation of code, and my critique of state machines came from their unsuitability to the design of human-centered scenarios, because of the strong link between the FSM paradigm and modal design. The user stories and TDD of Extreme Programming had taught people to focus on the nerd’s program perspective rather than that of the end user, and I had come to try to leave some balance. Java provided no way for the programmer to reason about human-related sequences that cut across objects, and user stories provided no way to reason about the data architecture so important to object-oriented programmers. This was a matter of putting space and time into a delicate balance — of bringing my long-ago-learned notion of 間 into powerful software practice. Some facilities of the Ruby programming language made it more natural to think about software in a “DCI way.” Ruby quickly became my number one language for researching and teaching DCI. I can’t help but think that its Japanese origins played a role in its suitability to such destiny. (It is my fantasy to some day meet Yukihiro Matsumoto.)
+#@# My past excoriation of AOP, as Kakutani-san recalled them, 
+#@#   came from its obfuscation of code, 
+#@#   and my critique of state machines 
+#@#     came from their unsuitability to the design of human-centered scenarios, 
+#@#       because of the strong link between the FSM paradigm and modal design. 
+#@# The user stories and TDD of Extreme Programming had taught people 
+#@#   to focus on the nerd’s program perspective rather than that of the end user, 
+#@#     and I had come to try to leave some balance. 
+#@# Java provided no way for the programmer to reason about human-related sequences 
+#@#     that cut across objects, 
+#@#   and user stories provided no way to reason 
+#@#     about the data architecture so important to object-oriented programmers. 
+#@# This was a matter of putting space and time into a delicate balance 
+#@#   — of bringing my long-ago-learned notion of 間 into powerful software practice. 
+#@# Some facilities of the Ruby programming language made it more natural to think about software 
+#@#   in a “DCI way.” 
+#@# Ruby quickly became my number one language for researching and teaching DCI. 
+#@# I can’t help but think that its Japanese origins played a role in its suitability to such destiny. 
+#@# (It is my fantasy to some day meet Yukihiro Matsumoto.)
+
+私が過去にAOP(訳注: アスペクト指向プログラミング)を非難した点は、
+コードが読みにくくなる(obfuscation of code)という点だ。
+これは角谷さんが思い出させてくれた。
+また、ステートマシン(状態遷移機械)への批判は、
+FSM(有限状態ステートマシン/有限状態オートマトン)のパラダイムとモーダルデザイン(modal design)の
+結びつきが強いせいで、人間中心のシナリオでの設計にあわないという点だ。
+Javaはプログラマーにオブジェクトを横断するような人間の動作シーケンスを考える方法を提供しない。
+ユーザーストーリーはオブジェクト指向プログラマーにとても大事なデータアーキテクチャを考える方法を提供しない。
+これらは、空間と時間を繊細なバランスで扱おうとすると、問題となる。
+だいぶ以前に私が学んだ「間」を強力なソフトウェアプラクティスに持ち込むという気づきにとって、問題なのだ。
+Rubyプログラミング言語が提供するいくつかの特性は、
+より自然な方法 "DCI Way" でソフトウェアを考えることができるようにしてくれる。
+Rubyは素早く、私がDCIを研究したり教えたりするときの、ナンバーワン言語になった。
+この言語を日本人が生み出し、DCIに適していることに、運命を感じざるを得ない。
+(いつか、まつもとゆきひろと出会える日を夢見ている。)
 
 It wasn’t that the old decade had been wrong. Kakutani-san was certainly recalling my address earlier in the year where I noted that Alexander’s patterns were very much about events, in spite of the fascination on patterns of spatial form by the software people. Kakutani-san showed a keen understanding of this relationship as he invoked Alexander’s “Nature of Order” as one of the three major underpinnings of the new decade. Though his talk passed as an entertaining diversion, it was in fact prescient and visionary. He could also see another aspect of a 間-like unity: a unity between product and process that he underscored several times in his talk.
 
