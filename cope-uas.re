@@ -1583,7 +1583,28 @@ DCIは本当のアジャイルマインドセットをもって、プログラ�
 そうすることは、私たちがソフトウェアがどのように機能するかを理解し、
 どのようにエンドユーザーによりよい価値を届けるのかを理解するのに役立つ。
 
-DCI came out of Nordic experience, the brainchild of Trygve Reenskaug. A grey-haired, keen-witted and sometime fiery gentleman, he is no one’s image of a typical Japanese person. Yet, more deeply, his insights both into people and their relationships to machines transcend the usual Western view of things in terms of dichotomies. He was about breaking down the dichotomy between mind and machine, inspired by his good friend Doug Engelbart. Maybe the wisdom of years polishes off something of western upbringing that we dare call naiveté. It is difficult to say this without cultural bias, but there is perhaps a unification of perspectives that comes with the experience that age brings to observant and humble people.
+#@# DCI came out of Nordic experience, the brainchild of Trygve Reenskaug. 
+#@# A grey-haired, keen-witted and sometime fiery gentleman, 
+#@#   he is no one’s image of a typical Japanese person. 
+#@# Yet, more deeply, his insights both into people and their relationships to machines 
+#@#   transcend the usual Western view of things in terms of dichotomies. 
+#@# He was about breaking down the dichotomy between mind and machine, 
+#@#   inspired by his good friend Doug Engelbart. 
+#@# Maybe the wisdom of years polishes off something of western upbringing that we dare call naiveté. 
+#@# It is difficult to say this without cultural bias, 
+#@#   but there is perhaps a unification of perspectives 
+#@#     that comes with the experience that age brings to observant and humble people.
+
+DCIはノルウェーでの体験から生み出された。トリグブ・リエンスカウの発想の賜物だ。
+彼は灰色の髪、鋭い機知に富んだ、時に炎のような紳士で、
+一般的な日本人のイメージのどれもあてはまらない。
+しかし、より深いところでは、彼の人々や人々と機械の関係性に関する洞察は、
+普通の西洋的な二分法的なものの見方を超越していた。
+彼は、彼の友人のダグ・エンゲルバート(Doug Engelbart)から発想を得て、
+心と機械の間の二分法をさらに分解した。
+私たちはあえて純朴さと呼んでいる西洋流のしつけによって削り取られてしまうなにかを、何年もかけて磨き上げたのだろう。
+それを文化的バイアスなしに語ることは難しいが、
+観察眼が鋭く、謙虚な人々が長年かけて体験した観点をまとめたものがそこにある。
 
 My past excoriation of AOP, as Kakutani-san recalled them, came from its obfuscation of code, and my critique of state machines came from their unsuitability to the design of human-centered scenarios, because of the strong link between the FSM paradigm and modal design. The user stories and TDD of Extreme Programming had taught people to focus on the nerd’s program perspective rather than that of the end user, and I had come to try to leave some balance. Java provided no way for the programmer to reason about human-related sequences that cut across objects, and user stories provided no way to reason about the data architecture so important to object-oriented programmers. This was a matter of putting space and time into a delicate balance — of bringing my long-ago-learned notion of 間 into powerful software practice. Some facilities of the Ruby programming language made it more natural to think about software in a “DCI way.” Ruby quickly became my number one language for researching and teaching DCI. I can’t help but think that its Japanese origins played a role in its suitability to such destiny. (It is my fantasy to some day meet Yukihiro Matsumoto.)
 
