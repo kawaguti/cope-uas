@@ -1532,7 +1532,33 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 ビデオゲームマニアでもあり、彼は秋葉原で時間を過ごすのが大好きだ。
 もう一人の息子クリストファーも11年前はそうだった。
 
-One of my greatest life memories of Japan is a talk that Shintaro Kakutani gave at the Pattern Days conference. Many people approached me before his talk and warned me that it was important that I attended. Other than my own presentation, I think it was the only talk to be given in English at the event. The talk was entitled Pattern Rider Decade, and it was one of the most visually and personally entertaining talks I had ever attended. The whole talk was kind of a joke — about me. Kakutani-san lamented that I had destroyed all that he had held sacred, and he likened the corpses of a body-strewn battlefield to the way I had left his impressions of AOP, Scrum, state machines, the Law of Demeter, TDD, User Stories, Java, XP, Agile, Design Patterns, and Software Engineering. “Destroy ‘em all, connect ‘em all.” One soldier of Kakutani-san’s army alone survived my onslaught: Ruby.
+#@# One of my greatest life memories of Japan is a talk that Shintaro Kakutani gave 
+#@#   at the Pattern Days conference. 
+#@# Many people approached me before his talk and warned me that it was important that I attended. 
+#@# Other than my own presentation, I think it was the only talk to be given in English at the event. 
+#@# The talk was entitled Pattern Rider Decade, 
+#@#   and it was one of the most visually and personally entertaining talks I had ever attended. 
+#@# The whole talk was kind of a joke — about me. 
+#@# Kakutani-san lamented that I had destroyed all that he had held sacred, 
+#@#   and he likened the corpses of a body-strewn battlefield to the way 
+#@#     I had left his impressions of AOP, Scrum, state machines, the Law of Demeter, 
+#@#       TDD, User Stories, Java, XP, Agile, Design Patterns, and Software Engineering.
+#@# “Destroy ‘em all, connect ‘em all.” 
+#@# One soldier of Kakutani-san’s army alone survived 
+#@#   my onslaught: Ruby.
+
+私の中で最も記憶に残っている講演が角谷信太郎(Shintaro Kakutani)がパターンデイカンファレンスで行ったものだ。
+彼の講演の前に、多くの人々が私のところに来てくれて、彼の講演がいかに私にとって重要かを教えてくれた。
+私自身のプレゼンテーションを別にすると、それはそのイベントで唯一英語で行われたものだった。
+その講演は「パターンライダーディケイド(Pattern Rider Decade)」と題されていて、
+私がこれまで参加したなかで、最もビジュアルに楽しく、私個人にとっても楽しい講演だった。
+講演の全体はある種のジョークだった...私についての。
+角谷さんは、私がたくさんの、彼が身を捧げてきたものを破壊したと嘆いた。
+そして、さまざまな手法たちが戦う、死屍累々たる戦場に喩えたのだ。
+AOP、スクラム、状態遷移マシン、デメテルの法則、TDD、Userストーリー、Java、XP、アジャイル、
+デザインパターン、ソフトウェア工学...私は彼の中の印象を壊した。
+「すべてを破壊し、すべてをつなげた。(Destroy ‘em all, connect ‘em all.)」
+そして角谷さんの中で、私の猛攻から生き残った唯一の戦士は、Rubyだった。
 
 But the more serious message of his talk is that we were leaving the “Pattern Rider Decade” and entering a new decade of design, heralded by my talks on the DCI paradigm. He suggested that his talk marked the first day of a new decade. And indeed his forecast was prescient. I would talk about the DCI architecture there in Japan on that trip. DCI is a way to think about programming with a truly agile mindset — one that takes interactions between end users and programs as its foundation of design, rather than methodologies and tools. It is an approach focused more on people and their mental models than on technology. It can help us truly understand how our software works with the hope of delivering better value to our end users.
 
