@@ -1406,7 +1406,18 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 アレグザンダーでさえ、好戦的な態度をとることがあり、
 そのことは最新の著書のタイトル(訳注: 表紙にはBattleと大きく書かれている) が示している。
 
-Alexander’s book omits other crucial insights from the Eishin story. For example: the decision of where to locate the cafeteria came from the students. That was the foundations of one of my learnings from Eishin-gakuen. In an Email of late January 2010 I would write to Takeshi Kakeda about the relationship between grand architecture ideas and low-level engineering practices in software:
+#@# Alexander’s book omits other crucial insights from the Eishin story. 
+#@# For example: the decision of where to locate the cafeteria came from the students. 
+#@# That was the foundations of one of my learnings from Eishin-gakuen. 
+#@# In an Email of late January 2010 I would write to Takeshi Kakeda 
+#@#   about the relationship between grand architecture ideas 
+#@#     and low-level engineering practices in software:
+
+アレグザンダーの本では、盈進学園のストーリーのうち、重要な観点のいくつかが省かれてしまっている。
+例えば、カフェテリアをどこに配置するか、学生たちが決めた話だ。
+これは私が盈進学園から学んだ基本的なことの一つだ。
+私が2010年1月に懸田剛さん宛に書いたメールには、
+全体的なアーキテクチャのアイデアと、ソフトウェアにおける詳細なエンジニアプラクティスについてこう書いている。
 
 This could be an interesting dialog. One thing I learned at Eishin-Gakuen is that there is a yin/yang relationship between the power of the architect and the power of the people. The students would never have asked for the Great Hall; it is an artistic expression of the architect's ego. But it serves the students well. A good architect would have placed the dining hall close to classes to save time and for convenience. The students, however, wanted to locate the social experience of dining be far from the terror of the classrooms, so the dining hall is on a remote hilltop (with a lovely view overlooking the lake). 
 
