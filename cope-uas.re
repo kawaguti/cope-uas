@@ -1690,9 +1690,45 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# == Agile: The Process Side
 == アジャイル: プロセスの側面
 
-As to the process side of Kakutani-san’s vision, I had Scrum in my briefcase with me on this trip. This was my first attempt to teach Scrum in the Japanese market. The link from Kakeda-san through Yasunobu-san eventually passed to Michiaki Taniguchi-san. We were a bit confused about him as he seemed to have some business in our neighboring Germany as well. It wouldn’t be until two years later that we would realize that Agilergo was actually a German company and that Yasunobu-san was its Japanese extension at the time.
+#@# As to the process side of Kakutani-san’s vision, 
+#@#   I had Scrum in my briefcase with me on this trip. 
+#@# This was my first attempt to teach Scrum in the Japanese market. 
+#@# The link from Kakeda-san through Yasunobu-san eventually passed to Michiaki Taniguchi-san. 
+#@# We were a bit confused about him as he seemed to have some business 
+#@#   in our neighboring Germany as well. 
+#@# It wouldn’t be until two years later that we would realize that Agilergo 
+#@#   was actually a German company and that Yasunobu-san was its Japanese extension at the time.
 
-In any case, working with Michiaki-san was — and still is — a pleasure. He embodies all the important attitudes we hold for Japanese: humility, practical idealism, courtesy, and transparency. He has become one of our most trusted business partners internationally and is a key player in our work to support the Japanese market. We also tried to work in the German market, but found that to be difficult for a variety of reasons. But so much of his heart and focus lay in Japan that we are finding ample opportunity to work together. we still find it strange that our next-door neighbor Germany opened new doors for us into Japan.
+角谷さんのビジョンのプロセスの側面として、
+私のカバンにはスクラムが入っていた。
+それが日本市場でスクラムを教えようと思った最初のきっかけだった。
+懸田さんとのつながりから、恭伸さんを経て、最終的に谷口倫章さん(Michiaki Taniguchi-san)へとつながった。
+私たちは谷口さんがドイツでもビジネスをしているということについて、
+少し混乱した。
+2年後にアギレルゴ(Agilergo)が実際にはドイツの会社で、
+恭伸さんが当時日本の事務所をやっていたことを理解するまで、私の混乱は続いた。
+
+#@# In any case, working with Michiaki-san was — and still is — a pleasure. 
+#@# He embodies all the important attitudes we hold for Japanese: 
+#@#   humility, practical idealism, courtesy, and transparency. 
+#@# He has become one of our most trusted business partners internationally 
+#@#   and is a key player in our work to support the Japanese market. 
+#@# We also tried to work in the German market, 
+#@#   but found that to be difficult for a variety of reasons. 
+#@# But so much of his heart and focus lay in Japan 
+#@#   that we are finding ample opportunity to work together. 
+#@# we still find it strange that our next-door neighbor Germany opened new doors for us into Japan.
+
+いずれにせよ、倫章さんと働けることは楽しいし、それはいまも同じだ。
+彼は日本人が持っている重要な態度の全てを持っている。
+謙遜、現実的な理想主義、礼儀正しさ、透明性。
+彼は私たちが最も信頼する国際的なビジネスパートナーとなり、
+日本市場を支援する私たちの仕事の鍵となるプレーヤーとなった。
+私たちはまたドイツ市場にもチャレンジしたが、
+幾つかの理由で、難しいことがわかった。
+しかし、谷口さんの心と焦点は日本にあり、
+そこで一緒に働く機会をうかがっている。
+まだ近隣国であるドイツにある扉が、日本への扉を開いてくれたことがいまもって不思議である。
 
 I had become a good acquaintance of Yasunobu-san much earlier. When ever our paths would cross, he would sacrifice so much of himself to make my visit a happy one! He worked hard to make it possible for me to reach out to the Japanese folks. And he is someone who really understands Scrum in both a deep way and a practical way — both as a practitioner and a teacher. I have learned much from him and, as I said, we became good “friends” even before I got to know Michiaki-san well. I hope that some day we find him teaching Scrum more and more in Japan.
 
