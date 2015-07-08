@@ -1494,7 +1494,23 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 経済状況はあまりよくなく、参加のためのコストを払うことはなかなか難しいということだったので、
 私は彼女が何も得るものがなかったら返金する、と伝えた。
 
-And Bas had taught Miho-san well. Bas Vodde is a pioneer in bringing Scrum to Japan. Bas was famous for his work at Nokia Siemens Networks and for the infamous Nokia Test. Bas and I met early in my Scrum career. It was hardly a peaceful meeting, but one vividly animated by point and counterpoint over drinks at a bar. He earned my respect immediately and he still stands as an icon to me in the constellation of Scrum folk in Japan.
+#@# And Bas had taught Miho-san well. 
+#@# Bas Vodde is a pioneer in bringing Scrum to Japan. 
+#@# Bas was famous for his work at Nokia Siemens Networks and for the infamous Nokia Test. 
+#@# Bas and I met early in my Scrum career. 
+#@# It was hardly a peaceful meeting, 
+#@#   but one vividly animated by point and counterpoint over drinks at a bar. 
+#@# He earned my respect immediately 
+#@#   and he still stands as an icon to me in the constellation of Scrum folk in Japan.
+
+バスは美穂さんを上手に指導したようだった。
+バス・ボッデは日本にスクラムを運んできたパイオニアだ。
+バスはノキア・シーメンス・ネットワークス(Nokia Siemens Networks)での仕事と、悪名高いノキアテストで有名だ。
+バスと私は、私がスクラムの仕事を始めた頃に出会った。
+それは平和的な出会いとは言い難いものだったが、
+しかし、そのバーで飲みながら、合意点と対立点がありありとわかった。
+私はすぐ彼を尊敬し、今も彼は日本でのスクラム仲間との集まりでは、いまだに意識する存在だ。
+
 
 Agile: The Product Side
 
