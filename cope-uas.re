@@ -1466,7 +1466,21 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 (後でわかったのだが、12月2日-3日に東京で別の研修も行われた。)
 私たちは2010年の秋に研修予定を公開した。
 
-Many things were happening in 2010. Yukei Wachi-san contacted me mid-year, excited about the draft of the Lean Architecture book, and even then he was starting to dream of seeing a Japanese translation of that book some day. His dreams would evolve over time and this story would have a different and very happy ending. In the mean time Yukei-san and I became close “friends” and shared many of the thoughts of our hearts.
+#@# Many things were happening in 2010. 
+#@# Yukei Wachi-san contacted me mid-year, 
+#@#   excited about the draft of the Lean Architecture book, 
+#@#     and even then he was starting to dream of seeing a Japanese translation of that book some day. 
+#@# His dreams would evolve over time and this story would have a different and very happy ending. 
+#@# In the mean time Yukei-san and I became close “friends” 
+#@#   and shared many of the thoughts of our hearts.
+
+2010年には様々な出来事があった。
+和智右桂さん(Yukei Wachi-san)は、その年の半ばにコンタクトしてくれて、
+リーンアーキテクチャの本のドラフトに興奮していた。
+彼はいつかその本を日本語に訳せることを夢見はじめた。
+彼の夢は進化していき、別の素晴らしい結末を迎えることになる。
+ほどなく、右桂さんと私はとても親しい「友人」になり、
+多くの考えを共有した。
 
 In October of 2010 a woman named Miho Nagase-san contacted me. By then, she had already been certified as a ScrumMaster by Bas Vodde, but she wanted to take my course to learn more. The economy was slow and money was hard to come by, so I told her that I would give her money back if she didn’t learn anything.
 
