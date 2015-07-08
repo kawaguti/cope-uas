@@ -1444,9 +1444,27 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 ですから食堂は離れた丘の上にあるのです。(美しい池越しの景観とともに)
 //}
 
-Headlong into Agile
+#@# == Headlong into Agile
+== アジャイルへの急展開
 
-The Scrum community had grown in parallel with the organizational pattern work I had been doing in the 1990s, and I had become a Certified Scrum Trainer in late 2008. The idea of doing a Scrum course in Japan originally came from my friend Takeshi Kakeda. Yasunobu Kawaguchi, whom I had met on the previous visit, seized the opportunity and already in April 2010, in our correspondence in the wake of my visit earlier in the same year, we started to plan Scrum courses that would take place in Japan in December of that year.  (As it would turn out, there was another Scrum course in Tokyo on 2-3 December.) We publicized the courses in the fall of 2010.
+#@# The Scrum community had grown in parallel with the organizational pattern work 
+#@#   I had been doing in the 1990s, and I had become a Certified Scrum Trainer in late 2008. 
+#@# The idea of doing a Scrum course in Japan originally came from my friend Takeshi Kakeda. 
+#@# Yasunobu Kawaguchi, whom I had met on the previous visit, seized the opportunity 
+#@#   and already in April 2010, 
+#@#   in our correspondence in the wake of my visit earlier in the same year, 
+#@#   we started to plan Scrum courses that would take place in Japan in December of that year.  
+#@#   (As it would turn out, there was another Scrum course in Tokyo on 2-3 December.) 
+#@# We publicized the courses in the fall of 2010.
+
+スクラムコミュニティは私の組織パターンの仕事と同じ時期に成長してきた。
+私は1990年代に組織パターンの仕事を行い、そして2008年の後半に認定スクラムトレーナー(Certified Scrum Trainer)になった。
+日本でスクラムの研修を行うというアイデアは、もともと友人の懸田剛からもらったものだ。
+川口恭伸とはその前の訪問で出会い、2010年4月にはこの取り組みに飛びついてくれた。
+私たちの関係はその年の最初の日本訪問で始まった。
+私たちはスクラム研修を12月に行うために準備を始めた。
+(後でわかったのだが、12月2日-3日に東京で別の研修も行われた。)
+私たちは2010年の秋に研修予定を公開した。
 
 Many things were happening in 2010. Yukei Wachi-san contacted me mid-year, excited about the draft of the Lean Architecture book, and even then he was starting to dream of seeing a Japanese translation of that book some day. His dreams would evolve over time and this story would have a different and very happy ending. In the mean time Yukei-san and I became close “friends” and shared many of the thoughts of our hearts.
 
