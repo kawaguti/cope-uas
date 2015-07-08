@@ -1372,7 +1372,39 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 自分自身で学ぶのに比べれば、極めて多くのことを学ぶことができるだろう。
 (アレグザンダーが『Battle』の中でそのことに触れなかったのが不思議だ。)
 
-The point is that mature, classic ideas have a crucial place in the agile and software development toolbox. During my visit to Eishin I was reminded of Mike Cohn’s then newly released book, much of which described a kind of guerrilla warfare approach to adopting Scrum. It describes how to use groupthink and mass indoctrination to move an organization to Scrum. The book says very little about evaluating the suitability of Scrum to a given product, or about deliberating and discussing change across the community. Alexander claims that he strived for such dialog at Eishin. On a practical level, I fear that the sometimes militant attitude of the agile movement could limit the benefits to the zealous teams where agile takes root. It would set up an adversarial context with the business from the beginning, and that only makes things worse for the long term. On a more fundamental scale, I am concerned that this guerrilla style dissolves any system-level notion of moving ahead judiciously and incrementally. Even Alexander is prone to this warlike attitude, to which the title of his latest book attests.
+#@# The point is that 
+#@#   mature, classic ideas have a crucial place in the agile and software development toolbox. 
+#@# During my visit to Eishin I was reminded of Mike Cohn’s then newly released book, 
+#@#   much of which described a kind of guerrilla warfare approach to adopting Scrum. 
+#@# It describes how to use groupthink and mass indoctrination to move an organization to Scrum. 
+#@# The book says very little about evaluating the suitability of Scrum to a given product, 
+#@#   or about deliberating and discussing change across the community. 
+#@# Alexander claims that he strived for such dialog at Eishin. 
+#@# On a practical level, 
+#@#   I fear that the sometimes militant attitude of the agile movement 
+#@#   could limit the benefits to the zealous teams where agile takes root. 
+#@# It would set up an adversarial context with the business from the beginning, 
+#@#   and that only makes things worse for the long term. 
+#@# On a more fundamental scale, 
+#@#   I am concerned that this guerrilla style dissolves 
+#@#     any system-level notion of moving ahead judiciously and incrementally. 
+#@# Even Alexander is prone to this warlike attitude, to which the title of his latest book attests.
+
+成熟した古典的アイデアは、アジャイルやソフトウェア開発の道具箱には欠かせない。
+盈進学園へ訪問している間に、マイク・コーン(Mike Cohn)が新しく出版した本を思い出した。
+その本ではスクラムを適用するためのゲリラ戦術のようなものがたくさん書いてあった。
+しかし、その本には既存のプロダクト開発にスクラムをあtれはめることが適切かどうかについてはあまり書いてなかった。
+コミュニティを超えて、新しい変化について検討したり議論することの妥当性についても、書かれていなかった。
+アレグザンダーは盈進学園ではそうした対話が大変だったと語っている。
+実践側の人間としては、
+アジャイルムーブメントにおける好戦的な態度が、
+実践が根を張りつつある熱心なチームにもたらす恩恵を制約してしまう可能性を恐れている。
+好戦的な態度は、はじめから敵対的な状況を作ってしまうことになり、
+長期的には物事が悪い方向に行く作用ばかりをもたらす。
+さらに基本的には、このようなゲリラスタイルは、
+賢明かつ漸進的に課題を察知する「気づき(system-level notion)」を排除してしまう可能性も指摘しておく。
+アレグザンダーでさえ、好戦的な態度をとることがあり、
+そのことは最新の著書のタイトル(訳注: 表紙にはBattleと大きく書かれている) が示している。
 
 Alexander’s book omits other crucial insights from the Eishin story. For example: the decision of where to locate the cafeteria came from the students. That was the foundations of one of my learnings from Eishin-gakuen. In an Email of late January 2010 I would write to Takeshi Kakeda about the relationship between grand architecture ideas and low-level engineering practices in software:
 
