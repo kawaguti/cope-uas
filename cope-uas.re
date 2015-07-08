@@ -1560,7 +1560,28 @@ AOP、スクラム、状態遷移マシン、デメテルの法則、TDD、User�
 「すべてを破壊し、すべてをつなげた。(Destroy ‘em all, connect ‘em all.)」
 そして角谷さんの中で、私の猛攻から生き残った唯一の戦士は、Rubyだった。
 
-But the more serious message of his talk is that we were leaving the “Pattern Rider Decade” and entering a new decade of design, heralded by my talks on the DCI paradigm. He suggested that his talk marked the first day of a new decade. And indeed his forecast was prescient. I would talk about the DCI architecture there in Japan on that trip. DCI is a way to think about programming with a truly agile mindset — one that takes interactions between end users and programs as its foundation of design, rather than methodologies and tools. It is an approach focused more on people and their mental models than on technology. It can help us truly understand how our software works with the hope of delivering better value to our end users.
+#@# But the more serious message of his talk is that we were leaving the “Pattern Rider Decade” 
+#@#   and entering a new decade of design, heralded by my talks on the DCI paradigm. 
+#@# He suggested that his talk marked the first day of a new decade. 
+#@# And indeed his forecast was prescient. 
+#@# I would talk about the DCI architecture there in Japan on that trip. 
+#@# DCI is a way to think about programming with a truly agile mindset 
+#@#   — one that takes interactions between end users and programs as its foundation of design, 
+#@#   rather than methodologies and tools. 
+#@# It is an approach focused more on people and their mental models than on technology. 
+#@# It can help us truly understand how our software works 
+#@#   with the hope of delivering better value to our end users.
+
+しかし、最も重要なメッセージは、私たちが「パターンライダーディケイド」の時代から離れ、
+設計の新しいディケイド(10年)に入ったこと、私の講演におけるDCIパラダイムが新しい時代の到来を告げたということだ。
+彼は私の講演が新しいディケイドの最初の日を印したことを示唆した。
+まさに彼の予想はその通りになった。
+私はその日本への旅で、DCIアーキテクチャについて講演した。
+DCIは本当のアジャイルマインドセットをもって、プログラミングを行う考え方だ。
+その設計の基底にくるのは、方法論やツールではなく、エンドユーザーとプログラムの間のインタラクションだ。
+テクノロジーではなく、人間とメンタルモデルに注目するアプローチだ。
+そうすることは、私たちがソフトウェアがどのように機能するかを理解し、
+どのようにエンドユーザーによりよい価値を届けるのかを理解するのに役立つ。
 
 DCI came out of Nordic experience, the brainchild of Trygve Reenskaug. A grey-haired, keen-witted and sometime fiery gentleman, he is no one’s image of a typical Japanese person. Yet, more deeply, his insights both into people and their relationships to machines transcend the usual Western view of things in terms of dichotomies. He was about breaking down the dichotomy between mind and machine, inspired by his good friend Doug Engelbart. Maybe the wisdom of years polishes off something of western upbringing that we dare call naiveté. It is difficult to say this without cultural bias, but there is perhaps a unification of perspectives that comes with the experience that age brings to observant and humble people.
 
