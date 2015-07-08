@@ -1642,7 +1642,26 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 この言語を日本人が生み出し、DCIに適していることに、運命を感じざるを得ない。
 (いつか、まつもとゆきひろと出会える日を夢見ている。)
 
-It wasn’t that the old decade had been wrong. Kakutani-san was certainly recalling my address earlier in the year where I noted that Alexander’s patterns were very much about events, in spite of the fascination on patterns of spatial form by the software people. Kakutani-san showed a keen understanding of this relationship as he invoked Alexander’s “Nature of Order” as one of the three major underpinnings of the new decade. Though his talk passed as an entertaining diversion, it was in fact prescient and visionary. He could also see another aspect of a 間-like unity: a unity between product and process that he underscored several times in his talk.
+#@# It wasn’t that the old decade had been wrong. 
+#@# Kakutani-san was certainly recalling my address earlier in the year 
+#@#   where I noted that Alexander’s patterns were very much about events, 
+#@#     in spite of the fascination on patterns of spatial form by the software people. 
+#@# Kakutani-san showed a keen understanding of this relationship 
+#@#   as he invoked Alexander’s “Nature of Order” as one of the three major underpinnings 
+#@#     of the new decade. 
+#@# Though his talk passed as an entertaining diversion, it was in fact prescient and visionary. 
+#@# He could also see another aspect of a 間-like unity: 
+#@#   a unity between product and process that he underscored several times in his talk.
+
+私が過ごした、前の10年は間違っていなかった。
+角谷さんは、私がアレグザンダーのパターンはソフトウェアの人たちが生み出す空間的な形式のパターンとは違い、
+出来事(events)について多くを語っている、ということを示した、以前の講演のことをはっきりと思い起こさせてくれた。
+角谷さんは、アレグザンダーの「ネイチャー・オブ・オーダー」が、
+これからの10年の３つの重要な基礎の一つだと語り、
+それは彼が空間と時間の関係について、するどい理解をしていることを示した。
+彼の講演はエンターテイメントとして演じられたが、実は予知とビジョンを示したものだった。
+彼はまた、「間」にちかいが、別の統合(unity)の観点を見せてくれた。
+講演の中で、プロダクトとプロセスの間の統合をたびたび強調していたのだ。
 
 And so it was from this time forward that my focus in Japan would segue from patterns to Scrum. Scrum seemed to energize peoples’ interest and attention in ways that patterns could not. The pattern community continues in Japan and shows occasional bright spots, but I have not immersed myself in the broader community and am no longer knowledgable about its overall direction. One big factor in my detachment from the community was the disappearance of two of my closest friends from the Japanese software social scene: Terunobu Fujino and Noriko Kanazawa. Over time, Fujino-san reportedly retreated to working in IT outside the crossroads of daily Tokyo business life, and “Nori-chan” has vanished into the world of Japanese literature. I have not seen either of them in many years, and I miss them like I would miss my right arm. 
 
