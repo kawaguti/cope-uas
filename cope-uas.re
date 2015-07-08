@@ -1513,7 +1513,7 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 
 
 #@# == Agile: The Product Side
-== アジャイル: プロダクトの観点から
+== アジャイル: プロダクトの側面
 
 #@# This trip to Japan in December 2010 was one of the fullest of them all! 
 #@# My family came with me. 
@@ -1687,7 +1687,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 「のりちゃん」は日本の文筆業界から姿を消した。
 二人とは、もう何年も会っていない。まるで失った右腕を恋するみたいに、二人に会いたいと思っている。
 
-Agile: The Process Side
+#@# == Agile: The Process Side
+== アジャイル: プロセスの側面
 
 As to the process side of Kakutani-san’s vision, I had Scrum in my briefcase with me on this trip. This was my first attempt to teach Scrum in the Japanese market. The link from Kakeda-san through Yasunobu-san eventually passed to Michiaki Taniguchi-san. We were a bit confused about him as he seemed to have some business in our neighboring Germany as well. It wouldn’t be until two years later that we would realize that Agilergo was actually a German company and that Yasunobu-san was its Japanese extension at the time.
 
