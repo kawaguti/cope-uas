@@ -1513,9 +1513,24 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 
 
 #@# == Agile: The Product Side
-== アジャイル: プロダクトとしての
+== アジャイル: プロダクトの観点から
 
-This trip to Japan in December 2010 was one of the fullest of them all! My family came with me. My son Janos, who was a fussy eater as a child — he would basically eat only pasta and apples — fell in love with sushi at twelve years old. He can devour sushi faster than anyone I know! A video game fanatic, he also loved spending time at Akihabara — just as much as my son Christopher had eleven years prior.
+#@# This trip to Japan in December 2010 was one of the fullest of them all! 
+#@# My family came with me. 
+#@# My son Janos, who was a fussy eater as a child 
+#@#   — he would basically eat only pasta and apples — fell in love with sushi at twelve years old. 
+#@# He can devour sushi faster than anyone I know! 
+#@# A video game fanatic, 
+#@#   he also loved spending time at Akihabara 
+#@#   — just as much as my son Christopher had eleven years prior.
+
+2010年12月の日本への旅はすべてが満載だった！
+私の家族も一緒だった。
+私の息子ヤノス(Janos)は子供にしては食べ物にうるさくて、
+いつもはパスタとリンゴしか食べないのだが、12歳の頃に日本の寿司と恋に落ちた。
+彼ほど寿司を素早くむさぼり食う人間を他に知らないくらいだ。
+ビデオゲームマニアでもあり、彼は秋葉原で時間を過ごすのが大好きだ。
+もう一人の息子クリストファーも11年前はそうだった。
 
 One of my greatest life memories of Japan is a talk that Shintaro Kakutani gave at the Pattern Days conference. Many people approached me before his talk and warned me that it was important that I attended. Other than my own presentation, I think it was the only talk to be given in English at the event. The talk was entitled Pattern Rider Decade, and it was one of the most visually and personally entertaining talks I had ever attended. The whole talk was kind of a joke — about me. Kakutani-san lamented that I had destroyed all that he had held sacred, and he likened the corpses of a body-strewn battlefield to the way I had left his impressions of AOP, Scrum, state machines, the Law of Demeter, TDD, User Stories, Java, XP, Agile, Design Patterns, and Software Engineering. “Destroy ‘em all, connect ‘em all.” One soldier of Kakutani-san’s army alone survived my onslaught: Ruby.
 
