@@ -1419,9 +1419,30 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 私が2010年1月に懸田剛さん宛に書いたメールには、
 全体的なアーキテクチャのアイデアと、ソフトウェアにおける詳細なエンジニアプラクティスについてこう書いている。
 
-This could be an interesting dialog. One thing I learned at Eishin-Gakuen is that there is a yin/yang relationship between the power of the architect and the power of the people. The students would never have asked for the Great Hall; it is an artistic expression of the architect's ego. But it serves the students well. A good architect would have placed the dining hall close to classes to save time and for convenience. The students, however, wanted to locate the social experience of dining be far from the terror of the classrooms, so the dining hall is on a remote hilltop (with a lovely view overlooking the lake). 
+#@# //quote{
+#@# This could be an interesting dialog. 
+#@# One thing I learned at Eishin-Gakuen is that there is a yin/yang relationship 
+#@#   between the power of the architect and the power of the people. 
+#@# The students would never have asked for the Great Hall; 
+#@#   it is an artistic expression of the architect's ego. 
+#@# But it serves the students well. 
+#@# A good architect would have placed the dining hall close to classes 
+#@#   to save time and for convenience. 
+#@# The students, however, wanted to locate the social experience of dining be far 
+#@#   from the terror of the classrooms, 
+#@#     so the dining hall is on a remote hilltop (with a lovely view overlooking the lake). 
+#@# //}
 
-
+//quote{
+これは興味深い会話になりうると思います。
+私が盈進学園から学んだことの一つは、建築家の力と人々の力の間に陰陽(yin/yang)の関係があったことです。
+学生たちは大講堂(Great Hall)について意見を求められることはありませんでした。
+あれは建築家のエゴの表現です。
+しかし、大ホールは学生たちの役にたってきました。
+優れた建築家は時間節約と利便性のために食堂を洋室の近くに作ろうとします。
+しかし学生は、食事という社会的体験はなるべく教室という脅威から遠ざけたいと考えるものです。
+ですから食堂は離れた丘の上にあるのです。(美しい池越しの景観とともに)
+//}
 
 Headlong into Agile
 
