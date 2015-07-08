@@ -1512,7 +1512,8 @@ Ariさん(訳注: 本橋さん)は、こう言っている。
 私はすぐ彼を尊敬し、今も彼は日本でのスクラム仲間との集まりでは、いまだに意識する存在だ。
 
 
-Agile: The Product Side
+#@# == Agile: The Product Side
+== アジャイル: プロダクトとしての
 
 This trip to Japan in December 2010 was one of the fullest of them all! My family came with me. My son Janos, who was a fussy eater as a child — he would basically eat only pasta and apples — fell in love with sushi at twelve years old. He can devour sushi faster than anyone I know! A video game fanatic, he also loved spending time at Akihabara — just as much as my son Christopher had eleven years prior.
 
