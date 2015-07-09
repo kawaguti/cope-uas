@@ -1730,11 +1730,90 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 そこで一緒に働く機会をうかがっている。
 まだ近隣国であるドイツにある扉が、日本への扉を開いてくれたことがいまもって不思議である。
 
-I had become a good acquaintance of Yasunobu-san much earlier. When ever our paths would cross, he would sacrifice so much of himself to make my visit a happy one! He worked hard to make it possible for me to reach out to the Japanese folks. And he is someone who really understands Scrum in both a deep way and a practical way — both as a practitioner and a teacher. I have learned much from him and, as I said, we became good “friends” even before I got to know Michiaki-san well. I hope that some day we find him teaching Scrum more and more in Japan.
+#@# I had become a good acquaintance of Yasunobu-san much earlier. 
+#@# When ever our paths would cross, he would sacrifice so much of himself to make my visit a happy one!
+#@# He worked hard to make it possible for me to reach out to the Japanese folks. 
+#@# And he is someone who really understands Scrum in both a deep way and a practical way 
+#@#   — both as a practitioner and a teacher. 
+#@# I have learned much from him and, as I said, 
+#@#   we became good “friends” even before I got to know Michiaki-san well. 
+#@# I hope that some day we find him teaching Scrum more and more in Japan.
 
-The Scrum courses were taught in Japanese through simultaneous translators. This is difficult for me, as it makes it a little more difficult for me to “connect” with the audience. But somehow, it worked. I could feel the connection and I believe that the people “got it.”
+恭伸さんとはもっと早い時期に知り合いになった。
+私たちの道が交差する時には、彼は多くの犠牲を払って、私の訪問を幸せなものにしてくれた！
+彼は私が日本の仲間たちとつながれるように、頑張ってくれた。
+そして彼は深みと実践との両面で本当にスクラムを理解している。
+実践者としても、教師としてもだ。
+すでに述べたように、私は彼から多くを学んだ。
+倫章さんと知り合う前からの、よい「友達」だ。
+いつか彼がスクラムを日本でもっともっと教えている姿を見られる日を期待している。
 
-I have a sense that Scrum builds naturally on ideals that were probably explicit to the attendees’ parents or grandparents, in a less turbulent age, and which still have latent echoes in the hearts and minds of the folks attending the Scrum class. Jeff Sutherland was very much inspired by Buddhist meditation in the early 1960s, and those roots figure strongly in the origins of Scrum. So my Japanese Scrum course offerings had a much different tone to them than those I teach elsewhere. I could build on cultural concepts of not-separateness, and on the notions of the Toyota work culture with which even everyday Japanese were most certainly familiar. I could use familiar TPS terms like 無駄 and the more subtle 斑 and 無理. The wonderfully compressed word バ evokes the potential of moving into “flow” as a team — again, with elements both of place and dynamics. It’s interesting to be conscious of the fact that when I say “kaizen” in English, that it evokes an almost magical and powerful omen of superb excellence and attentiveness, while in Japanese it just means “getting better.” Such realizations call for major changes in my rhetoric. But most of these realizations allow me to tap into the deep but subtle distinctions between European and Japanese culture: competition versus coopetition (at the enterprise level); autonomation versus automation (as in software testing). One of my own greatest learnings (from Harada-san, I think) was that “there is no Kaizen without Hansei.” Westerners tend to use the word more as a te deum, with a lot of energy and optimism the Japanese way, I would learn, is humility and concern to do the right thing (rather than viewing hansei as punishment). That is the Scrum way.
+#@# The Scrum courses were taught in Japanese through simultaneous translators. 
+#@# This is difficult for me, as it makes it a little more difficult for me 
+#@#   to “connect” with the audience. 
+#@# But somehow, it worked. 
+#@# I could feel the connection and I believe that the people “got it.”
+
+日本語で行うスクラム研修は同時通訳者を通じて行われる。
+これは私にとっては難しいし、参加者と「つながる」ことは、さらにちょっと難しい。
+しかし、なんと、うまくいった。
+私はつながりを感じることができたし、参加者の人々も「わかった」と信じている。
+
+#@# I have a sense that Scrum builds naturally on ideals 
+#@#   that were probably explicit to the attendees’ parents or grandparents, 
+#@#     in a less turbulent age, 
+#@#   and which still have latent echoes in the hearts 
+#@#     and minds of the folks attending the Scrum class. 
+#@# Jeff Sutherland was very much inspired by Buddhist meditation in the early 1960s, 
+#@#   and those roots figure strongly in the origins of Scrum. 
+#@# So my Japanese Scrum course offerings had a much different tone to them 
+#@#   than those I teach elsewhere. 
+#@# I could build on cultural concepts of not-separateness, 
+#@#   and on the notions of the Toyota work culture 
+#@#     with which even everyday Japanese were most certainly familiar. 
+#@# I could use familiar TPS terms like 無駄 and the more subtle 斑 and 無理. 
+#@# The wonderfully compressed word バ evokes the potential of moving into “flow” as a team 
+#@#   — again, with elements both of place and dynamics. 
+#@# It’s interesting to be conscious of the fact that when I say “kaizen” in English, 
+#@#   that it evokes an almost magical and powerful omen of superb excellence and attentiveness, 
+#@#   while in Japanese it just means “getting better.” 
+#@# Such realizations call for major changes in my rhetoric. 
+#@# But most of these realizations allow me to tap into the deep but subtle distinctions 
+#@#   between European and Japanese culture: 
+#@#     competition versus coopetition (at the enterprise level); 
+#@#     autonomation versus automation (as in software testing). 
+#@# One of my own greatest learnings (from Harada-san, I think) was that 
+#@#   “there is no Kaizen without Hansei.” 
+#@# Westerners tend to use the word more as a te deum, 
+#@#   with a lot of energy and optimism 
+#@#   the Japanese way, I would learn, 
+#@#     is humility and concern to do the right thing (rather than viewing hansei as punishment). 
+#@# That is the Scrum way.
+
+私は、スクラムというのは、
+おそらく参加者の親やそのさらに親の世代にとっての、いまよりは穏やかだった時代の理想が前提になっていると感じている。
+その理想はまだ参加者の人々の心に残っていて、
+その心を共有する仲間たちがスクラムの研修に参加しているのではないだろうか。
+ジェフサザーランドは1960年代前半に仏教の瞑想から多くのインスピレーションを得ていて、
+それはスクラムの源流として強く根を張っている。
+日本での私のスクラム研修は、他のどこで行うものとも大きく異なるトーンで行っている。
+非分断(not-separateness)という文化的概念と、
+多くの日本人がおそらく知っているであろう
+トヨタの職業文化の考え方の上にたって進める。
+そして、ムダ(無駄)・ムラ(斑)・ムリ(無理)といったトヨタの用語を使う。
+見事に集約された用語「場(バ)」は、場所と動きの両面で、チームの「フロー」体験を引き起こす可能性がある。
+私が英語で「kaizen」と発言すると、魔法のような力強さで、素晴らしい体験と注意力を向けてくれる。
+これは大変興味深い事実だ。日本語での意味は単に「よりよくする」に過ぎないのに。
+このように理解が進むにつれ、私の使う用語は大きく変化してきた。
+そして理解が進めば、欧州人と日本人の間の、深くて繊細な差異を垣間見ることができるようになる。
+競争か、強力か(企業レベルで)。
+自働化か、自動化か(ソフトウェアテストで)。
+最大の学びの一つが(おそらく原田さんから聞いたのだが)、
+「反省なしに改善なし」だ。
+西洋人はそれを「テ・デウム(te deum)」(訳注: 神を讃える、という意味のキリスト教用語)という言葉で表現し、
+多くのエネルギーと楽観主義を注いでそれを行う。
+日本人のやり方は、私が学んだ限りでは、謙虚に誠意をもって正しいことを行うのだ(反省を罰と考えるのではなく)。
+これがスクラムのやり方だ。
 
 But more deeply, the Japanese “have a deep cultural competence about being in relationship,” as Bob Stilger says. This shines through in words like バ and ky (“空気が読めない”). Both of these tie deeply into agile and its notions of group identity, of the importance of knowledge and of anticipation. It is difficult to express these notions so directly in English because they are not primary concepts in most of its cultures.
  This is one important signpost of why I have such high hopes for agile in Japan.
