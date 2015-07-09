@@ -1860,8 +1860,23 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 先進国の中でも独特かもしれないその足場を日々蝕んでいる。
 私が日本に来るようになったこの15年ちょっとの間にも、この足場の侵食を目の当たりにしてきた。
 
+#@# During this visit, 
+#@#   I would also talk about how to use organizational patterns 
+#@#     to improve one’s Scrum implementation. 
+#@# Organizational Patterns are a key pivot between the pattern world and the agile world. 
+#@# The pattern community principles of dignity for pattern authors, of wholeness and quality, 
+#@#    and of piecemeal growth were an unbelievably natural way 
+#@#      to express the mores of the emerging agile movement and its focus on people, 
+#@#        of Kaizen mind, and of incremental and iterative development.
 
-During this visit, I would also talk about how to use organizational patterns to improve one’s Scrum implementation. Organizational Patterns are a key pivot between the pattern world and the agile world. The pattern community principles of dignity for pattern authors, of wholeness and quality, and of piecemeal growth were an unbelievably natural way to express the mores of the emerging agile movement and its focus on people, of Kaizen mind, and of incremental and iterative development.
+今回の訪問では、
+それぞれのスクラムの実践を改善するために
+どのように組織パターンを使うかという講演も行った。
+組織パターンはパターン世界とアジャイル世界の間にある重要な回転軸だ。
+パターンコミュニティの原則である、パターン著者の尊厳、全体性と質、漸進的成長というのは、
+新たなアジャイルのムーブメントや人々にフォーカスする姿勢、
+改善マインド、インクリメンタルでイテレーティブな開発を表現するのに、
+信じられないほど自然な方法だ。
 
 Six weeks later in January 2011, Jeff Sutherland and his entourage would visit Japan for an event christened Innovation Sprint 2011. Jeff, of course, wanted to meet Nonaka-sensei. The meeting had been arranged by Kenji Hiranbe-san. The vision of this meeting had its roots in a discussion between Kenji-san and I several years earlier. I suppose that the entourage, like most Westerners, were drawn to Japan by its exotic nature, or maybe by the allure of a historic meeting of celebrities. I think that none of that entourage has since returned to serve Japan. But, of course, it worked the other way, too, because of the intense interest Japanese seem to have for foreign ideas.
 
