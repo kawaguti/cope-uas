@@ -1834,7 +1834,32 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 ほとんどの英語圏の文化において、こうした概念が存在しないからだ。
 こうした道標の存在が、私が日本におけるアジャイルに高い期待を寄せる理由になっている。
 
-In fact, after this class, one of the attendees gave me the highest compliment I think I have ever received. He told me: “You are here to remind us of who we are.” To me, that is a profound statement, exactly because the deepest parts of Scrum are those that owe to the Japanese culture. The ceremonies, the roles, and the artefacts are training wheels to bring people through the gate into the territory of the profound knowledge that was once the birthright of every Japanese. Modern times and the creeping Westernization of Japan are every day eroding Japan’s foothold on this plateau: a foothold that may be unique in the developed world. I have witnessed the erosion of this foothold even over the fifteen years I have been coming to Japan.
+#@# In fact, after this class, 
+#@#   one of the attendees gave me the highest compliment I think I have ever received. 
+#@# He told me: “You are here to remind us of who we are.” 
+#@# To me, that is a profound statement, 
+#@#   exactly because the deepest parts of Scrum are those that owe to the Japanese culture. 
+#@# The ceremonies, the roles, and the artefacts 
+#@#   are training wheels to bring people through 
+#@#     the gate into the territory of the profound knowledge 
+#@#       that was once the birthright of every Japanese. 
+#@#  Modern times and the creeping Westernization of Japan 
+#@#    are every day eroding Japan’s foothold on this plateau: 
+#@#      a foothold that may be unique in the developed world. 
+#@#  I have witnessed the erosion of this foothold even over the fifteen years 
+#@#    I have been coming to Japan.
+
+実際、研修が終わってから、
+参加者の一人が私がこれまででもらったなかでいちばんの褒め言葉をくれた。
+「あなたは私たちが何者であるかを思い出させてくれるためにここにきたのですね。」
+私にとっては、それは深い意味を持つ言葉だ。
+その通り、スクラムの最も深い部分は、日本文化からきたものだ。
+儀式(ceremonies)、ロール(roles)、生成物(artifacts)というのは、
+すべての日本人が生れながら持っている、深い知識の領域に至る門を通り抜けるための補助輪だ。
+近代化と西洋化が日本に忍び寄り、
+先進国の中でも独特かもしれないその足場を日々蝕んでいる。
+私が日本に来るようになったこの15年ちょっとの間にも、この足場の侵食を目の当たりにしてきた。
+
 
 During this visit, I would also talk about how to use organizational patterns to improve one’s Scrum implementation. Organizational Patterns are a key pivot between the pattern world and the agile world. The pattern community principles of dignity for pattern authors, of wholeness and quality, and of piecemeal growth were an unbelievably natural way to express the mores of the emerging agile movement and its focus on people, of Kaizen mind, and of incremental and iterative development.
 
