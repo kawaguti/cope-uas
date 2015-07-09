@@ -1815,8 +1815,24 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 日本人のやり方は、私が学んだ限りでは、謙虚に誠意をもって正しいことを行うのだ(反省を罰と考えるのではなく)。
 これがスクラムのやり方だ。
 
-But more deeply, the Japanese “have a deep cultural competence about being in relationship,” as Bob Stilger says. This shines through in words like バ and ky (“空気が読めない”). Both of these tie deeply into agile and its notions of group identity, of the importance of knowledge and of anticipation. It is difficult to express these notions so directly in English because they are not primary concepts in most of its cultures.
- This is one important signpost of why I have such high hopes for agile in Japan.
+#@# But more deeply, 
+#@#   the Japanese “have a deep cultural competence about being in relationship,” 
+#@#     as Bob Stilger says. 
+#@# This shines through in words like バ and ky (“空気が読めない”). 
+#@# Both of these tie deeply into agile and its notions of group identity, 
+#@#   of the importance of knowledge and of anticipation. 
+#@# It is difficult to express these notions so directly in English 
+#@#   because they are not primary concepts in most of its cultures.
+#@# This is one important signpost of why I have such high hopes for agile in Japan.
+
+そしてさらに、
+ボブ・スティルガー(Bob Stilger)がいうように、
+日本人は「人間関係において、深い文化的能力を持っている」。
+「場(バ)」と「空気が読めない(ky)」といった言葉からそれは伝わってくる。
+これはアジャイル、グループのアイデンティティ、知識重要、予測性といった考え方と深く関係している。
+こうした考え方を英語で直接表現するのは難しい。
+ほとんどの英語圏の文化において、こうした概念が存在しないからだ。
+こうした道標の存在が、私が日本におけるアジャイルに高い期待を寄せる理由になっている。
 
 In fact, after this class, one of the attendees gave me the highest compliment I think I have ever received. He told me: “You are here to remind us of who we are.” To me, that is a profound statement, exactly because the deepest parts of Scrum are those that owe to the Japanese culture. The ceremonies, the roles, and the artefacts are training wheels to bring people through the gate into the territory of the profound knowledge that was once the birthright of every Japanese. Modern times and the creeping Westernization of Japan are every day eroding Japan’s foothold on this plateau: a foothold that may be unique in the developed world. I have witnessed the erosion of this foothold even over the fifteen years I have been coming to Japan.
 
