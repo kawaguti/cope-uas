@@ -1957,11 +1957,25 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 オアフでは原田さんと会った。小さなグループを作って、組織パターンについて議論した。
 日本の製造業における車輪の軸受の複雑さについて。
 
-Harada-san is one of the more intriguing people I have met in Japan. 
-He is usually at ease with a smile on his face, relaxed, casual and familiar as an American. 
-But he has played a special role helping me reach deeper into the mechanics and subtleties of Japanese. 
-He can always stimulate my intellect and can sometimes move my soul. 
-One of the places we have come to spar regularly is at the annual Scrum PLoP meeting in Tisvildeleje, Denmark, where the world leaders of Scrum come together to build a body of literature giving a rationalized description of Scrum foundations — and the Japanese foundations are necessarily a large part of that.
+#@# Harada-san is one of the more intriguing people I have met in Japan. 
+#@# He is usually at ease with a smile on his face, relaxed, casual and familiar as an American. 
+#@# But he has played a special role helping me reach deeper 
+#@#   into the mechanics and subtleties of Japanese. 
+#@# He can always stimulate my intellect and can sometimes move my soul. 
+#@# One of the places we have come to spar regularly is 
+#@#   at the annual Scrum PLoP meeting in Tisvildeleje, Denmark, 
+#@#   where the world leaders of Scrum come together to build a body of literature 
+#@#     giving a rationalized description of Scrum foundations 
+#@#     — and the Japanese foundations are necessarily a large part of that.
+
+原田さんは私が日本で出会った中でも最も面白い人の一人だ。
+彼はアメリカ人のようにいつも微笑みを浮かべ、リラックスして、カジュアルで、親しみがある。
+しかし、彼は日本の仕組みや機微をより深く知ることにおいて、特別な役割を演じてくれている。
+彼は常に私の知性を刺激し、ときには私の魂をも動かす。
+私たちがいつもの掛け合いをしに行く場所の一つが、
+デンマークのティスヴィレライ(Tisvildeleje)で行われている年次のScrum PLoPだ。
+世界のスクラムのリーダーが集まって、スクラムの基本を記述した正式な文書を作る場所だ。
+そして、日本で培われた知識も必然的に大きな役割を担っている。
 
 I was eager to get to the Scrum Gathering. It would be my chance to meet Nonaka-sensei! This was exciting for me. As it turned out I almost didn’t get to meet him: we both had busy schedules, and the available time was short. My friend Kawaguchi-san had to re-arrange my whole visit schedule so that my time at the conference overlapped with Nonaka-sensei’s time there. And then at the conference it didn’t look like his schedule would allow us to meet, but Hiranabe-san worked a miracle and I had the honor of meeting the “grandfather of Scrum.” He struck me as fun and pleasant. He seemed more interested in my pattern background than in my position in the Scrum community, which immediately struck me odd. The reason was to be made clear in a few minutes.
 
