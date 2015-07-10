@@ -1878,7 +1878,30 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 改善マインド、インクリメンタルでイテレーティブな開発を表現するのに、
 信じられないほど自然な方法だ。
 
-Six weeks later in January 2011, Jeff Sutherland and his entourage would visit Japan for an event christened Innovation Sprint 2011. Jeff, of course, wanted to meet Nonaka-sensei. The meeting had been arranged by Kenji Hiranbe-san. The vision of this meeting had its roots in a discussion between Kenji-san and I several years earlier. I suppose that the entourage, like most Westerners, were drawn to Japan by its exotic nature, or maybe by the allure of a historic meeting of celebrities. I think that none of that entourage has since returned to serve Japan. But, of course, it worked the other way, too, because of the intense interest Japanese seem to have for foreign ideas.
+#@# Six weeks later in January 2011, 
+#@#   Jeff Sutherland and his entourage would visit Japan 
+#@#   for an event christened Innovation Sprint 2011. 
+#@# Jeff, of course, wanted to meet Nonaka-sensei. 
+#@# The meeting had been arranged by Kenji Hiranbe-san. 
+#@# The vision of this meeting had its roots in a discussion 
+#@#   between Kenji-san and I several years earlier. 
+#@# I suppose that the entourage, like most Westerners, were drawn to Japan by its exotic nature, 
+#@#   or maybe by the allure of a historic meeting of celebrities. 
+#@# I think that none of that entourage has since returned to serve Japan. 
+#@# But, of course, it worked the other way, too, 
+#@#   because of the intense interest Japanese seem to have for foreign ideas.
+
+6週間後の2011年1月、
+ジェフ・サザーランドとその一行がイノベーションスプリント2011と名付けられたイベントのために
+日本を訪れた。
+もちろんジェフは、野中先生に会うことを望んでいた。
+この邂逅は平鍋健児さんによって設定されたものだ。
+そのビジョンは、健児さんと私の間で数年前に議論したことが元にある。
+彼ら一行は、他の西洋人と同様に、日本のエキゾチックな自然に心惹かれ、
+著名人たちの歴史的な邂逅に魅了されたに違いない。
+その一行のなかで、日本にもう一度戻ってなにかをした人はいないと思うが。
+しかし、もちろん他の効果もあった。
+心を動かされた日本人が、海外のアイデアを求め始めたようにみえるからだ。
 
 By late 2011 the Japanese pattern community started to realize that they could do more to build on their own culture and insights to create a new pattern community. 現場 PLoP started to take shape in the mind of Takeshi Kakeda-san with the broad support of the Japanese community. Here in mid-2013 I still see it making strong appearances on Facebook.
 
