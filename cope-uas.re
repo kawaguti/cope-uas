@@ -2174,7 +2174,9 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 彼の答えはためになった。
 彼らの副社長が個人的に全ての契約をレビューしてサインしているから、彼らは100%アジャイルなのだそうだ。
 
-I knew it would be a long evening.
+#@# I knew it would be a long evening.
+
+その夜はとても長い夜になった。
 
 The dialog that evening was being transcribed for publication as an “interview with the experts,” and indeed there were a number of prominent people around the table, including my friend Kawaguchi-san, and a dear, trusted friend who was to write up the interview. There were a number of additional claims made about agile over the course of the evening, none quite as strange as that for reviewing the contracts, and I carefully responded to each one in a way that showed the lack of agility in each one. The dialog became contentious, perhaps after a bit too much sake, and at one point this same guy from the other company (and who was not a native Japanese) was yelling at the top of his voice, spitting insults across the table and violently justifying his position. It was all the standard Western justifications without an ounce of Japanese soul.
 
