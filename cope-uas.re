@@ -2062,7 +2062,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 ボーランドの論文からアイデアを取り込んで、チームの超高生産性の可能性について触れられていた。
 
 
-Fun with Scrum
+#@# = Fun with Scrum
+= スクラムを楽しむ
 
 My own talk at the Scrum Gathering would be about certification — the research showing that it has little value, serious problems in its implementation, differences between Canadian and Japanese attitudes about learning from evaluation instruments, and my response to the certification craze — called Scrum Knowsy. They would probably have run me out of town on a rail had I given this in any Scrum-happy city in the USA, but I think the Japanese just took the talk in stride.
 
