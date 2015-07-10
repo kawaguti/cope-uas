@@ -2100,9 +2100,42 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 私も、他の西洋人たちと一緒にホストがイベントをアレンジしてくれている、
 「スクラムのために訪問している人」だったからだ。
 
-I slowly discovered that, first, most of them had come to Japan out of a strong commercial interest, and with a Western rather than Japanese outlook. These weren’t people who were practising agile. They weren’t people who were taking others by the hand to learn agile. They were selling agile. And they were selling it as tools and methods, rather than as the result of learning or dialog.
+#@# I slowly discovered that, first, 
+#@#   most of them had come to Japan out of a strong commercial interest, 
+#@#     and with a Western rather than Japanese outlook. 
+#@# These weren’t people who were practising agile. 
+#@# They weren’t people who were taking others by the hand to learn agile. 
+#@# They were selling agile. 
+#@# And they were selling it as tools and methods, 
+#@#   rather than as the result of learning or dialog.
 
-I had long predicted that this day would come in Japan. I had seen the same thing happen in Israel several years ago as I tried to support that market in rolling out disciplined Scrum teams that would focus on the two core Scrum foundations, that are the same that Toyota used to re-define TPS in 2001: people, and Kaizen mind. Now, Scrum had come far enough to become a lucrative market. I was saddened in talking to these people. I didn’t see their eyes shine with the passion of doing great things. It was all about business.
+私はゆっくりと理解した。
+彼らのほとんどは強い商業的関心によって日本に来ており、
+日本ではなく西洋の視点で来ていたということだ。
+彼らはアジャイルを実践していなかった。
+彼らはアジャイルを学ぶよう、人々の手を取っているのではなかった。
+そして、彼らは学習でも対話でもなく、ツールや方法論を売っていた。
+
+#@# I had long predicted that this day would come in Japan. 
+#@# I had seen the same thing happen in Israel several years ago 
+#@#   as I tried to support that market in rolling out disciplined Scrum teams 
+#@#     that would focus on the two core Scrum foundations, 
+#@#     that are the same that Toyota used to re-define TPS in 2001: people, and Kaizen mind. 
+#@# Now, Scrum had come far enough to become a lucrative market. 
+#@# I was saddened in talking to these people. 
+#@# I didn’t see their eyes shine with the passion of doing great things. 
+#@# It was all about business.
+
+私は以前から日本にもこういう日が来ることを予見していた。
+私は同じことがイスラエルでも数年前に起きたのを見てきた。
+規律を持ったスクラムチームを作ろうと、イスラエル市場を支援しようとしたときだ。
+スクラムの２つの中核的な基盤であり、
+トヨタが2011年にTPS(訳注: トヨタ生産システム)を再定義した際に重視したのも同じものだ。
+すなわち、人々(people)と改善マインド(Kaizen mind)である。
+現在、スクラムはすっかり十分にお金が儲かるマーケットになった。
+私はそういう人々と話すと悲しい気持ちになる。
+私は素晴らしいことをやろうという情熱にめを輝かせている人を見れいな。
+すべては商売なのだ。
 
 At one of these dinners I was with people from a prominent company vying to get into the agile space. One of them, who worked at an overseas office of the company, proudly said that they were 100% agile. I first played inquisitive and asked him if he had instead looked at something meaningful like Scrum instead. To me, agile is only a discussion platform: it is a thin veneer that software people layered on top of the Scrum practices eight years into its development, briefly considered in a coming together of a group of men over a few days in isolation. The power lies not just in self-organization and feedback — which is what all of agile boils down to — but in the never-ending un-peeling of the Toyota Way onion, often called “Lean” in the Western world. His answer was instructive: they were 100% agile because their vice-president personally reviewed every contract they signed.
 
