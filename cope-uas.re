@@ -1941,7 +1941,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# == 2013 Scrum Gathering
 == 2013 スクラムギャザリング
 
-My dear friend Miho-san sent me an invitation in May 2012 to speak at the Scrum Gathering in Tokyo, which was to take place in January 2013.
+My dear friend Miho-san sent me an invitation in May 2012 to speak 
+  at the Scrum Gathering in Tokyo, which was to take place in January 2013.
 
 I made a slow enjoyable journey from Denmark to Japan, stopping in Chicago, San Francisco, Oahu, and Kaw’ai on the way. In Oahu I met up with Harada-san, who was one of a small group who had gathered there to discuss organizational patterns. ... Complexity in the roller bearings of Japanese manufacturing.
 
