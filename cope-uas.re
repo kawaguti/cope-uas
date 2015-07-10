@@ -1941,12 +1941,27 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# == 2013 Scrum Gathering
 == 2013 スクラムギャザリング
 
-My dear friend Miho-san sent me an invitation in May 2012 to speak 
-  at the Scrum Gathering in Tokyo, which was to take place in January 2013.
+#@# My dear friend Miho-san sent me an invitation in May 2012 to speak 
+#@#   at the Scrum Gathering in Tokyo, which was to take place in January 2013.
 
-I made a slow enjoyable journey from Denmark to Japan, stopping in Chicago, San Francisco, Oahu, and Kaw’ai on the way. In Oahu I met up with Harada-san, who was one of a small group who had gathered there to discuss organizational patterns. ... Complexity in the roller bearings of Japanese manufacturing.
+親愛なる友人の美穂さんが2012年3月に、2013年1月に開催されるスクラムギャザリング東京の講演の招待を送ってくれた。
 
-Harada-san is one of the more intriguing people I have met in Japan. He is usually at ease with a smile on his face, relaxed, casual and familiar as an American. But he has played a special role helping me reach deeper into the mechanics and subtleties of Japanese. He can always stimulate my intellect and can sometimes move my soul. One of the places we have come to spar regularly is at the annual Scrum PLoP meeting in Tisvildeleje, Denmark, where the world leaders of Scrum come together to build a body of literature giving a rationalized description of Scrum foundations — and the Japanese foundations are necessarily a large part of that.
+#@# I made a slow enjoyable journey from Denmark to Japan, stopping in Chicago, San Francisco, 
+#@#   Oahu, and Kaw’ai on the way. 
+#@# In Oahu I met up with Harada-san, 
+#@#   who was one of a small group who had gathered there to discuss organizational patterns. 
+#@# ... Complexity in the roller bearings of Japanese manufacturing.
+
+デンマークから日本まで、途中シカゴ、サンフランシスコ、オアフ、カウアイを経由する、
+ゆったりとした楽しい旅だった。
+オアフでは原田さんと会った。小さなグループを作って、組織パターンについて議論した。
+日本の製造業における車輪の軸受の複雑さについて。
+
+Harada-san is one of the more intriguing people I have met in Japan. 
+He is usually at ease with a smile on his face, relaxed, casual and familiar as an American. 
+But he has played a special role helping me reach deeper into the mechanics and subtleties of Japanese. 
+He can always stimulate my intellect and can sometimes move my soul. 
+One of the places we have come to spar regularly is at the annual Scrum PLoP meeting in Tisvildeleje, Denmark, where the world leaders of Scrum come together to build a body of literature giving a rationalized description of Scrum foundations — and the Japanese foundations are necessarily a large part of that.
 
 I was eager to get to the Scrum Gathering. It would be my chance to meet Nonaka-sensei! This was exciting for me. As it turned out I almost didn’t get to meet him: we both had busy schedules, and the available time was short. My friend Kawaguchi-san had to re-arrange my whole visit schedule so that my time at the conference overlapped with Nonaka-sensei’s time there. And then at the conference it didn’t look like his schedule would allow us to meet, but Hiranabe-san worked a miracle and I had the honor of meeting the “grandfather of Scrum.” He struck me as fun and pleasant. He seemed more interested in my pattern background than in my position in the Scrum community, which immediately struck me odd. The reason was to be made clear in a few minutes.
 
