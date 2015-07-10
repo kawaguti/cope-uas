@@ -2065,7 +2065,23 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# = Fun with Scrum
 = スクラムを楽しむ
 
-My own talk at the Scrum Gathering would be about certification — the research showing that it has little value, serious problems in its implementation, differences between Canadian and Japanese attitudes about learning from evaluation instruments, and my response to the certification craze — called Scrum Knowsy. They would probably have run me out of town on a rail had I given this in any Scrum-happy city in the USA, but I think the Japanese just took the talk in stride.
+#@# My own talk at the Scrum Gathering would be about certification 
+#@#   — the research showing that it has little value, 
+#@#   serious problems in its implementation, 
+#@#   differences between Canadian and Japanese attitudes about learning from evaluation instruments,
+#@#   and my response to the certification craze — called Scrum Knowsy. 
+#@# They would probably have run me out of town on a rail had I given this 
+#@#   in any Scrum-happy city in the USA, 
+#@#   but I think the Japanese just took the talk in stride.
+
+スクラムギャザリングでの私のトークは認定資格についてのものだった。
+ある研究によるとその価値は少なく、
+その実装には深刻な問題がある。
+カナダ人と日本人では、評価を受けた結果の学習態度への影響は差がある。
+そこで私の認定資格への対案は、Scrum Knowsyというソフトウェアだ。
+この話をアメリカのスクラムに好意的な都市で話せば、
+私を町の外につまみだすかもしれないが、
+日本人は私の話を聞いてくれるだろうと考えている。
 
 
 Battle
