@@ -196,17 +196,17 @@
 たとえば、ラルフ・ジョンソン(Ralph Johnson)やジョン・ブリサイズ(John Vlissides)といった人々だ。
 だが、アジャイル原則で、彼らの名前をみることはなかった。
 
- #@# My interest in patterns and Japan together isn’t incidental. 
- #@# When I first met Christopher Alexander face-to-face in 1996 
- #@#   I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. 
- #@# He responded, “Well, yes: isn’t it obvious?” 
- #@# And through what my Japanese friends taught me, 
- #@#   I would take several steps forward toward understanding these links more deeply. 
- #@# One of the Do Kyo cues from Alexander’s writing was his use of the phrase 
- #@#   “The Quality Without a Name.” 
- #@# In Japanese they call it “無名の質.” 
- #@# To the European ear, “無” sounds like “ム”. 
- #@# This “ム” would become a recurring playmate in my Japanese journey.
+#@# My interest in patterns and Japan together isn’t incidental. 
+#@# When I first met Christopher Alexander face-to-face in 1996 
+#@#   I asked him about the apparent resonance between The Timeless Way of Building and the Do Kyo. 
+#@# He responded, “Well, yes: isn’t it obvious?” 
+#@# And through what my Japanese friends taught me, 
+#@#   I would take several steps forward toward understanding these links more deeply. 
+#@# One of the Do Kyo cues from Alexander’s writing was his use of the phrase 
+#@#   “The Quality Without a Name.” 
+#@# In Japanese they call it “無名の質.” 
+#@# To the European ear, “無” sounds like “ム”. 
+#@# This “ム” would become a recurring playmate in my Japanese journey.
 
 パターンと日本に対して私の興味が同時期に沸き起こったのは偶然ではない。
 1996年にはじめてクリストファー・アレグザンダーに直接会ったとき、
@@ -764,14 +764,14 @@ IT業界の構造や、ここにある広範なコミュニティとだ。
 リンダ・ライジングもMensolePLoPを訪れ、
 東京に戻ってからも幾つかの講演を共にした。
 
- #@# Patterns were moving ever more in a human direction, 
- #@#   both for me and for Japan. 
- #@# What had started as a novel way to document slightly unconventional technical solutions 
- #@#   was finding new application in describing the organizational structures of the world of work. 
- #@# And a core set of people in Japan had started to see reflections of themselves 
- #@#   in the works of Christopher Alexander, and his worldview of wholeness, 
- #@#     of the natural processes of local adaptation of piecemeal growth, 
- #@#       and of the place of feeling in design.
+#@# Patterns were moving ever more in a human direction, 
+#@#   both for me and for Japan. 
+#@# What had started as a novel way to document slightly unconventional technical solutions 
+#@#   was finding new application in describing the organizational structures of the world of work. 
+#@# And a core set of people in Japan had started to see reflections of themselves 
+#@#   in the works of Christopher Alexander, and his worldview of wholeness, 
+#@#     of the natural processes of local adaptation of piecemeal growth, 
+#@#       and of the place of feeling in design.
 
 パターンの活動は私と日本の両方で、さらに様々な方向に広がっていた。
 それまでになかった技術的な解決策を文書化する新しい方法としてはじまったが、
@@ -2007,7 +2007,27 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 私はびっくりした。
 その理由はその後数分で明らかになる。
 
-His talk moved me deeply. As had been his tradition for many years, Harada-san provided discrete simultaneous translation. Though it was in Japanese, with Harada-san’s help I could follow enough of it to grasp the key ideas. He repeatedly reduced dichotomies to unities: “mind” and “body” to “embodied mind,” for example, and showed how the principles we know behind Scrum exemplify these unities. That tapped deeply into the Buddhist roots of Japanese culture, of Scrum, and of my own experience, and I was touched.
+#@# His talk moved me deeply. 
+#@# As had been his tradition for many years, 
+#@#   Harada-san provided discrete simultaneous translation.
+#@# Though it was in Japanese, with Harada-san’s help 
+#@#   I could follow enough of it to grasp the key ideas. 
+#@# He repeatedly reduced dichotomies to unities: 
+#@#   “mind” and “body” to “embodied mind,” for example, 
+#@#   and showed how the principles we know behind Scrum exemplify these unities. 
+#@# That tapped deeply into the Buddhist roots of Japanese culture, 
+#@#   of Scrum, and of my own experience, and I was touched.
+
+彼の講演は深く私の胸を打った。
+何年にもわたる彼の経歴の話に、
+原田さんが私専用の同時通訳をつけてくれた。
+その講演は日本語であったが、原田さんの手助けによって、
+  私はその主要なポイントをつかみ、十分ついていくことができた。
+彼は繰り返し、二分法を排除して、一つに統一した。
+例えば、「心(mind)」と「身体(body)」は「身体を持った心(embodied mind)」などだ。
+そして、スクラムの背後にある原則が、そうした統一をもたらすということを示した。
+日本文化の源流には仏教があり、スクラムや私の体験の源流でもあるというを深く思い起こさせた。
+
  But what touched me the most deeply was that his slide about the history of Scrum — created jointly with Hiranabe-san — actually mentioned the article I wrote in Dr. Dobb’s Journal that had inspired Jeff Sutherland-san to incorporate daily meetings into Scrum! I think there are several things that Nonaka-sensei finds delightful in how Scrum has built on his ideas. He mentioned iterative development as an obviously good approach that had eluded him. I think that the idea of the daily meeting, where the team continuously updates its work plan, might be another one of these extensions. His slide shows the Borland paper as being the next step of progress towards Scrum after his famous New New Product Development Game article and his Knowledge Creating Company work, followed by Jeff Sutherland’s first Scrum sprint in 1993, and a second sprint in 1994 that incorporated the ideas from the Borland paper. In April I would discover an article by Jeff Sutherland that not only confirmed this sequence, but which accorded the team’s hyper-productive potential to the incorporation of the ideas from the Borland paper.
 
 
