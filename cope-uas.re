@@ -2137,7 +2137,42 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 私は素晴らしいことをやろうという情熱にめを輝かせている人を見れいな。
 すべては商売なのだ。
 
-At one of these dinners I was with people from a prominent company vying to get into the agile space. One of them, who worked at an overseas office of the company, proudly said that they were 100% agile. I first played inquisitive and asked him if he had instead looked at something meaningful like Scrum instead. To me, agile is only a discussion platform: it is a thin veneer that software people layered on top of the Scrum practices eight years into its development, briefly considered in a coming together of a group of men over a few days in isolation. The power lies not just in self-organization and feedback — which is what all of agile boils down to — but in the never-ending un-peeling of the Toyota Way onion, often called “Lean” in the Western world. His answer was instructive: they were 100% agile because their vice-president personally reviewed every contract they signed.
+#@# At one of these dinners I was with people from a prominent company vying 
+#@#   to get into the agile space. 
+#@# One of them, who worked at an overseas office of the company, 
+#@#   proudly said that they were 100% agile. 
+#@# I first played inquisitive 
+#@#   and asked him
+#@#     if he had instead looked at something meaningful like Scrum instead. 
+#@# To me, agile is only a discussion platform: 
+#@#   it is a thin veneer that software people layered on 
+#@#     top of the Scrum practices eight years into its development, 
+#@#     briefly considered in a coming together of a group of men 
+#@#     over a few days in isolation. 
+#@# The power lies not just in self-organization and feedback 
+#@#   — which is what all of agile boils down to — 
+#@#   but in the never-ending un-peeling of the Toyota Way onion, 
+#@#   often called “Lean” in the Western world. 
+#@# His answer was instructive: 
+#@#   they were 100% agile because their vice-president personally reviewed every contract they signed.
+
+ある晩、アジャイルに参入しようとしている有名な企業から来ている人たちと、
+夕食を共にした。
+その中の一人は、その企業の海外オフィスで働いていて、
+自分たちは100%アジャイルだと自信をもって言った。
+まずはその話に興味があるような態度を装って、
+  スクラム以外でスクラムほど意味のあるものはなにがあるか、と聞いてみた。
+私にとって、アジャイルは議論のプラットフォームだ。
+アジャイルは8年間スクラムが適用してきたプラクティスの上に、
+ソフトウェア開発の人々が被せた薄いベニヤ板にすぎない。
+ある男たちのグループが数日集まって、
+さっと考えただけのものだ。
+そのパワーはただ自己組織化やフィードバック(全てのアジャイルは煮詰めるとそれになる)、
+だけにあるのではない。
+西洋では「リーン」としばしば呼ばれる、
+終わることなく、剥けることもないトヨタウェイのオニオンの中にある。
+彼の答えはためになった。
+彼らの副社長が個人的に全ての契約をレビューしてサインしているから、彼らは100%アジャイルなのだそうだ。
 
 I knew it would be a long evening.
 
