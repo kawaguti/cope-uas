@@ -1823,7 +1823,6 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@#   of the importance of knowledge and of anticipation. 
 #@# It is difficult to express these notions so directly in English 
 #@#   because they are not primary concepts in most of its cultures.
-#@# This is one important signpost of why I have such high hopes for agile in Japan.
 
 そしてさらに、
 ボブ・スティルガー(Bob Stilger)がいうように、
@@ -1832,6 +1831,9 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 これはアジャイル、グループのアイデンティティ、知識重要、予測性といった考え方と深く関係している。
 こうした考え方を英語で直接表現するのは難しい。
 ほとんどの英語圏の文化において、こうした概念が存在しないからだ。
+
+#@# This is one important signpost of why I have such high hopes for agile in Japan.
+
 こうした道標の存在が、私が日本におけるアジャイルに高い期待を寄せる理由になっている。
 
 #@# In fact, after this class, 
@@ -1977,7 +1979,33 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 世界のスクラムのリーダーが集まって、スクラムの基本を記述した正式な文書を作る場所だ。
 そして、日本で培われた知識も必然的に大きな役割を担っている。
 
-I was eager to get to the Scrum Gathering. It would be my chance to meet Nonaka-sensei! This was exciting for me. As it turned out I almost didn’t get to meet him: we both had busy schedules, and the available time was short. My friend Kawaguchi-san had to re-arrange my whole visit schedule so that my time at the conference overlapped with Nonaka-sensei’s time there. And then at the conference it didn’t look like his schedule would allow us to meet, but Hiranabe-san worked a miracle and I had the honor of meeting the “grandfather of Scrum.” He struck me as fun and pleasant. He seemed more interested in my pattern background than in my position in the Scrum community, which immediately struck me odd. The reason was to be made clear in a few minutes.
+#@# I was eager to get to the Scrum Gathering. 
+#@# It would be my chance to meet Nonaka-sensei! 
+#@# This was exciting for me. 
+#@# As it turned out I almost didn’t get to meet him: 
+#@#   we both had busy schedules, and the available time was short. 
+#@# My friend Kawaguchi-san had to re-arrange my whole visit schedule 
+#@#   so that my time at the conference overlapped with Nonaka-sensei’s time there. 
+#@# And then at the conference it didn’t look like his schedule would allow us to meet, 
+#@#   but Hiranabe-san worked a miracle and I had the honor of meeting the “grandfather of Scrum.” 
+#@# He struck me as fun and pleasant. 
+#@# He seemed more interested in my pattern background than in my position in the Scrum community, 
+#@#   which immediately struck me odd. 
+#@# The reason was to be made clear in a few minutes.
+
+私はスクラムギャザリングに行くことを熱望した。
+野中先生に会うチャンスなのだ！
+とてもエキサイティングだ。
+しかし、もしかしたら会えないかもしれない、ということが途中でわかった。
+私たちはどちらも忙しいスケジュールを抱えていて、使える時間は短かった。
+友人である川口さんがスケジュール全体を調整してくれ、
+その結果カンファレンスで私と野中先生の時間を合わせることができた。
+カンファレンスでは私たちが会う時間を作るのは難しそうだったが、
+平鍋さんが奇跡のような調整をしてくれて、ついに私は「スクラムの祖父」に出会うことができた。
+楽しさと喜びが私の心を打った。
+野中先生は私のスクラムコミュニティでの立場より、パターンのバックグラウンドを持つことに興味を示したことに、
+私はびっくりした。
+その理由はその後数分で明らかになる。
 
 His talk moved me deeply. As had been his tradition for many years, Harada-san provided discrete simultaneous translation. Though it was in Japanese, with Harada-san’s help I could follow enough of it to grasp the key ideas. He repeatedly reduced dichotomies to unities: “mind” and “body” to “embodied mind,” for example, and showed how the principles we know behind Scrum exemplify these unities. That tapped deeply into the Buddhist roots of Japanese culture, of Scrum, and of my own experience, and I was touched.
  But what touched me the most deeply was that his slide about the history of Scrum — created jointly with Hiranabe-san — actually mentioned the article I wrote in Dr. Dobb’s Journal that had inspired Jeff Sutherland-san to incorporate daily meetings into Scrum! I think there are several things that Nonaka-sensei finds delightful in how Scrum has built on his ideas. He mentioned iterative development as an obviously good approach that had eluded him. I think that the idea of the daily meeting, where the team continuously updates its work plan, might be another one of these extensions. His slide shows the Borland paper as being the next step of progress towards Scrum after his famous New New Product Development Game article and his Knowledge Creating Company work, followed by Jeff Sutherland’s first Scrum sprint in 1993, and a second sprint in 1994 that incorporated the ideas from the Borland paper. In April I would discover an article by Jeff Sutherland that not only confirmed this sequence, but which accorded the team’s hyper-productive potential to the incorporation of the ideas from the Borland paper.
