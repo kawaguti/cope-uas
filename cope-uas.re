@@ -2087,7 +2087,18 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# = Battle
 = Battle
 
-There were many more westerners at the Scrum Gathering this year than I’ve seen around Scrum events in the past. I guess that makes sense, as community members try to support these events with their attendance, and use them as platforms to talk about their latest thoughts or ideas. Because I was a “visiting Scrum guy” our hosts arranged several social events that brought me together with these other Westerners.
+#@# There were many more westerners at the Scrum Gathering this year than 
+#@#   I’ve seen around Scrum events in the past. 
+#@# I guess that makes sense, as community members try to support these events with their attendance,
+#@#   and use them as platforms to talk about their latest thoughts or ideas. 
+#@# Because I was a “visiting Scrum guy” our hosts arranged several social events 
+#@#   that brought me together with these other Westerners.
+
+その年のスクラムギャザリングにはそれまでのスクラムのイベントに比べて多くの西洋人がいた。
+私にはよくわかる。コミュニティの人々がこうしたイベントに参加することを通じて支援し、
+彼らの最新の考えやアイデアを話すプラットフォームとして利用しているのだ。
+私も、他の西洋人たちと一緒にホストがイベントをアレンジしてくれている、
+「スクラムのために訪問している人」だったからだ。
 
 I slowly discovered that, first, most of them had come to Japan out of a strong commercial interest, and with a Western rather than Japanese outlook. These weren’t people who were practising agile. They weren’t people who were taking others by the hand to learn agile. They were selling agile. And they were selling it as tools and methods, rather than as the result of learning or dialog.
 
