@@ -1903,7 +1903,18 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 しかし、もちろん他の効果もあった。
 心を動かされた日本人が、海外のアイデアを求め始めたようにみえるからだ。
 
-By late 2011 the Japanese pattern community started to realize that they could do more to build on their own culture and insights to create a new pattern community. 現場 PLoP started to take shape in the mind of Takeshi Kakeda-san with the broad support of the Japanese community. Here in mid-2013 I still see it making strong appearances on Facebook.
+#@# By late 2011 the Japanese pattern community started to realize 
+#@#   that they could do more to build on their own culture and insights 
+#@#     to create a new pattern community. 
+#@# 現場 PLoP started to take shape in the mind of Takeshi Kakeda-san 
+#@#   with the broad support of the Japanese community. 
+#@# Here in mid-2013 I still see it making strong appearances on Facebook.
+
+2011年の終わりに日本人のパターンコミュニティは
+自分たち自身の文化と見識に基づいたパターンを作るべく、
+新しいパターンコミュニティを作った。
+現場PLoPは懸田剛さんの思いと、幅広い日本のコミュニティの協力で形作られはじめた。
+2013年の中旬の現在でもFacebook上に力強く存在している。
 
 I would return again in January 2012 to do a whirlwind Scrum tour through Osaka and Tokyo, spending the time together with my friend Yasunobu-san, who hosted me. This would also be the first time I had the pleasure of meeting Hosotani-san, whom you probably know if you are reading this! Eighteen people came to a full-day course in Tokyo on Scrum Organizational Patterns, including Miho-san, and a man whose face had become so familiar from many meetings together that I began to feel some collegiality with him — Makoto Takaesu. Kakutani-san, Yukei Wachi-san, and Harada-san helped out, coached people in the exercises, and helped with translation where necessary. 
 
