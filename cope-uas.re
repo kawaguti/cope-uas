@@ -1916,7 +1916,26 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 現場PLoPは懸田剛さんの思いと、幅広い日本のコミュニティの協力で形作られはじめた。
 2013年の中旬の現在でもFacebook上に力強く存在している。
 
-I would return again in January 2012 to do a whirlwind Scrum tour through Osaka and Tokyo, spending the time together with my friend Yasunobu-san, who hosted me. This would also be the first time I had the pleasure of meeting Hosotani-san, whom you probably know if you are reading this! Eighteen people came to a full-day course in Tokyo on Scrum Organizational Patterns, including Miho-san, and a man whose face had become so familiar from many meetings together that I began to feel some collegiality with him — Makoto Takaesu. Kakutani-san, Yukei Wachi-san, and Harada-san helped out, coached people in the exercises, and helped with translation where necessary. 
+#@# I would return again in January 2012 to do a whirlwind Scrum tour through Osaka and Tokyo, 
+#@#   spending the time together with my friend Yasunobu-san, who hosted me. 
+#@# This would also be the first time I had the pleasure of meeting Hosotani-san, 
+#@#   whom you probably know if you are reading this! 
+#@# Eighteen people came to a full-day course in Tokyo on Scrum Organizational Patterns, 
+#@#   including Miho-san, 
+#@#   and a man whose face had become so familiar from many meetings together 
+#@#     that I began to feel some collegiality with him — Makoto Takaesu. 
+#@# Kakutani-san, Yukei Wachi-san, and Harada-san helped out, 
+#@#   coached people in the exercises, and helped with translation where necessary. 
+
+私は2012年1月にまた日本に戻り、大阪と東京の竜巻スクラムツアーを行った。
+友人の恭伸さんがホストしてくれ、共に時間を過ごした。
+この際は初めて細谷さん(Hosotani-san)と出会うことができた。
+この原稿を読んでいるあなたもきっと彼を知っているだろう！
+18人が東京でのスクラム組織パターン一日研修に参加してくれ、そこには美穂さんも含まれていた。
+そして、幾つもの会合で一緒になり、顔なじみになった彼、高江洲睦(Makoto Takaesu)と、
+徐々に同僚意識が芽生えてきた。
+角谷さん、和智右桂さん、原田さんが手助けしてくれ、
+人々がエクササイズを行うのをコーチし、必要なときは通訳をしてくれた。
 
 
 2013 Scrum Gathering
