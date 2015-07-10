@@ -1938,7 +1938,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 人々がエクササイズを行うのをコーチし、必要なときは通訳をしてくれた。
 
 
-2013 Scrum Gathering
+#@# == 2013 Scrum Gathering
+== 2013 スクラムギャザリング
 
 My dear friend Miho-san sent me an invitation in May 2012 to speak at the Scrum Gathering in Tokyo, which was to take place in January 2013.
 
