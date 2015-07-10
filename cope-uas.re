@@ -2084,7 +2084,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 日本人は私の話を聞いてくれるだろうと考えている。
 
 
-Battle
+#@# = Battle
+= Battle
 
 There were many more westerners at the Scrum Gathering this year than I’ve seen around Scrum events in the past. I guess that makes sense, as community members try to support these events with their attendance, and use them as platforms to talk about their latest thoughts or ideas. Because I was a “visiting Scrum guy” our hosts arranged several social events that brought me together with these other Westerners.
 
