@@ -2028,7 +2028,38 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 そして、スクラムの背後にある原則が、そうした統一をもたらすということを示した。
 日本文化の源流には仏教があり、スクラムや私の体験の源流でもあるというを深く思い起こさせた。
 
- But what touched me the most deeply was that his slide about the history of Scrum — created jointly with Hiranabe-san — actually mentioned the article I wrote in Dr. Dobb’s Journal that had inspired Jeff Sutherland-san to incorporate daily meetings into Scrum! I think there are several things that Nonaka-sensei finds delightful in how Scrum has built on his ideas. He mentioned iterative development as an obviously good approach that had eluded him. I think that the idea of the daily meeting, where the team continuously updates its work plan, might be another one of these extensions. His slide shows the Borland paper as being the next step of progress towards Scrum after his famous New New Product Development Game article and his Knowledge Creating Company work, followed by Jeff Sutherland’s first Scrum sprint in 1993, and a second sprint in 1994 that incorporated the ideas from the Borland paper. In April I would discover an article by Jeff Sutherland that not only confirmed this sequence, but which accorded the team’s hyper-productive potential to the incorporation of the ideas from the Borland paper.
+#@# But what touched me the most deeply was that his slide about the history of Scrum 
+#@#   — created jointly with Hiranabe-san — actually mentioned the article 
+#@#   I wrote in Dr. Dobb’s Journal 
+#@#   that had inspired Jeff Sutherland-san to incorporate daily meetings into Scrum! 
+#@# I think there are several things 
+#@#   that Nonaka-sensei finds delightful in how Scrum has built on his ideas. 
+#@# He mentioned iterative development as an obviously good approach that had eluded him. 
+#@# I think that the idea of the daily meeting, 
+#@#   where the team continuously updates its work plan, 
+#@#   might be another one of these extensions. 
+#@# His slide shows the Borland paper as being the next step of progress towards Scrum 
+#@#   after his famous New New Product Development Game article 
+#@#   and his Knowledge Creating Company work, 
+#@#   followed by Jeff Sutherland’s first Scrum sprint in 1993, 
+#@#   and a second sprint in 1994 that incorporated the ideas from the Borland paper. 
+#@# In April I would discover an article by Jeff Sutherland that not only confirmed this sequence, 
+#@#   but which accorded the team’s hyper-productive potential to the incorporation 
+#@#     of the ideas from the Borland paper.
+
+しかし、一番感動したのは、野中先生のスライドにあるスクラムの歴史だった。
+これは平鍋さんと共同で作られたもので、私が Dr. Dobb's Journal に投稿した記事についても触れられていた。
+ジェフサザーランドさんはこの論文の影響で、デイリーミーティングをスクラムに導入したのだ！
+野中先生は、先生のアイデアを元にスクラムが作った幾つかのものについて喜んでいたと思う。
+イテレーティブな開発は、彼は見逃していたが、明らかに良いアプローチだと言っていた。
+チーム自身が継続的に作業計画を更新するデイリーミーティングのアイデアも、
+先生のアイデアから拡張したものの一つだ。
+スライドではボーランドの論文(訳注: 著者ジム・コプリエンの論文)が、
+先生自身の有名な"New New Product Development Game"の論文と知識創造企業(Knowledge Creating Company)
+の次に掲載されていた。その次はジェフ・サザーランドの最初のスクラムスプリント(1993)で、
+1994年の第2スプリントでボーランドの論文からアイデアを取り入れている。
+4月にはジェフサザーランドの論文で、この順番が確認されただけでなく、
+ボーランドの論文からアイデアを取り込んで、チームの超高生産性の可能性について触れられていた。
 
 
 Fun with Scrum
