@@ -2206,7 +2206,25 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 大きな声で怒鳴り、テーブル越しに侮辱し、彼の立場を乱暴に正当化した。
 それはまったく標準的な西洋的な正当化であり、日本の魂は１オンスも入っていなかった。
 
-When the interview manuscript arrived for my review, all the words of one of the people at the table that night had been removed. Those were most of the silly claims about agile. It made the interview meaningless because half of the dialog was always missing. My dear friend, who was responsible for the interview, fixed the problem. She put the words back in but ascribed them to her lips instead of those of her ignorant boss. I came in my heart to painfully understand something of Japanese culture which before I had known only in my head: the power of authority, and the need for falling on one’s sword to let those in power save face.
+#@# When the interview manuscript arrived for my review, 
+#@#   all the words of one of the people at the table that night had been removed. 
+#@# Those were most of the silly claims about agile. 
+#@# It made the interview meaningless because half of the dialog was always missing. 
+#@# My dear friend, who was responsible for the interview, fixed the problem. 
+#@# She put the words back in but ascribed them to her lips instead of those of her ignorant boss. 
+#@# I came in my heart to painfully understand something of Japanese culture 
+#@#   which before I had known only in my head: the power of authority, 
+#@#     and the need for falling on one’s sword to let those in power save face.
+
+そのインタビューのレビュー用の書き起こし原稿が私の元に届いた時、
+あの夜テーブルにいた、ある一人の発言が全て削除されていた。
+それはアジャイルに対するもっとも愚かな主張だった。
+対話の半分がなくなってしまっており、すでにインタビューが無意味なものになっていた。
+そのインタビューの責任者でもあった、私の親愛なる友人は、自分で問題を解決した。
+すべての言葉を元に戻し、無知な上司ではなく、自分が発言したことにしたのだ。
+私の心は、痛みを伴いながら、日本文化のある側面を理解した。
+頭ではわかっていたのだが、権力についてだ。
+権力者の顔を立てるために誰かが進んで犠牲になる必要がある。
 
 After a discussion between my friend and her boss, the decision was made not to publish the interview.
 This wouldn’t have happened if the stakes for Scrum weren’t high. And they are. Jeff Sutherland tells me that Nonaka-sensei had asked him in January 2011, “Come, help me save Japan.” I want to continue to do my part, as I started when my love affair with Japan started in my youth and first blossomed in 1999.
