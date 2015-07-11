@@ -2272,7 +2272,24 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 #@# == Hope
 == 希望
 
-One of the greatest honors that ever befalls me is to write a foreword to a book. Miho Nagase-san wrote to me in December 2012 and asked me to write the foreword to the new book she had worked on together with Ryuzee Yoshiba and Naoto Nishimura: Scrum Boot Camp.  I felt very honored. My Japanese of course is very weak, but the book spoke to me in its pictures and in the humility of its message. I understood it beyond words and enthusiastically wrote the foreword. Miho-san was amazed at how my message had captured their own intent in the book, which made me more pleased.
+#@# One of the greatest honors that ever befalls me is to write a foreword to a book. 
+#@# Miho Nagase-san wrote to me in December 2012 and asked me to write the foreword to the new book 
+#@#   she had worked on together with Ryuzee Yoshiba and Naoto Nishimura: Scrum Boot Camp.  
+#@# I felt very honored. 
+#@# My Japanese of course is very weak, but the book spoke to me in its pictures 
+#@#   and in the humility of its message. 
+#@# I understood it beyond words and enthusiastically wrote the foreword. 
+#@# Miho-san was amazed at how my message had captured their own intent in the book, 
+#@#   which made me more pleased.
+
+これまでもらった中で、最も光栄なものの一つが、本の前書きを書くという栄誉だ。
+2012年12月に、永瀬美穂さんが彼女の新しい本への前書きを書いてくれないかと尋ねるメールをくれた。
+吉羽龍太郎(Ryuzee Yoshiba)と西村直人(Naoto Nishimura)と共に書いている『Scrum Boot Camp』だ。
+とても光栄に感じた。
+もちろん私の日本語はとても拙いが、この本は絵で、謙虚なメッセージを私に伝えてきた。
+私は言葉以上に理解し、熱い気持ちで前書きを書いた。
+美穂さんはその本のメッセージを私が受け取ったことに、びっくりしていた。
+そのことが、さらに私を嬉しい気持ちにさせた。
 
 The attitude of this book and of its authors, and the other agile leaders in Japan — like my good friends Kawaguchi-san and Harada-san — give me hope that the Japanese software community may indeed connect strongly with those cultural roots that they deeply share with patterns and with Scrum. It is a humble posture, rather than one of battle or politics. That somehow fits my stereotype of the dichotomies between Western and Japanese culture. Yes, Japanese culture also has its politics. As long as I have been traveling to Japan I have been able to catch occasional glimpses of them in spite of the polite Japanese attempts to insulate me from them.
 
