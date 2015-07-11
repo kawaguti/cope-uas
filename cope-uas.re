@@ -2473,7 +2473,21 @@ The Hiroが作ったメタファーはこうだ。
 あなたの足元以上の遠くを見過ぎないで欲しい。「住めば都」だ。
 本橋さんの「場」のビジョンをしつこく追いかけるのだ。
 
-Sp that is my story. Of course, it is not my story at all. It is your story. A story does not even have to be all true to be good, but I have made this one as true as one person can. I have had some help: Many thanks to Bas Vodde-san, Yoichi Hasegawa-san, and Kawaguchi-san for their comments on an earlier draft.
+#@# Sp that is my story. 
+#@# Of course, it is not my story at all. 
+#@# It is your story. 
+#@# A story does not even have to be all true to be good, 
+#@#   but I have made this one as true as one person can. 
+#@# I have had some help: Many thanks to Bas Vodde-san, Yoichi Hasegawa-san, 
+#@#   and Kawaguchi-san for their comments on an earlier draft.
+
+これは私のストーリーだ。
+もちろんすべて私のストーリーというわけではない。
+これはあなたのストーリーだ。
+ストーリーは、できれば全てが真実であるべきで、
+私は一個人としてそれに尽くしたつもりだ。
+何人かの助けを借りた。バス・ボッデさん(Bas Vodde-san)、長谷川洋一さん(Yoichi Hasegawa-san)、
+そして、川口さんに初期のドラフトについてコメントをいただいた。大きな感謝をここに述べたい。
 
 ム
 
