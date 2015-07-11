@@ -2226,8 +2226,23 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 頭ではわかっていたのだが、権力についてだ。
 権力者の顔を立てるために誰かが進んで犠牲になる必要がある。
 
-After a discussion between my friend and her boss, the decision was made not to publish the interview.
-This wouldn’t have happened if the stakes for Scrum weren’t high. And they are. Jeff Sutherland tells me that Nonaka-sensei had asked him in January 2011, “Come, help me save Japan.” I want to continue to do my part, as I started when my love affair with Japan started in my youth and first blossomed in 1999.
+#@# After a discussion between my friend and her boss, 
+#@#   the decision was made not to publish the interview.
+#@# This wouldn’t have happened if the stakes for Scrum weren’t high. 
+#@# And they are. 
+#@# Jeff Sutherland tells me that Nonaka-sensei had asked him in January 2011, 
+#@#   “Come, help me save Japan.” 
+#@# I want to continue to do my part, 
+#@#   as I started when my love affair with Japan started in my youth and first blossomed in 1999.
+
+友人とその上司のディスカッションの結果、
+そのインタビューは公開されないことになった。
+スクラムへの賭け金が高くなければ、そんなことは起こらなかっただろう。
+そして、彼らは高く賭けていたのだ。
+ジェフ・サザーランドは私に、野中先生が2011年1月に行ったことを教えてくれた。
+「日本にきて、日本を救うのを手伝ってほしい。」
+私は私の役割を続けたい。
+私の日本への恋愛は私の若い頃に始まり、最初に花開いたのは1999年だった。
 
 In 2012, Christopher Alexander published a book, “Battle,” about the construction of the school complex at Eishin. He describes the “natural” way of building as “World System A,” and the modern, business-oriented school as “World System B.” These two world systems evidenced themselves in battle at Eishin as it was being built. Agile in Japan has come to the point where the battle that Alexander fought together with Nakano-sensei back in ??? has now come to its legacy in the agile community, again in Japan, in 2013. So it will be in Japan as it has been elsewhere with Scrum: people clambering for certification rather than value, for compliance rather than innovation, and for profit rather than harmony and love. Scrum should be a 義理.
 
