@@ -2176,9 +2176,35 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 
 #@# I knew it would be a long evening.
 
-その夜はとても長い夜になった。
+とても長い夕べになることはわかっていた。
 
-The dialog that evening was being transcribed for publication as an “interview with the experts,” and indeed there were a number of prominent people around the table, including my friend Kawaguchi-san, and a dear, trusted friend who was to write up the interview. There were a number of additional claims made about agile over the course of the evening, none quite as strange as that for reviewing the contracts, and I carefully responded to each one in a way that showed the lack of agility in each one. The dialog became contentious, perhaps after a bit too much sake, and at one point this same guy from the other company (and who was not a native Japanese) was yelling at the top of his voice, spitting insults across the table and violently justifying his position. It was all the standard Western justifications without an ounce of Japanese soul.
+#@# The dialog that evening was being transcribed for publication 
+#@#   as an “interview with the experts,” 
+#@#   and indeed there were a number of prominent people around the table, 
+#@#   including my friend Kawaguchi-san, and a dear, trusted friend 
+#@#     who was to write up the interview. 
+#@# There were a number of additional claims made 
+#@#   about agile over the course of the evening, 
+#@#   none quite as strange as that for reviewing the contracts, 
+#@#     and I carefully responded to each one in a way 
+#@#       that showed the lack of agility in each one. 
+#@# The dialog became contentious, perhaps after a bit too much sake, 
+#@#   and at one point this same guy from the other company 
+#@#     (and who was not a native Japanese) was yelling at the top of his voice, 
+#@#     spitting insults across the table and violently justifying his position. 
+#@# It was all the standard Western justifications without an ounce of Japanese soul.
+
+その夜の対話は、「エキスパートへのインタビュー」として書き起こされている。
+何人かの優れた人々がそのテーブルにいた。
+友人の川口さんもいたし、もう一人このインタビューを書き起こしてくれた親愛なる、信頼できる友人もいた。
+夕食のコースのあいだも、アジャイルに関する主張の数々が続いたが、
+契約をレビューする話ほどのおかしなものはなかった。
+私は注意深く一つ一つに答えていった。
+どのようにそれぞれのやり方にアジリティが欠けているのかを。
+対話は喧嘩っぽくなり、そしてだんだん話題が多くなりすぎたのだろう。
+別の会社の似たような人(おそらくかれはネイティブの日本人ではないだろう)が、
+大きな声で怒鳴り、テーブル越しに侮辱し、彼の立場を乱暴に正当化した。
+それはまったく標準的な西洋的な正当化であり、日本の魂は１オンスも入っていなかった。
 
 When the interview manuscript arrived for my review, all the words of one of the people at the table that night had been removed. Those were most of the silly claims about agile. It made the interview meaningless because half of the dialog was always missing. My dear friend, who was responsible for the interview, fixed the problem. She put the words back in but ascribed them to her lips instead of those of her ignorant boss. I came in my heart to painfully understand something of Japanese culture which before I had known only in my head: the power of authority, and the need for falling on one’s sword to let those in power save face.
 
