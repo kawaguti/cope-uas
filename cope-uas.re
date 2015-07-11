@@ -2335,10 +2335,23 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 彼は日本のパターン推進をリードしている。
 剛さんとも2010年のイベントから知り合いで、DCIについてからが興味を持ったところからだ。
 弘宜さんとも日本のパターンこユニティに早くから貢献している。
-「The Hirp」(訳注: 伊藤宏幸さん)は、2012年のスクラム研修で最初に登録してくれた人だ。
+「The Hiro」(訳注: 伊藤宏幸さん)は、2012年のスクラム研修で最初に登録してくれた人だ。
 それ以前に、2011年8月からTwitterでフォローしてくれていた。
 
-Several years ago I had earned the nickname of “Incubator” after the Japanese anime character Kyubey, because of the effect I earned for twisting peoples’ minds. The Hiro created a metaphor wherein Madoka Kaname and her best friend Sayaka Miki were depicted as Scrum team members, Kyubey takes the role of an impediment, and Homura Akemi comes to the rescue as the ScrumMaster.
+#@# Several years ago I had earned the nickname of “Incubator” 
+#@#   after the Japanese anime character Kyubey, 
+#@#   because of the effect I earned for twisting peoples’ minds. 
+#@# The Hiro created a metaphor wherein Madoka Kaname and her best friend Sayaka Miki 
+#@#   were depicted as Scrum team members, Kyubey takes the role of an impediment, 
+#@#   and Homura Akemi comes to the rescue as the ScrumMaster.
+
+何年か前、私は「インキュベーター」というニックネームをもらった。
+日本のアニメキャラクター「キュウベエ」になぞらえている。
+私は人々の心を歪ませるという効果を与えてきたからだ。
+The Hiroが作ったメタファーはこうだ。
+鹿目まどかと彼女の親友である美樹さやかはスクラムチームのメンバーで、
+キュウベエは障害(impediment)であり、
+暁美ほむらはスクラムマスターとして、彼女たちを救いに来る。
 
 I remembered Miho-san’s passion and firm grounding in Scrum from the previous visit and, with Michiaki-san’s blessing, asked her to co-train with me. At the public course where we certified 42 people I was deeply honored to find myself working together with the best of the best in Scrum in Japan: again, my dear friend Yasunobu-san; Miho-san; Ryutaro Yoshiba-san; and Akiko Takahashi-san, who became dear to my heart when she supported the course on my previous visit.
 
