@@ -2452,7 +2452,26 @@ The Hiroが作ったメタファーはこうだ。
 活気ある一日と次の日の間にある「間」、すなわち仕事をしない時間、何もしない時間、について紹介したそうだ。
 日本人ならば「ム」の力を理解できると信じている。
 
-Both for those in the past who entered my heart in Takayama and Nikko, for those who are lighthouses for the community today, and for those who have fallen on their swords, I want to come back. It is about love and passion for a way of life and its further possibilities, about the beauty of the Japanese soul and way of life, and about doing great things in the world. Japan can lead the way, and I yearn to be part of that. Don’t look too far beyond your own shores:  “住めば都.” Cling to, and pursue, Motohashi-san’s vision of 場.
+#@# Both for those in the past who entered my heart in Takayama and Nikko, 
+#@#   for those who are lighthouses for the community today, 
+#@#   and for those who have fallen on their swords, 
+#@#   I want to come back. 
+#@# It is about love and passion for a way of life and its further possibilities,
+#@#   about the beauty of the Japanese soul and way of life, 
+#@#   and about doing great things in the world. 
+#@# Japan can lead the way, and I yearn to be part of that. 
+#@# Don’t look too far beyond your own shores:  “住めば都.” 
+#@# Cling to, and pursue, Motohashi-san’s vision of 場.
+
+過去に私の心をつかんだ高山と日光、
+そして今日の私の心の灯台であるコミュニティの人々、
+進んで自らを犠牲にする人々、
+私は戻ってきて、どれもまた会いたい。
+これは人生における愛と情熱について、そして、さらなる可能性、
+世界で素晴らしいことをする、という話だ。
+日本はこの先の道を導いていくことができる。私はその一部を担うことを熱望している。
+あなたの足元以上の遠くを見過ぎないで欲しい。「住めば都」だ。
+本橋さんの「場」のビジョンをしつこく追いかけるのだ。
 
 Sp that is my story. Of course, it is not my story at all. It is your story. A story does not even have to be all true to be good, but I have made this one as true as one person can. I have had some help: Many thanks to Bas Vodde-san, Yoichi Hasegawa-san, and Kawaguchi-san for their comments on an earlier draft.
 
