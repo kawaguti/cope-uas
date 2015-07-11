@@ -2434,9 +2434,23 @@ The Hiroが作ったメタファーはこうだ。
 
 日本のマーケットでは、ここ数年で初めて、1ドル100円をつけた。
 日本円が過大評価されてきた問題が解決されつつある。
-トヨタは絶頂にあり、その未来は明るい。
+トヨタは絶頂にあり、未来は明るい。
 
-I’d challenge the Japanese people to take Scrum and make it their own. As the Japanese are good at bringing ideas into their country from abroad and refining them, so you can take the ideas of patterns and Scrum which originated there and bring them back into the collective consciousness of your workplaces. Kiro Harada-san has already told me that some Scrum teams he knows have introduced a day of “間“ between Sprints — a time to not work, to do nothing. I think Japanese understand the power of this “ム“.
+#@# I’d challenge the Japanese people to take Scrum and make it their own. 
+#@# As the Japanese are good at bringing ideas into their country from abroad and refining them, 
+#@#   so you can take the ideas of patterns and Scrum which originated there 
+#@#     and bring them back into the collective consciousness of your workplaces. 
+#@# Kiro Harada-san has already told me that some Scrum teams he knows 
+#@#   have introduced a day of “間“ between Sprints — a time to not work, to do nothing. 
+#@# I think Japanese understand the power of this “ム“.
+
+私は日本の人々にスクラムを自分のものにしなさいと、けしかけてきた。
+日本人たちは自分の国に外国からアイデアを持ってきて、リファインすることに長けている。
+だからあなたたちは、日本を源流とするパターンとスクラムのアイデアを持ってきて、
+それぞれの職場の集合意識に持ち込むことができる。
+原田騎郎さんは、すでに幾つかのスクラムチームに
+活気ある一日と次の日の間にある「間」、すなわち仕事をしない時間、何もしない時間、について紹介したそうだ。
+日本人ならば「ム」の力を理解できると信じている。
 
 Both for those in the past who entered my heart in Takayama and Nikko, for those who are lighthouses for the community today, and for those who have fallen on their swords, I want to come back. It is about love and passion for a way of life and its further possibilities, about the beauty of the Japanese soul and way of life, and about doing great things in the world. Japan can lead the way, and I yearn to be part of that. Don’t look too far beyond your own shores:  “住めば都.” Cling to, and pursue, Motohashi-san’s vision of 場.
 
