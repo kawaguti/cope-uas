@@ -2400,9 +2400,22 @@ The Hiroが作ったメタファーはこうだ。
 
 そこにはまだ一文字残っている。その「間」は埋められるのを待っている。
 
-Epilog
+#@# == Epilog
+== エピローグ
 
-As of this writing I currently plan to return to Japan again in October of this year, and look forward to increasingly frequent visits in 2014 and beyond. My hope and prayer is to continue to work with the great people who are watering and nurturing the agile community in Japan. My reasons are sometimes a little selfish, because these are great learning opportunities for me.
+#@# As of this writing I currently plan to return to Japan again in October of this year, 
+#@#   and look forward to increasingly frequent visits in 2014 and beyond. 
+#@# My hope and prayer is to continue to work with the great people 
+#@#   who are watering and nurturing the agile community in Japan. 
+#@# My reasons are sometimes a little selfish, 
+#@#   because these are great learning opportunities for me.
+
+この文章を書きながら、私は今年10月に再び日本に戻る計画を立てている(訳注: この後、2014年10月に来日した)。
+そして、今後だんだんと日本に行く頻度が上がることを願っている。
+私の希望と願いは、日本のアジャイルコミュニティに水をまき、育てている、
+素晴らしい人々と引き続き仕事することだ。
+私が持っている理由は時として少し自己中心的だ。
+なぜなら、それは私にとって偉大な学びの機会だからだ。
 
 As I write this, the organizational patterns book is being translated into Japanese by Yukei Wachi and its publication is imminent.
 
