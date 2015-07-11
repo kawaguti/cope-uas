@@ -2269,7 +2269,8 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 イノベーションよりコンプライアンスを、調和と愛より利益を。
 スクラムは「義理」であるべきだ。
 
-Hope
+#@# == Hope
+== 希望
 
 One of the greatest honors that ever befalls me is to write a foreword to a book. Miho Nagase-san wrote to me in December 2012 and asked me to write the foreword to the new book she had worked on together with Ryuzee Yoshiba and Naoto Nishimura: Scrum Boot Camp.  I felt very honored. My Japanese of course is very weak, but the book spoke to me in its pictures and in the humility of its message. I understood it beyond words and enthusiastically wrote the foreword. Miho-san was amazed at how my message had captured their own intent in the book, which made me more pleased.
 
