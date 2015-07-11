@@ -2244,7 +2244,30 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 私は私の役割を続けたい。
 私の日本への恋愛は私の若い頃に始まり、最初に花開いたのは1999年だった。
 
-In 2012, Christopher Alexander published a book, “Battle,” about the construction of the school complex at Eishin. He describes the “natural” way of building as “World System A,” and the modern, business-oriented school as “World System B.” These two world systems evidenced themselves in battle at Eishin as it was being built. Agile in Japan has come to the point where the battle that Alexander fought together with Nakano-sensei back in ??? has now come to its legacy in the agile community, again in Japan, in 2013. So it will be in Japan as it has been elsewhere with Scrum: people clambering for certification rather than value, for compliance rather than innovation, and for profit rather than harmony and love. Scrum should be a 義理.
+#@# In 2012, Christopher Alexander published a book, 
+#@#   “Battle,” about the construction of the school complex at Eishin. 
+#@# He describes the “natural” way of building as “World System A,” 
+#@#   and the modern, business-oriented school as “World System B.” 
+#@# These two world systems evidenced themselves in battle at Eishin as it was being built. 
+#@# Agile in Japan has come to the point 
+#@#   where the battle that Alexander fought together with Nakano-sensei back in ??? 
+#@#     has now come to its legacy in the agile community, again in Japan, in 2013. 
+#@# So it will be in Japan as it has been elsewhere with Scrum: 
+#@#   people clambering for certification rather than value,  
+#@#   for compliance rather than innovation, 
+#@#     and for profit rather than harmony and love. 
+#@# Scrum should be a 義理.
+
+2012年に、クリストファー・アレグザンダーは一冊の本を出した。
+盈進学園の複合施設の建設について書いた『Battle』である。
+彼は「自然の」の建築方法を「世界システムA」、
+近代的な、ビジネス指向の建築を「世界システムB」と呼んだ。
+その２つの世界システムはそれぞれ盈進学園の建設中にその痕跡を残した。
+日本におけるアジャイルはアレグザンダーと中埜先生が当時共に戦ったのと同じポイントに差し掛かっている。
+アジャイルコミュニティに残された遺産が、再び日本で。2013年に。
+そう、スクラムに関しても、他の場所で起こってきたことが、日本でも起こるだろう。
+イノベーションよりコンプライアンスを、調和と愛より利益を。
+スクラムは「義理」であるべきだ。
 
 Hope
 
