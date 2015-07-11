@@ -2291,7 +2291,25 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 美穂さんはその本のメッセージを私が受け取ったことに、びっくりしていた。
 そのことが、さらに私を嬉しい気持ちにさせた。
 
-The attitude of this book and of its authors, and the other agile leaders in Japan — like my good friends Kawaguchi-san and Harada-san — give me hope that the Japanese software community may indeed connect strongly with those cultural roots that they deeply share with patterns and with Scrum. It is a humble posture, rather than one of battle or politics. That somehow fits my stereotype of the dichotomies between Western and Japanese culture. Yes, Japanese culture also has its politics. As long as I have been traveling to Japan I have been able to catch occasional glimpses of them in spite of the polite Japanese attempts to insulate me from them.
+#@# The attitude of this book and of its authors, and the other agile leaders in Japan 
+#@#   — like my good friends Kawaguchi-san and Harada-san — 
+#@#   give me hope that the Japanese software community may indeed connect strongly 
+#@#     with those cultural roots that they deeply share with patterns and with Scrum. 
+#@# It is a humble posture, rather than one of battle or politics. 
+#@# That somehow fits my stereotype of the dichotomies between Western and Japanese culture. 
+#@# Yes, Japanese culture also has its politics. 
+#@# As long as I have been traveling to Japan I have been able to catch occasional glimpses of them 
+#@#   in spite of the polite Japanese attempts to insulate me from them.
+
+この本とこの著者たち、また日本にいる他のアジャイルの指導者たち(良き友川口さんや原田さんのような)の姿勢は、
+私に日本のソフトウェアコミュニティは、
+パターンとスクラムが奥底で共有している文化的源流と、
+ほんとうに強く繋がっているかもしれないという希望をあたえてくれている。
+それは、戦いや政治ではなく、謙虚な姿勢だ。
+西洋と日本の文化の二分法という私のステレオタイプな思い込みをなんとか正してくれる。
+そう。日本文化にだって政治はあるのだ。
+私が日本を旅してきた間には、政治は偶然ちょっと見つける、という程度だった。
+礼儀正しい日本人の態度が、私を政治から隔離してくれていたにしてもだ。
 
 Also during my January 2013 visit to Japan, we did several Scrum courses, one at Rakuten, one at OGIS, and one public one. Yasunobu Kawaguchi-san and Hiroyui Ito-san worked with me on the Rakuten course. Hironori Washizaki, Takeshi Kakeda hosted the courses at OGIS. Behind all of these courses was Michiaki Taniguchi, my friend from München, whose company had sponsored the events. Washizaki-san, whoI already knew from Mensore PLoP in 2001, is leading the pattern effort in Japan. I already knew Takeshi-san from the 2010 event and from his interest in DCI, and Hironori-san from his early involvement with the Japan pattern community. “The Hiro” was the first person to sign up for my Scrum class back in 2012, but he had been following me on Twitter since August 2011.
 
