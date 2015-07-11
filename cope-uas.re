@@ -2424,7 +2424,9 @@ The Hiroが作ったメタファーはこうだ。
 私が書いた組織パターンの本が、和智右桂によって日本語に訳されつつある。
 出版はもうすぐだ。
 
-I have heard the great news that Ebacky has become a CST!
+#@# I have heard the great news that Ebacky has become a CST!
+
+エバッキーがCSTになったという素晴らしいニュースを聞いた！
 
 The Japan market hit 100 yen to the dollar for the first time is years. The problem with over-evaluation of the yen is solving itself. Toyota is at its peak and the future is bright.
 
