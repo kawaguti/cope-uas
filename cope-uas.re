@@ -2063,7 +2063,7 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 
 
 #@# = Fun with Scrum
-= スクラムを楽しむ
+== スクラムを楽しむ
 
 #@# My own talk at the Scrum Gathering would be about certification 
 #@#   — the research showing that it has little value, 
@@ -2085,7 +2085,7 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 
 
 #@# = Battle
-= Battle
+== Battle
 
 #@# There were many more westerners at the Scrum Gathering this year than 
 #@#   I’ve seen around Scrum events in the past. 
