@@ -2311,7 +2311,32 @@ Rubyは素早く、私がDCIを研究したり教えたりするときの、ナ�
 私が日本を旅してきた間には、政治は偶然ちょっと見つける、という程度だった。
 礼儀正しい日本人の態度が、私を政治から隔離してくれていたにしてもだ。
 
-Also during my January 2013 visit to Japan, we did several Scrum courses, one at Rakuten, one at OGIS, and one public one. Yasunobu Kawaguchi-san and Hiroyui Ito-san worked with me on the Rakuten course. Hironori Washizaki, Takeshi Kakeda hosted the courses at OGIS. Behind all of these courses was Michiaki Taniguchi, my friend from München, whose company had sponsored the events. Washizaki-san, whoI already knew from Mensore PLoP in 2001, is leading the pattern effort in Japan. I already knew Takeshi-san from the 2010 event and from his interest in DCI, and Hironori-san from his early involvement with the Japan pattern community. “The Hiro” was the first person to sign up for my Scrum class back in 2012, but he had been following me on Twitter since August 2011.
+#@# Also during my January 2013 visit to Japan, 
+#@#   we did several Scrum courses, one at Rakuten, 
+#@#   one at OGIS, and one public one. 
+#@# Yasunobu Kawaguchi-san and Hiroyui Ito-san worked with me on the Rakuten course. 
+#@# Hironori Washizaki, Takeshi Kakeda hosted the courses at OGIS. 
+#@# Behind all of these courses was Michiaki Taniguchi, my friend from München, 
+#@#   whose company had sponsored the events. 
+#@# Washizaki-san, who I already knew from Mensore PLoP in 2001, 
+#@#   is leading the pattern effort in Japan. 
+#@# I already knew Takeshi-san from the 2010 event and from his interest in DCI, 
+#@# 　　and Hironori-san from his early involvement with the Japan pattern community. 
+#@# “The Hiro” was the first person to sign up for my Scrum class back in 2012, 
+#@#   but he had been following me on Twitter since August 2011.
+
+2013年1月の日本訪問でも、
+私は幾つかのスクラム研修を行った。一つは楽天、一つはオージス総研(OGIS)、そしてオープンな研修。
+川口恭伸さんと伊藤宏幸さん(Hiroyui Ito-san)は楽天での研修を手伝ってくれた。
+鷲崎弘宜と懸田剛はオージス総研での研修をホストしてくれた。
+すべての研修の背後には谷口倫章がいる。ミュンヘンにいる友人だ。
+彼の会社はイベントのスポンサーもしている。
+鷲崎さんとは、2001年のMensore PLoPですでに知り合っていた。
+彼は日本のパターン推進をリードしている。
+剛さんとも2010年のイベントから知り合いで、DCIについてからが興味を持ったところからだ。
+弘宜さんとも日本のパターンこユニティに早くから貢献している。
+「The Hirp」(訳注: 伊藤宏幸さん)は、2012年のスクラム研修で最初に登録してくれた人だ。
+それ以前に、2011年8月からTwitterでフォローしてくれていた。
 
 Several years ago I had earned the nickname of “Incubator” after the Japanese anime character Kyubey, because of the effect I earned for twisting peoples’ minds. The Hiro created a metaphor wherein Madoka Kaname and her best friend Sayaka Miki were depicted as Scrum team members, Kyubey takes the role of an impediment, and Homura Akemi comes to the rescue as the ScrumMaster.
 
