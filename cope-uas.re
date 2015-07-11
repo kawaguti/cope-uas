@@ -2417,7 +2417,12 @@ The Hiroが作ったメタファーはこうだ。
 私が持っている理由は時として少し自己中心的だ。
 なぜなら、それは私にとって偉大な学びの機会だからだ。
 
-As I write this, the organizational patterns book is being translated into Japanese by Yukei Wachi and its publication is imminent.
+#@# As I write this, the organizational patterns book is being translated into Japanese 
+#@#   by Yukei Wachi and its publication is imminent.
+
+私がこれを書いている間にも、
+私が書いた組織パターンの本が、和智右桂によって日本語に訳されつつある。
+出版はもうすぐだ。
 
 I have heard the great news that Ebacky has become a CST!
 
