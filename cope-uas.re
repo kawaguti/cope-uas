@@ -2370,10 +2370,35 @@ The Hiroが作ったメタファーはこうだ。
 それは、繰り返しになるが、親愛なる友人の恭伸さん、美穂さん、吉羽龍太郎さん、高橋亜希子さんだ。
 高橋さんは前回の訪問で研修をサポートしてくれた時から、私の心の友となった。
 
-On the evening of the first day of the course I was invited to dinner with many of the agile folk from Japan. We returned to a restaurant that was familiar to me from a previous visit, and Miho-san was to be there both times. As we sat at the table, the authors of the Scrum Boot Camp book produced a pen, ink, and vellum, and demanded that I write the character ム on the vellum. The authors had been assembling “autographs” of people associated with the Japanese Scrum community, one letter at a time, to assemble a celebrity collage. So, in  "スクラム道," "ス" is Jonathan Rasmusson-san; "ラ" is Nonaka-sensei; "道" is Jeff Sutherland-san, and "ム" is me. This was a very proud moment for me.
+#@# On the evening of the first day of the course I was invited to dinner 
+#@#   with many of the agile folk from Japan. 
+#@# We returned to a restaurant that was familiar to me from a previous visit, 
+#@#   and Miho-san was to be there both times. 
+#@# As we sat at the table, the authors of the Scrum Boot Camp book 
+#@#   produced a pen, ink, and vellum, and demanded that I write the character ム on the vellum. 
+#@# The authors had been assembling “autographs” of people associated 
+#@#   with the Japanese Scrum community, 
+#@#   one letter at a time, to assemble a celebrity collage. 
+#@# So, in  "スクラム道," "ス" is Jonathan Rasmusson-san; "ラ" is Nonaka-sensei; 
+#@# "道" is Jeff Sutherland-san, and "ム" is me. 
+#@# This was a very proud moment for me.
 
-There is still one letter left to go. The 間 awaits it.
+研修1日目の夜、私は多くの日本のアジャイル仲間たちとの
+ディナーに招待された。
+私たちはあるレストランに行った。
+そこは前回の訪問でも行ったことがある馴染みの店で、美穂さんとは前回も一緒だった。
+テーブルに座ると、『Scrum Boot Camp』の著者たちが
+ペン、インク、色紙を取り出し、私に「ム」という文字を書いてほしいと要望した。
+その著者たちは、日本のスクラムコミュニティに協力してくれた人々の「サイン(autographs)」を組み上げてきたのだ。
+一度に一文字、著名人たちの文字を合成して一つのサインを作る。
+その結果、「スクラム道」には、
+ジョナサン・ラスマセンさん(Jonathan Rasmusson-san)の「ス」、
+野中先生の「ラ」、ジェフ・サザーランドさんの「道」、私の「ム」が入っている。
+これはとても光栄なひと時だった。
 
+#@# There is still one letter left to go. The 間 awaits it.
+
+そこにはまだ一文字残っている。その「間」は埋められるのを待っている。
 
 Epilog
 
