@@ -2434,7 +2434,7 @@ The Hiroが作ったメタファーはこうだ。
 
 日本のマーケットでは、ここ数年で初めて、1ドル100円をつけた。
 日本円が過大評価されてきた問題が解決されつつある。
-トヨタは絶頂にあり、未来は明るい。
+トヨタは絶頂にあり、その未来は明るい。
 
 I’d challenge the Japanese people to take Scrum and make it their own. As the Japanese are good at bringing ideas into their country from abroad and refining them, so you can take the ideas of patterns and Scrum which originated there and bring them back into the collective consciousness of your workplaces. Kiro Harada-san has already told me that some Scrum teams he knows have introduced a day of “間“ between Sprints — a time to not work, to do nothing. I think Japanese understand the power of this “ム“.
 
