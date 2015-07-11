@@ -2353,7 +2353,22 @@ The Hiroが作ったメタファーはこうだ。
 キュウベエは障害(impediment)であり、
 暁美ほむらはスクラムマスターとして、彼女たちを救いに来る。
 
-I remembered Miho-san’s passion and firm grounding in Scrum from the previous visit and, with Michiaki-san’s blessing, asked her to co-train with me. At the public course where we certified 42 people I was deeply honored to find myself working together with the best of the best in Scrum in Japan: again, my dear friend Yasunobu-san; Miho-san; Ryutaro Yoshiba-san; and Akiko Takahashi-san, who became dear to my heart when she supported the course on my previous visit.
+#@# I remembered Miho-san’s passion and firm grounding in Scrum from the previous visit and, 
+#@#   with Michiaki-san’s blessing, asked her to co-train with me. 
+#@# At the public course where we certified 42 people 
+#@#   I was deeply honored to find myself working together with the best of the best 
+#@#     in Scrum in Japan: 
+#@#       again, my dear friend Yasunobu-san; Miho-san; Ryutaro Yoshiba-san; 
+#@#       and Akiko Takahashi-san, who became dear to my heart 
+#@#       when she supported the course on my previous visit.
+
+前回の訪問に比べて、美穂さんの情熱とスクラムの堅牢な基礎知識が記憶に残った。
+倫章さんが彼女に私との共同研修を誘ってくれた。
+オープン研修では、私が42名の認定を行うことができ、
+日本におけるスクラムの最高の人々と働けたことを
+大変光栄に思っている。
+それは、繰り返しになるが、親愛なる友人の恭伸さん、美穂さん、吉羽龍太郎さん、高橋亜希子さんだ。
+高橋さんは前回の訪問で研修をサポートしてくれた時から、私の心の友となった。
 
 On the evening of the first day of the course I was invited to dinner with many of the agile folk from Japan. We returned to a restaurant that was familiar to me from a previous visit, and Miho-san was to be there both times. As we sat at the table, the authors of the Scrum Boot Camp book produced a pen, ink, and vellum, and demanded that I write the character ム on the vellum. The authors had been assembling “autographs” of people associated with the Japanese Scrum community, one letter at a time, to assemble a celebrity collage. So, in  "スクラム道," "ス" is Jonathan Rasmusson-san; "ラ" is Nonaka-sensei; "道" is Jeff Sutherland-san, and "ム" is me. This was a very proud moment for me.
 
